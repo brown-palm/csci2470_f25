@@ -17,8 +17,8 @@ title: Brown CS2952N Advanced Topics in Deep Learning
 tagline: course website
 description: Course website
 author: Chen Sun
-baseurl: '/index' # the subpath of your site, e.g. /blog
-url: 'https://brown-cs2952n.github.io/spring2022/' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/spring2022' # the subpath of your site, e.g. /blog
+url: 'https://brown-cs2952n.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
