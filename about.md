@@ -23,15 +23,14 @@ description: >-
 - Office hour: By appointment
 - Classroom: CIT 101 (Will change on the 3rd week)
 
-_In-class participation is required unless otherwise approved by the instructor._
-
-_Zoom link can be found in [course syllabus](https://docs.google.com/document/d/1ZD1yleR2QLsaJ1jIQ0M8NpKjzQquiVc3emE0F1cFzik/edit?usp=sharing)._
-
+_In-class participation is required unless otherwise approved by the instructor._  
+_Zoom link can be found in [course syllabus](https://docs.google.com/document/d/1ZD1yleR2QLsaJ1jIQ0M8NpKjzQquiVc3emE0F1cFzik/edit?usp=sharing)._  
 _Lectures will be recorded for asynchronous viewing, and livestreamed for students auditing._
 
 ## About
 
-Welcome to CSCI 2952N! This course aims at preparing graduate-level students the research knowledge they need to apply Deep Learning techniques for their own research. Over the past few years, there has been tremendous success in developing unified neural architectures that achieve state-of-the-art performance on language understanding (GPT-3), visual perception (ViT), and even protein structure prediction (AlphaFold). We plan to understand how they work, and how the success of such unified models can give rise to further developments on self-supervised learning, a technique that trains machine learning models without requiring labeled data; and multimodal learning, a technique that utilizes multiple input sources, such as vision, audio, and text. We will also study recent attempts to interpret these models, thus revealing potential risks on model bias. The course is organized as a combination of paper reading, student presentations, and invited guest lectures. It also requires the students to work on a final project that explores a novel direction they choose along the line of the papers we cover.
+Welcome to CSCI 2952N! This course aims at preparing graduate-level students the research knowledge they need to apply Deep Learning techniques for their own research. Over the past few years, there has been tremendous success in developing unified neural architectures that achieve state-of-the-art performance on language understanding (GPT-3), visual perception (ViT), and even protein structure prediction (AlphaFold). We plan to understand how they work, and how the success of such unified models can give rise to further developments on self-supervised learning, a technique that trains machine learning models without requiring labeled data; and multimodal learning, a technique that utilizes multiple input sources, such as vision, audio, and text. We will also study recent attempts to interpret these models, thus revealing potential risks on model bias.  
+The course is organized as a combination of paper reading, student presentations, and invited guest lectures. It also requires the students to work on a final project that explores a novel direction they choose along the line of the papers we cover.
 
 ## Learning Goals
 
@@ -50,6 +49,14 @@ We welcome other students to audit the class by:
 - Reading a subset of the research papers they find interesting, joining the in-class discussion for such papers (or post the questions on Ed for in-class discussion)
 - Participating in the final project presentations
 
+## Grading
+
+- 50% Final project
+- 20% In-class presentation
+- 30% Paper reading and participation
+
+For details please refer to the [syllabus](https://docs.google.com/document/d/1ZD1yleR2QLsaJ1jIQ0M8NpKjzQquiVc3emE0F1cFzik/edit?usp=sharing).
+
 
 ## Resources
 
@@ -59,14 +66,12 @@ We welcome other students to audit the class by:
 
 ## Academic Integrity & Collaboration Policy
 
-Academic dishonesty **will not be tolerated**. This includes cheating, lying about course matters, plagiarism, or helping others commit a violation. Plagiarism includes reproducing the words of others without both the use of quotation marks and citation. Students are reminded of the obligations and expectations associated with the Brown Academic and Student Conduct Codes.
-
+Academic dishonesty **will not be tolerated**. This includes cheating, lying about course matters, plagiarism, or helping others commit a violation. Plagiarism includes reproducing the words of others without both the use of quotation marks and citation. Students are reminded of the obligations and expectations associated with the Brown Academic and Student Conduct Codes.  
 Discussion of course material with your classmates is both permitted and encouraged. However, showing, copying, or other sharing of actual code or verbatim answers to written questions is forbidden. This policy **will** be enforced.
 
 ## Diversity & Inclusion
 
-Our intent is that this course provides a welcoming environment for all students who satisfy the prerequisites. Our TAs have undergone training in diversity and inclusion, and all members of the CS community, including faculty and staff, are expected to treat one another in a professional manner. If you feel you have not been treated in a professional manner by any of the course staff, please contact either the instructor, Ugur Cetintemel (Dept. Chair), Tom Doeppner (Vice Chair) or Laura Dobler (diversity & inclusion staff member). We will take all complaints about unprofessional behavior seriously.
-
+Our intent is that this course provides a welcoming environment for all students who satisfy the prerequisites. Our TAs have undergone training in diversity and inclusion, and all members of the CS community, including faculty and staff, are expected to treat one another in a professional manner. If you feel you have not been treated in a professional manner by any of the course staff, please contact either the instructor, Ugur Cetintemel (Dept. Chair), Tom Doeppner (Vice Chair) or Laura Dobler (diversity & inclusion staff member). We will take all complaints about unprofessional behavior seriously.  
 Brown welcomes students from all around the country and the world, and their unique perspectives enrich our learning community. To empower students whose first language is not English, an array of support is available on campus, including language and culture workshops and individual appointments. For more information, contact the English Language Learning Specialists at ellwriting@brown.edu.
 
 ## Accomodations
