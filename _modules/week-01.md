@@ -1,11 +1,20 @@
----
-title: Course
----
 
-Jan 27
+Jan 27, Thu
 : Course Overview
+  : [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f6867f8-01c6-4128-a8c4-ae2a0143b145)
+
+Feb. 1, Tue
+: Deep Learning Recap
   : Recording
-    : Form
+: Presenter{: .label .label-purple } Chen Sun
+
+Feb. 3, Tue
+: Deep Learning Recap
+  : Recording
+: Presenter{: .label .label-purple } Chen Sun
+
+
+
 : **HW 1 due**{: .label .label-red } Paper1
 : **HW 1 due**{: .label .label-red } Paper1
 
