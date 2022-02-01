@@ -3,6 +3,7 @@ layout: page
 title: About
 description: >-
     Course policies and information.
+av_exclude: true
 ---
 
 # Advanced Topics in Deep Learning
