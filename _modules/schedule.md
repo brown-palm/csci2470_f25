@@ -9,6 +9,8 @@ Jan 27, Thu
 Feb. 1, Tue
 : Deep Learning Recap
   : Chen Sun
+: 1. [Presentation signup sheet](https://forms.gle/DH4uV5JcJK5BjoFw8)
+  1. [Paper nomination form](https://forms.gle/keevGHpxqbgCK1QQ7)
 
 Feb. 3, Thu
 : Deep Learning Recap

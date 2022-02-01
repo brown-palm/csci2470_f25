@@ -47,7 +47,7 @@ For details please refer to the [syllabus](https://docs.google.com/document/d/1Z
 
 - [Course syllabus](https://docs.google.com/document/d/1ZD1yleR2QLsaJ1jIQ0M8NpKjzQquiVc3emE0F1cFzik/edit?usp=sharing)
 - [Ed](https://edstem.org/us/courses/19870/discussion/)
-- [Presentation signup sheet]()
+- [Presentation signup sheet](https://forms.gle/DH4uV5JcJK5BjoFw8)
 - [Paper nomination form](https://forms.gle/keevGHpxqbgCK1QQ7)
 - [Anonymous feedback form](https://forms.gle/zkuABETFmgZ8FJf78)
 
