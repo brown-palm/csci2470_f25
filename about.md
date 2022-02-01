@@ -28,19 +28,9 @@ The course is organized as a combination of paper reading, student presentations
 ## Learning Goals
 
 This is a seminar course aimed for PhD students and students who would like to further pursue a career that utilizes deep learning either in academia or in industry.
-Students are expected to feel comfortable reading 3-4 research papers per week (6 to 8 hours). They are expected to propose a final group project idea with contributions sufficient for a premier Machine Learning Conference (e.g. NeurIPS, ICLR) **workshop or above**. 
-
-Students who complete this course will:
-- Be familiar with recent trends of deep learning techniques and explore their applications to your own research.
-- Develop skills for critically reading research papers, identifying their high-level insights and limitations.
-- Build in-depth knowledge in one or more areas of active research directions.
-- Understand the evolution of research ideas over time, how some prominent research directions withstand the test of time (or do not)
-- Obtain hands-on experience proposing and implementing a novel research idea
-
-We welcome other students to audit the class by:
-- [Joining](https://edstem.org/us/join/Rgms8r) the Ed discussion group and watch the class livestream or recordings
-- Reading a subset of the research papers they find interesting, joining the in-class discussion for such papers (or post the questions on Ed for in-class discussion)
-- Participating in the final project presentations
+Students are expected to feel comfortable reading 3-4 research papers per week (6 to 8 hours). They are expected to propose a final group project idea with contributions sufficient for a premier Machine Learning Conference (e.g. NeurIPS, ICLR) **workshop or above**.  
+We welcome other students to audit the class by joining the Ed discussion group and watch the class livestream or recordings.  
+This class may be used for **capstone**.
 
 ## Grading
 
@@ -55,7 +45,9 @@ For details please refer to the [syllabus](https://docs.google.com/document/d/1Z
 
 - [Course syllabus](https://docs.google.com/document/d/1ZD1yleR2QLsaJ1jIQ0M8NpKjzQquiVc3emE0F1cFzik/edit?usp=sharing)
 - [Ed](https://edstem.org/us/courses/19870/discussion/)
-
+- [Presentation signup sheet]()
+- [Paper nomination form]()
+- [Anonymous feedback form]()
 
 ## Academic Integrity & Collaboration Policy
 
