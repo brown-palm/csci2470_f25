@@ -4,11 +4,9 @@ title: Course
 
 Sep 28
 : [Java & Git](#)
-  : - [paper1](#)
-    - [paper2](#)
-    - [paper3](#)
-    : - [background](#)
-      - [background](#)
+  - Paper paper paer pppafdsaffadgfdggasfsdfasfasdcvx
+  - Paper paper paer pppafdsaffadgfdggasfsdfasfasdcvx
+  : form / recording
 : **HW 1 due**{: .label .label-red }
 
 Sep 29
