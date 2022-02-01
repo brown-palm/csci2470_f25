@@ -2,19 +2,16 @@
 title: Course
 ---
 
-Sep 28
-: Overview
+Jan 27
+: Course Overview
   : Recording
     : Form
-      : Chen Sun
-: **HW 1 due**{: .label .label-red }
+: **HW 1 due**{: .label .label-red } Paper1
+: **HW 1 due**{: .label .label-red } Paper1
 
-Required:
 - Paper 1
 - Paper 2
-Background:
-- Paper 1
-- Paper 2
+: Chen Sun
 
 Sep 29
 : **Section**{: .label .label-purple }[Intro to Java](#)
