@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Advanced Topics in Deep Learning
-tagline: Brown CS2952N 
-description: Brown CS2952N 
+title: CSCI 2952-N
+tagline: Brown CSCI 2952N 
+description: Brown CSCI 2952N 
 author: Chen Sun
 baseurl: '/spring2022' # the subpath of your site, e.g. /blog
 url: 'https://brown-cs2952n.github.io' # the base hostname & protocol for your site, e.g. http://example.com

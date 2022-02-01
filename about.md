@@ -5,7 +5,7 @@ description: >-
     Course policies and information.
 ---
 
-# About
+# Advanced Topics in Deep Learning
 {:.no_toc}
 
 ## Table of contents
@@ -16,18 +16,64 @@ description: >-
 
 ---
 
+## Time and Location
+
+- Tuesday, Thursday 1:00-2:20 PM Eastern Time
+- Instructor: [Chen Sun](https://chensun.me) ([chen_sun4@brown.edu](mailto:chen_sun4@brown.edu))
+- Office hour: By appointment
+- Classroom: CIT 101 (Will change on the 3rd week)
+
+_In-class participation is required unless otherwise approved by the instructor._
+
+_Zoom link can be found in [course syllabus](https://docs.google.com/document/d/1ZD1yleR2QLsaJ1jIQ0M8NpKjzQquiVc3emE0F1cFzik/edit?usp=sharing)._
+
+_Lectures will be recorded for asynchronous viewing, and livestreamed for students auditing._
+
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+Welcome to CSCI 2952N! This course aims at preparing graduate-level students the research knowledge they need to apply Deep Learning techniques for their own research. Over the past few years, there has been tremendous success in developing unified neural architectures that achieve state-of-the-art performance on language understanding (GPT-3), visual perception (ViT), and even protein structure prediction (AlphaFold). We plan to understand how they work, and how the success of such unified models can give rise to further developments on self-supervised learning, a technique that trains machine learning models without requiring labeled data; and multimodal learning, a technique that utilizes multiple input sources, such as vision, audio, and text. We will also study recent attempts to interpret these models, thus revealing potential risks on model bias. The course is organized as a combination of paper reading, student presentations, and invited guest lectures. It also requires the students to work on a final project that explores a novel direction they choose along the line of the papers we cover.
 
-## Lecture
+## Learning Goals
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+This is a seminar course aimed for PhD students and students who would like to further pursue a career that utilizes deep learning either in academia or in industry.
+Students are expected to feel comfortable reading 3-4 research papers per week (6 to 8 hours). They are expected to propose a final group project idea with contributions sufficient for a premier Machine Learning Conference (e.g. NeurIPS, ICLR) **workshop or above**. 
+
+Students who complete this course will:
+- Be familiar with recent trends of deep learning techniques and explore their applications to your own research.
+- Develop skills for critically reading research papers, identifying their high-level insights and limitations.
+- Build in-depth knowledge in one or more areas of active research directions.
+- Understand the evolution of research ideas over time, how some prominent research directions withstand the test of time (or do not)
+- Obtain hands-on experience proposing and implementing a novel research idea
+
+We welcome other students to audit the class by:
+- [Joining](https://edstem.org/us/join/Rgms8r) the Ed discussion group and watch the class livestream or recordings
+- Reading a subset of the research papers they find interesting, joining the in-class discussion for such papers (or post the questions on Ed for in-class discussion)
+- Participating in the final project presentations
+
 
 ## Resources
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+- [Course syllabus](https://docs.google.com/document/d/1ZD1yleR2QLsaJ1jIQ0M8NpKjzQquiVc3emE0F1cFzik/edit?usp=sharing)
+- [Ed](https://edstem.org/us/courses/19870/discussion/)
 
-## Assignments
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+## Academic Integrity & Collaboration Policy
+
+Academic dishonesty **will not be tolerated**. This includes cheating, lying about course matters, plagiarism, or helping others commit a violation. Plagiarism includes reproducing the words of others without both the use of quotation marks and citation. Students are reminded of the obligations and expectations associated with the Brown Academic and Student Conduct Codes.
+
+Discussion of course material with your classmates is both permitted and encouraged. However, showing, copying, or other sharing of actual code or verbatim answers to written questions is forbidden. This policy **will** be enforced.
+
+## Diversity & Inclusion
+
+Our intent is that this course provides a welcoming environment for all students who satisfy the prerequisites. Our TAs have undergone training in diversity and inclusion, and all members of the CS community, including faculty and staff, are expected to treat one another in a professional manner. If you feel you have not been treated in a professional manner by any of the course staff, please contact either the instructor, Ugur Cetintemel (Dept. Chair), Tom Doeppner (Vice Chair) or Laura Dobler (diversity & inclusion staff member). We will take all complaints about unprofessional behavior seriously.
+
+Brown welcomes students from all around the country and the world, and their unique perspectives enrich our learning community. To empower students whose first language is not English, an array of support is available on campus, including language and culture workshops and individual appointments. For more information, contact the English Language Learning Specialists at ellwriting@brown.edu.
+
+## Accomodations
+
+Brown University is committed to full inclusion of all students. Please inform the instructor if you have a disability or other condition that might require accommodations or modification of any of these course procedures. You may email the instructor, come to office hours, or speak with him after class, and your confidentiality is respected. We will do whatever we can to support accommodations recommended by SEAS. For more information contact Student and Employee Accessibility Services (SEAS) at 401-863-9588 or SEAS@brown.edu. Students in need of short-term academic advice or support can contact one of the deans in the Dean of the College office.
+
+
+## Mental Health
+
+Being a student can be very stressful. If you feel you are under too much pressure or there are psychological issues that are keeping you from performing well at Brown, we encourage you to contact Brown’s Counseling and Psychological Services (CAPS). They provide confidential counseling and can provide notes supporting extensions on assignments for health reasons.
