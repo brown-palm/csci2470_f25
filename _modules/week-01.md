@@ -12,15 +12,9 @@ Feb. 3, Tue
 : Deep Learning Recap
   : Recording
 : Presenter{: .label .label-purple } Chen Sun
-
-
-
 : **HW 1 due**{: .label .label-red } Paper1
 : **HW 1 due**{: .label .label-red } Paper1
 
-- Paper 1
-- Paper 2
-: Chen Sun
 
 Sep 29
 : **Section**{: .label .label-purple }[Intro to Java](#)
