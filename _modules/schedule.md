@@ -3,22 +3,25 @@ title: Paper reading list and presenters
 ---
 
 Jan 27, Thu
-: [Course Overview](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f6867f8-01c6-4128-a8c4-ae2a0143b145)
+: [Course Overview](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f6867f8-01c6-4128-a8c4-ae2a0143b145) ([slides](https://drive.google.com/file/d/1N9kidliGRNPrfeERrUwlozbUbMoFg1l3/view?usp=sharing))
   : Chen Sun
 
 Feb. 1, Tue
-: Deep Learning Recap
+: [Recap: CNNs and Transformers](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aae5ae83-07b9-4f22-a060-ae2f01471dc6) ([slides](https://drive.google.com/file/d/1DjQUQGoE1pRn0t5BtTTeVIwmy1jG-lys/view?usp=sharing))
   : Chen Sun
 : 1. [Presentation signup sheet](https://forms.gle/DH4uV5JcJK5BjoFw8)
   1. [Paper nomination form](https://forms.gle/keevGHpxqbgCK1QQ7)
 
 Feb. 3, Thu
-: Deep Learning Recap
+: Overview: Self- and Cross-modal Learning
   : Chen Sun
 : 1. (Background) [How to Read a CS Research Paper](http://www2.cs.uregina.ca/~pwlfong/CS499/reading-paper.pdf) by Philip Fong
   1. (Background) [How to do research](http://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf) by Bill Freeman
   1. (Background) [How to do write a good paper](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf) by Bill Freeman
   1. (Background) [Novelty in Science](https://perceiving-systems.blog/en/news/novelty-in-science) by Michael Black
+
+Feb. 4, Fri
+: **Due**{: .label .label-purple} [Presentation signup](https://forms.gle/DH4uV5JcJK5BjoFw8)
 
 Feb. 8, Tue
 : The Unreasonable Effectiveness of Data
