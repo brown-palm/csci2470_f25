@@ -20,7 +20,7 @@ seo:
 
 _In-class participation is **required** unless otherwise approved by the instructor._  
 _Zoom link can be found in the [course syllabus](https://docs.google.com/document/d/1ZD1yleR2QLsaJ1jIQ0M8NpKjzQquiVc3emE0F1cFzik/edit?usp=sharing)._  
-_Lectures will be recorded for asynchronous viewing, and livestreamed for students auditing._
+_Lectures will be recorded for asynchronous viewing, and livestreamed for students auditing ([sign up](https://forms.gle/y7do5vJ5GeqZiBdp7))._
 
 ## About
 
@@ -50,6 +50,7 @@ For details please refer to the [syllabus](https://docs.google.com/document/d/1Z
 - [Presentation signup sheet](https://forms.gle/DH4uV5JcJK5BjoFw8)
 - [Paper nomination form](https://forms.gle/keevGHpxqbgCK1QQ7)
 - [Anonymous feedback form](https://forms.gle/zkuABETFmgZ8FJf78)
+- [Auditing signup form](https://forms.gle/y7do5vJ5GeqZiBdp7)
 
 ## Academic Integrity & Collaboration Policy
 
