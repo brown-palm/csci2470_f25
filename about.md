@@ -6,11 +6,6 @@ description: >-
 ---
 
 # Advanced Topics in Deep Learning
-{:.no_toc}
-
-
-1. TOC
-{:toc}
 
 ---
 
@@ -21,8 +16,8 @@ description: >-
 - Office hour: By appointment
 - Classroom: CIT 101 (Will change on the 3rd week)
 
-_In-class participation is required unless otherwise approved by the instructor._  
-_Zoom link can be found in [course syllabus](https://docs.google.com/document/d/1ZD1yleR2QLsaJ1jIQ0M8NpKjzQquiVc3emE0F1cFzik/edit?usp=sharing)._  
+_In-class participation is **required** unless otherwise approved by the instructor._  
+_Zoom link can be found in the [course syllabus](https://docs.google.com/document/d/1ZD1yleR2QLsaJ1jIQ0M8NpKjzQquiVc3emE0F1cFzik/edit?usp=sharing)._  
 _Lectures will be recorded for asynchronous viewing, and livestreamed for students auditing._
 
 ## About
