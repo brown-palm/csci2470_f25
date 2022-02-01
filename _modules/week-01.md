@@ -4,11 +4,11 @@ title: Course
 
 Sep 28
 : [Java & Git](#)
-  : [paper1](#)<br>
-  : [paper2](#)<br>
-  : [paper3](#)
-    : [background](#)<br>
-    : [background](#)<br>
+  : - [paper1](#)
+    - [paper2](#)
+    - [paper3](#)
+    : - [background](#)
+      - [background](#)
 : **HW 1 due**{: .label .label-red }
 
 Sep 29
