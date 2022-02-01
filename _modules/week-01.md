@@ -3,11 +3,18 @@ title: Course
 ---
 
 Sep 28
-: [Java & Git](#)
-  - Paper paper paer pppafdsaffadgfdggasfsdfasfasdcvx
-  - Paper paper paer pppafdsaffadgfdggasfsdfasfasdcvx
-  : form / recording
+: Overview
+  : Recording
+    : Form
+      : Chen Sun
 : **HW 1 due**{: .label .label-red }
+
+Required:
+- Paper 1
+- Paper 2
+Background:
+- Paper 1
+- Paper 2
 
 Sep 29
 : **Section**{: .label .label-purple }[Intro to Java](#)
