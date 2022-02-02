@@ -19,6 +19,7 @@ Feb. 3, Thu
   1. (Background) [How to do research](http://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf) by Bill Freeman
   1. (Background) [How to do write a good paper](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf) by Bill Freeman
   1. (Background) [Novelty in Science](https://perceiving-systems.blog/en/news/novelty-in-science) by Michael Black
+  1. (Background) [Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/) by Yann LeCun and Ishan Misra
 
 Feb. 4, Fri
 : **Due**{: .label .label-purple} [Presentation signup](https://forms.gle/DH4uV5JcJK5BjoFw8)
