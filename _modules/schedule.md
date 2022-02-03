@@ -13,7 +13,7 @@ Feb. 1, Tue
   1. [Paper nomination form](https://forms.gle/keevGHpxqbgCK1QQ7)
 
 Feb. 3, Thu
-: Overview: Self- and Cross-modal Learning
+: Overview: Self- and Cross-modal Learning ([slides](https://drive.google.com/file/d/1WsuVg-HjmxEhUmGOi1Y1Q3eVi44YPrIm/view?usp=sharing))
   : Chen Sun
 : 1. (Background) [How to Read a CS Research Paper](http://www2.cs.uregina.ca/~pwlfong/CS499/reading-paper.pdf) by Philip Fong
   1. (Background) [How to do research](http://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf) by Bill Freeman
@@ -26,7 +26,7 @@ Feb. 4, Fri
 
 Feb. 8, Tue
 : The Unreasonable Effectiveness of Data
-  : TBD
+  : Jorge, Koyena, Yipu
 : 1. [Revisiting Unreasonable Effectiveness of Data in the Deep Learning Era](https://arxiv.org/abs/1707.02968)
   1. [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)
   1. (Background) [The Unreasonable Effectiveness of Data](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35179.pdf)
