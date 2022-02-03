@@ -13,7 +13,7 @@ Feb. 1, Tue
   1. [Paper nomination form](https://forms.gle/keevGHpxqbgCK1QQ7)
 
 Feb. 3, Thu
-: Overview: Self- and Cross-modal Learning ([slides](https://drive.google.com/file/d/1WsuVg-HjmxEhUmGOi1Y1Q3eVi44YPrIm/view?usp=sharing))
+: [Overview: Self- and Cross-modal Learning](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea14d639-88aa-42cb-a20d-ae310144e06e) ([slides](https://drive.google.com/file/d/1WsuVg-HjmxEhUmGOi1Y1Q3eVi44YPrIm/view?usp=sharing))
   : Chen Sun
 : 1. (Background) [How to Read a CS Research Paper](http://www2.cs.uregina.ca/~pwlfong/CS499/reading-paper.pdf) by Philip Fong
   1. (Background) [How to do research](http://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf) by Bill Freeman
