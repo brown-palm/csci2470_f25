@@ -42,6 +42,8 @@ Feb. 10, Thu
 : 1. [Mean teachers are better role models](https://arxiv.org/abs/1703.01780)
   1. [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/abs/1905.02249)
   1. (Background) [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
+  1. (Background) [Inductive Representation Learning on Large Graphs](https://arxiv.org/abs/1706.02216)
+  1. (Background) [Transfer Learning in a Transductive Setting](https://papers.nips.cc/paper/2013/hash/3295c76acbf4caaed33c36b1b5fc2cb1-Abstract.html)
 
 Feb. 15, Tue
 : Transfer Learning
@@ -77,6 +79,7 @@ Mar. 3, Thu
 : 1. [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062)
   1. [Swin Transformer](https://arxiv.org/abs/2103.14030)
   1. (Background) [Linformer: Self-Attention with Linear Complexity](https://arxiv.org/abs/2006.04768)
+  1. (Background) [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)
 
 Mar. 8, Tue
 : Vision Transformers (1)
@@ -106,6 +109,7 @@ Mar. 17, Thu
   1. (Background) [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
   1. (Background) [Deep Clustering for Unsupervised Learning of Visual Features](https://arxiv.org/abs/1807.05520)
   1. (Background) [Towards the Generalization of Contrastive Self-Supervised Learning](https://arxiv.org/abs/2111.00743)
+  1. (Background) [Bootstrap your own latent: A new approach to self-supervised Learning](https://arxiv.org/abs/2006.07733)
 
 Mar. 22, Tue
 : **Invited**{: .label .label-purple} Self-supervised Learning for Objects
@@ -136,12 +140,18 @@ Apr. 7, Thu
   1. (Background) [Understanding the World Through Action](https://arxiv.org/abs/2110.12543)
   1. (Background) [Learning Latent Plans from Play](https://arxiv.org/abs/1903.01973)
   1. (Background) [Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/abs/1811.04551)
+  1. (Background) [Control-Aware Representations for Model-based Reinforcement Learning](https://arxiv.org/abs/2006.13408)
+  1. (Background) [Shaping Belief States with Generative Environment Models for RL](https://arxiv.org/abs/1906.09237)
+  1. (Background) [Goal-Aware Prediction: Learning to Model What Matters](https://arxiv.org/abs/2007.07170)
 
 Apr. 12, Tue
 : 3D Computer Vision
   : Arman, Jiahao, Mikhail, Rao
 : 1. [MarrNet: 3D Shape Reconstruction via 2.5D Sketches](https://arxiv.org/abs/1711.03129)
   1. [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
+  1. (Background) [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478)
+  1. (Background) [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://arxiv.org/abs/2201.05989)
+  1. (Background) [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593)
 
 Apr. 14, Thu
 : **Invited**{: .label .label-purple} Multimodal Learning
@@ -152,6 +162,11 @@ Apr. 19, Tue
   : Calvin, Michal, Nate, Yuanhao
 : 1. [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937)
   1. [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)
+  1. (Background) [PointFlow : 3D Point Cloud Generation with Continuous Normalizing Flows](https://www.cs.cornell.edu/~xhuang/publication/pointflow/)
+  1. (Background) [Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308)
+  1. (Background) [What are Diffusion Models?](https://lilianweng.github.io/lil-log/2021/07/11/diffusion-models.html)
+  1. (Background) [Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092)
+  1. (Background) [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
 
 Apr. 21, Thu
 : Data and model bias
@@ -174,6 +189,7 @@ Apr. 28, Thu
 : 1. [Attention over learned object embeddings enables complex visual reasoning](https://arxiv.org/abs/2012.08508)
   1. [PHYRE: A New Benchmark for Physical Reasoning](https://arxiv.org/abs/1908.05656)
   1. (Background) [Machine Theory of Mind](https://arxiv.org/abs/1802.07740)
+  1. (Background) [Shaking the foundations: delusions in sequence models for interaction and control](https://arxiv.org/abs/2110.10819)
 
 May 3, Tue
 : _Final project office hours_
@@ -183,3 +199,9 @@ May 5, Thu
 
 May 10, Tue
 : Final project presentations
+
+Other
+: Student Nominated Readings
+: 1. (Physics-informed ML) [Physics-informed neural networks](https://www.sciencedirect.com/science/article/pii/S0021999118307125)
+  1. (Operator Learning) [Learning nonlinear operators via DeepONet](https://www.nature.com/articles/s42256-021-00302-5)
+  1. (Biologically-Inspired Learning) [Training Spiking Neural Networks Using Lessons From Deep Learning](https://arxiv.org/abs/2109.12894)
