@@ -25,7 +25,7 @@ Feb. 4, Fri
 : **Due**{: .label .label-purple} [Presentation signup](https://forms.gle/DH4uV5JcJK5BjoFw8)
 
 Feb. 8, Tue
-: The Unreasonable Effectiveness of Data ([Reading survey](https://docs.google.com/forms/d/e/1FAIpQLSfTwd-6uZ7NzQiV8Q7QHCGp4xjOYqO7Mn7PuFiEOgySI6n_Fw/viewform?usp=sf_link))
+: [The Unreasonable Effectiveness of Data](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=035c0c2b-c071-45ed-bd2f-ae3601458e1b) ([Reading survey](https://docs.google.com/forms/d/e/1FAIpQLSfTwd-6uZ7NzQiV8Q7QHCGp4xjOYqO7Mn7PuFiEOgySI6n_Fw/viewform?usp=sf_link) / [Questions](https://drive.google.com/file/d/1nM-7HR8NCwb09mM_EJ6uZT1c-niIIJS5/view?usp=sharing) / [Slides](https://docs.google.com/presentation/d/1UMCutUbumhAz9uiE1YTVuqlD4EOuUFa55EJatpoWG4k/edit?usp=sharing))
   : Jorge, Koyena, Yipu
 : 1. [Revisiting Unreasonable Effectiveness of Data in the Deep Learning Era](https://arxiv.org/abs/1707.02968)
   1. [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)
@@ -37,7 +37,7 @@ Feb. 8, Tue
 
 
 Feb. 10, Thu
-: Semi-supervised Learning
+: Semi-supervised Learning ([Reading survey](https://forms.gle/m3FywjTPnR8gPQRw8))
   : Cheng-You, Vivek
 : 1. [Mean teachers are better role models](https://arxiv.org/abs/1703.01780)
   1. [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/abs/1905.02249)
@@ -60,7 +60,7 @@ Feb. 22, Tue
 
 Feb. 24, Thu
 : Multitask Learning
-  : Amir, Hyuk, Leonard
+  : Amir, Hyuk, Jinwoo, Leonard
 : 1. [Taskonomy: Disentangling Task Transfer Learning](https://arxiv.org/abs/1804.08328)
   1. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683)
   1. (Background) [UberNet: Training a Universal Convolutional Neural Network](https://arxiv.org/abs/1609.02132)
@@ -73,7 +73,7 @@ Mar. 1, Tue
   
 Mar. 3, Thu
 : Transformer and its variants
-  : Bangxi, George Zerveas, Kai
+  : George Zerveas, Kai
 : 1. [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062)
   1. [Swin Transformer](https://arxiv.org/abs/2103.14030)
   1. (Background) [Linformer: Self-Attention with Linear Complexity](https://arxiv.org/abs/2006.04768)
@@ -105,6 +105,7 @@ Mar. 17, Thu
   1. [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
   1. (Background) [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
   1. (Background) [Deep Clustering for Unsupervised Learning of Visual Features](https://arxiv.org/abs/1807.05520)
+  1. (Background) [Towards the Generalization of Contrastive Self-Supervised Learning](https://arxiv.org/abs/2111.00743)
 
 Mar. 22, Tue
 : **Invited**{: .label .label-purple} Self-supervised Learning for Objects
@@ -154,7 +155,7 @@ Apr. 19, Tue
 
 Apr. 21, Thu
 : Data and model bias
-  : Arun, Ghulam, Kunal
+  : Arun, Ghulam, Kunal, Pinar
 : 1. [Beyond Accuracy: Behavioral Testing of NLP models with CheckList](https://arxiv.org/abs/2005.04118)
   1. [Equality of Opportunity in Supervised Learning](https://arxiv.org/abs/1610.02413)
   1. (Background) [Measuring and Reducing Gendered Correlations in Pre-trained Models](https://arxiv.org/pdf/2010.06032.pdf)
