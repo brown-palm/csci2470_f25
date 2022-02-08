@@ -25,7 +25,7 @@ Feb. 4, Fri
 : **Due**{: .label .label-purple} [Presentation signup](https://forms.gle/DH4uV5JcJK5BjoFw8)
 
 Feb. 8, Tue
-: The Unreasonable Effectiveness of Data ([Reading survey](https://forms.gle/dsNF3WRtK1JToHeq5))
+: The Unreasonable Effectiveness of Data ([Reading survey](https://docs.google.com/forms/d/e/1FAIpQLSfTwd-6uZ7NzQiV8Q7QHCGp4xjOYqO7Mn7PuFiEOgySI6n_Fw/viewform?usp=sf_link))
   : Jorge, Koyena, Yipu
 : 1. [Revisiting Unreasonable Effectiveness of Data in the Deep Learning Era](https://arxiv.org/abs/1707.02968)
   1. [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)
@@ -76,6 +76,7 @@ Mar. 3, Thu
   : Bangxi, George Zerveas, Kai
 : 1. [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062)
   1. [Swin Transformer](https://arxiv.org/abs/2103.14030)
+  1. (Background) [Linformer: Self-Attention with Linear Complexity](https://arxiv.org/abs/2006.04768)
 
 Mar. 8, Tue
 : Vision Transformers (1)
