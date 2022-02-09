@@ -64,7 +64,7 @@ Feb. 24, Thu
 : Multitask Learning
   : Amir, Hyuk, Jinwoo, Leonard
 : 1. [Taskonomy: Disentangling Task Transfer Learning](https://arxiv.org/abs/1804.08328)
-  1. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683)
+  1. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) (Section 1, 2, 4)
   1. (Background) [UberNet: Training a Universal Convolutional Neural Network](https://arxiv.org/abs/1609.02132)
   1. (Background) [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
 
@@ -72,6 +72,10 @@ Mar. 1, Tue
 : AI Safety
   : Anna, Mason, Will Yang
 : 1. [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)
+  1. (Background) [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741)
+  1. (Background) [AI safety via debate](https://arxiv.org/abs/1805.00899)
+  1. (Background) [Avoiding Side Effects By Considering Future Tasks](https://arxiv.org/abs/2010.07877)
+  1. (Background) [Objective Robustness in Deep Reinforcement Learning](https://arxiv.org/abs/2105.14111)
   
 Mar. 3, Thu
 : Transformer and its variants
