@@ -60,6 +60,9 @@ Feb. 17, Thu
   : Anessa, Reza, Yong
 : 1. [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080)
   1. [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)
+  1. (Background) [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175)
+  1. (Background) [A Closer Look at Few-shot Classification](https://arxiv.org/abs/1904.04232)
+  1. (Background) [Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?](https://arxiv.org/abs/2003.11539)
 
 Feb. 22, Tue
 : _University holiday, no class_
@@ -85,35 +88,46 @@ Mar. 3, Thu
 : Transformer and its variants
   : George Zerveas, Kai
 : 1. [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062)
-  1. [Swin Transformer](https://arxiv.org/abs/2103.14030)
+  1. [Synthesizer: Rethinking Self-Attention in Transformer Models](https://arxiv.org/abs/2005.00743)
+  1. (Background) [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961)
+  1. (Background) [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/abs/2105.01601)
   1. (Background) [Linformer: Self-Attention with Linear Complexity](https://arxiv.org/abs/2006.04768)
   1. (Background) [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)
 
 Mar. 8, Tue
 : Vision Transformers (1)
   : Chace, Justin, Shijie
-: 1. [Video Action Transformer Network](https://arxiv.org/abs/1812.02707)
-  1. [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)
+: 1. [Swin Transformer](https://arxiv.org/abs/2103.14030)
+  1. [On the Relationship between Self-Attention and Convolutional Layers](https://arxiv.org/abs/1911.03584)  
   1. (Background) [ViViT: A Video Vision Transformer](https://arxiv.org/abs/2103.15691)
+  1. (Background) [VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/abs/1904.01766)
+  1. (Background) [Video Action Transformer Network](https://arxiv.org/abs/1812.02707)
 
 Mar. 10, Thu
 : Vision Transformers (2)
   : Avi, George Hu, Peilin
-: 1. [VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/abs/1904.01766)
-  1. [TrackFormer: Multi-Object Tracking with Transformers](https://arxiv.org/abs/2101.02702)
-  1. (Background) [Attention Bottlenecks for Multimodal Fusion](https://arxiv.org/abs/2107.00135)
+: 1. [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)
+  1. [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
+  1. (Background) [TrackFormer: Multi-Object Tracking with Transformers](https://arxiv.org/abs/2101.02702)
+  1. (Background) [MaX-DeepLab: End-to-End Panoptic Segmentation With Mask Transformers](https://arxiv.org/abs/2012.00759)
+  1. (Background) [Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://arxiv.org/abs/2107.14795)
+  1. (Background) [Episodic Transformer for Vision-and-Language Navigation](https://arxiv.org/abs/2105.06453)
 
 Mar. 15, Tue
 : Self-supervised Learning for NLP
   : Catherine, William Jurayj, William Rudman
 : 1. [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
-  1. [SpanBERT: Improving Pre-training by Representing and Predicting Spans](https://arxiv.org/abs/1907.10529)
+  1. [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922)
+  1. (Background) [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909)
+  1. (Background) [SpanBERT: Improving Pre-training by Representing and Predicting Spans](https://arxiv.org/abs/1907.10529)
+  1. (Background) [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)
 
 Mar. 17, Thu
 : Self-supervised Learning for Images
   : Sijie, Tian, Vadim
-: 1. [Dimensionality Reduction by Learning an Invariant Mapping](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)
+: 1. [BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254)
   1. [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
+  1. (Background) [Dimensionality Reduction by Learning an Invariant Mapping](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)
   1. (Background) [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
   1. (Background) [Deep Clustering for Unsupervised Learning of Visual Features](https://arxiv.org/abs/1807.05520)
   1. (Background) [Towards the Generalization of Contrastive Self-Supervised Learning](https://arxiv.org/abs/2111.00743)
@@ -139,6 +153,8 @@ Apr. 5, Tue
 : 1. [Time-Contrastive Networks: Self-Supervised Learning from Video](https://arxiv.org/abs/1704.06888)
   1. [Learning image representations tied to ego-motion](https://arxiv.org/abs/1505.02206)
   1. (Background) [Simulation as an engine of physical scene understanding](https://www.pnas.org/content/110/45/18327.short)
+  1. (Background) [Learning correspondence from the cycle-consistency of time](https://arxiv.org/abs/1903.07593)
+  1. (Background) [Learning Temporal Dynamics from Cycles in Narrated Video](https://arxiv.org/abs/2101.02337)
 
 Apr. 7, Thu
 : Representation Learning for RL
@@ -192,6 +208,7 @@ Apr. 26, Tue
 : 1. [Do Vision Transformers See Like Convolutional Neural Networks?](https://arxiv.org/abs/2108.08810)
   1. [Acquisition of Chess Knowledge in AlphaZero](https://arxiv.org/abs/2111.09259)
   1. (Background) [BERT rediscovers the classical NLP pipeline](https://arxiv.org/abs/1905.05950)
+  1. (Background) [A Primer in BERTology: What We Know About How BERT Works](https://aclanthology.org/2020.tacl-1.54/)
 
 Apr. 28, Thu
 : Future Prediction, Causality
