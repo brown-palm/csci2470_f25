@@ -37,7 +37,7 @@ Feb. 8, Tue
 
 
 Feb. 10, Thu
-: Semi-supervised Learning ([Reading survey](https://forms.gle/m3FywjTPnR8gPQRw8))
+: Semi-supervised Learning ([Reading survey](https://forms.gle/m3FywjTPnR8gPQRw8) / [Questions](https://drive.google.com/file/d/1YKwKzIK_0Awi2rcQFYewrAs4APUdLMm3/view?usp=sharing) / [Slides](https://drive.google.com/file/d/1FwAoyl-jF92EQxYQpH8B2b5aoBCscV8H/view?usp=sharing))
   : Cheng-You, Vivek
 : 1. [Mean teachers are better role models](https://arxiv.org/abs/1703.01780)
   1. [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/abs/1905.02249)
