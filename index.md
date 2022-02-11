@@ -14,7 +14,7 @@ seo:
 ## Time and Location
 
 - Tuesday, Thursday 1:00-2:20 PM Eastern Time
-- Instructor: [Chen Sun](https://chensun.me) ([chen_sun4@brown.edu](mailto:chen_sun4@brown.edu))
+- Instructor: [Chen Sun](https://chensun.me) ([chen_sun4@brown.edu](mailto:chensun@brown.edu))
 - Office hour: By appointment
 - Classroom: MacMillan 115
 

@@ -47,7 +47,7 @@ Feb. 10, Thu
 
 Feb. 15, Tue
 : Transfer Learning
-  : Changcheng, Gabriel, Kangping
+  : Changcheng, Gabriel, Kangping ([Reading survey](https://forms.gle/gLzydCU4LeX8ne419))
 : 1. [Big Transfer (BiT): General Visual Representation Learning](https://arxiv.org/abs/1912.11370)
   1. [Rethinking Pre-training and Self-training](https://arxiv.org/abs/2006.06882)
   1. (Background) [Transfusion: Understanding Transfer Learning for Medical Imaging](https://arxiv.org/abs/1902.07208)
@@ -56,11 +56,12 @@ Feb. 15, Tue
   1. (Background) [Rethinking ImageNet Pre-training](https://arxiv.org/abs/1811.08883)
 
 Feb. 17, Thu
-: Few-shot Learning
+: Few-shot Learning ([Reading survey](https://forms.gle/75nD6SggbifS9ER89))
   : Anessa, Reza, Yong
 : 1. [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080)
   1. [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)
   1. (Background) [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175)
+  1. (Background) [Learning to Learn (Blog)](https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
   1. (Background) [A Closer Look at Few-shot Classification](https://arxiv.org/abs/1904.04232)
   1. (Background) [Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?](https://arxiv.org/abs/2003.11539)
 
