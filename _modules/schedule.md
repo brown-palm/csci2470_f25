@@ -46,8 +46,8 @@ Feb. 10, Thu
   1. (Background) [Transfer Learning in a Transductive Setting](https://papers.nips.cc/paper/2013/hash/3295c76acbf4caaed33c36b1b5fc2cb1-Abstract.html)
 
 Feb. 15, Tue
-: Transfer Learning
-  : Changcheng, Gabriel, Kangping ([Reading survey](https://forms.gle/gLzydCU4LeX8ne419))
+: Transfer Learning ([Reading survey](https://forms.gle/gLzydCU4LeX8ne419))
+  : Changcheng, Gabriel, Kangping
 : 1. [Big Transfer (BiT): General Visual Representation Learning](https://arxiv.org/abs/1912.11370)
   1. [Rethinking Pre-training and Self-training](https://arxiv.org/abs/2006.06882)
   1. (Background) [Transfusion: Understanding Transfer Learning for Medical Imaging](https://arxiv.org/abs/1902.07208)
