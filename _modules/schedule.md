@@ -76,6 +76,7 @@ Feb. 24, Thu
   1. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) (Section 1, 2, 4)
   1. (Background) [UberNet: Training a Universal Convolutional Neural Network](https://arxiv.org/abs/1609.02132)
   1. (Background) [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
+  1. (Background) [ExT5: Towards Extreme Multi-Task Scaling for Transfer Learning](https://arxiv.org/abs/2111.10952)
 
 Mar. 1, Tue
 : AI Safety
