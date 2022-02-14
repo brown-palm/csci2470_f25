@@ -50,6 +50,7 @@ Feb. 15, Tue
   : Changcheng, Gabriel, Kangping
 : 1. [Big Transfer (BiT): General Visual Representation Learning](https://arxiv.org/abs/1912.11370)
   1. [Rethinking Pre-training and Self-training](https://arxiv.org/abs/2006.06882)
+  1. (Background) [A Survey on Transfer Learning](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
   1. (Background) [Transfusion: Understanding Transfer Learning for Medical Imaging](https://arxiv.org/abs/1902.07208)
   1. (Background) [Learning and Transferring Mid-Level Image Representations using Convolutional Neural Networks](https://leon.bottou.org/publications/pdf/cvpr-2014.pdf)
   1. (Background) [A Large-scale Study of Representation Learning with the Visual Task Adaptation Benchmark](https://arxiv.org/abs/1910.04867)
