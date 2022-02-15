@@ -70,7 +70,7 @@ Feb. 22, Tue
 : _University holiday, no class_
 
 Feb. 24, Thu
-: Multitask Learning
+: Multitask Learning ([Reading survey](https://forms.gle/fdPWVFNMASZpMJY98))
   : Amir, Hyuk, Jinwoo, Leonard
 : 1. [Taskonomy: Disentangling Task Transfer Learning](https://arxiv.org/abs/1804.08328)
   1. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) (Section 1, 2, 4)
