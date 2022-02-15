@@ -46,7 +46,7 @@ Feb. 10, Thu
   1. (Background) [Transfer Learning in a Transductive Setting](https://papers.nips.cc/paper/2013/hash/3295c76acbf4caaed33c36b1b5fc2cb1-Abstract.html)
 
 Feb. 15, Tue
-: Transfer Learning ([Reading survey](https://forms.gle/gLzydCU4LeX8ne419))
+: [Transfer Learning](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a62479b4-0463-4499-a18a-ae3d014ff7ac) ([Reading survey](https://forms.gle/gLzydCU4LeX8ne419) / [Questions](https://drive.google.com/file/d/1_ZIEhkB3BU4KCoi9Hx-uRfZO1mjbirtA/view?usp=sharing) / [Slides](https://drive.google.com/file/d/1BF2QDw8Go6gDFrbPIpafxNQ-gz-5iGJX/view?usp=sharing))
   : Changcheng, Gabriel, Kangping
 : 1. [Big Transfer (BiT): General Visual Representation Learning](https://arxiv.org/abs/1912.11370)
   1. [Rethinking Pre-training and Self-training](https://arxiv.org/abs/2006.06882)
