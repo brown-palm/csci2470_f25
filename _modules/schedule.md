@@ -63,6 +63,7 @@ Feb. 17, Thu
   1. [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)
   1. (Background) [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175)
   1. (Background) [Learning to Learn (Blog)](https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
+  1. (Background) [Meta-Learning: Learning to Learn Fast (Blog)](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html)
   1. (Background) [A Closer Look at Few-shot Classification](https://arxiv.org/abs/1904.04232)
   1. (Background) [Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?](https://arxiv.org/abs/2003.11539)
 
