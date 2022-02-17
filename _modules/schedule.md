@@ -57,7 +57,7 @@ Feb. 15, Tue
   1. (Background) [Rethinking ImageNet Pre-training](https://arxiv.org/abs/1811.08883)
 
 Feb. 17, Thu
-: Few-shot Learning ([Reading survey](https://forms.gle/75nD6SggbifS9ER89) / [Questions](https://drive.google.com/file/d/1QdyKtq04_rv5m9DTFnpO5-8rIEI7mE1Y/view?usp=sharing) / [Slides](https://docs.google.com/presentation/d/1YkQ1zvLOQY8Ke9ydDkiQ2okA7GsBiZ1tA6hHksY4aRM/edit?usp=sharing))
+: [Few-shot Learning](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=952e445b-a677-4a00-b7f9-ae3f014708f5) ([Reading survey](https://forms.gle/75nD6SggbifS9ER89) / [Questions](https://drive.google.com/file/d/1QdyKtq04_rv5m9DTFnpO5-8rIEI7mE1Y/view?usp=sharing) / [Slides](https://docs.google.com/presentation/d/1YkQ1zvLOQY8Ke9ydDkiQ2okA7GsBiZ1tA6hHksY4aRM/edit?usp=sharing))
   : Anessa, Reza, Yong
 : 1. [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080)
   1. [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)
