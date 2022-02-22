@@ -132,6 +132,7 @@ Mar. 17, Thu
 : 1. [BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254)
   1. [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
   1. (Background) [Dimensionality Reduction by Learning an Invariant Mapping](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)
+  1. (Background) [Vision Models Are More Robust And Fair When Pretrained On Uncurated Images Without Supervision](https://arxiv.org/abs/2202.08360)
   1. (Background) [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
   1. (Background) [Deep Clustering for Unsupervised Learning of Visual Features](https://arxiv.org/abs/1807.05520)
   1. (Background) [Towards the Generalization of Contrastive Self-Supervised Learning](https://arxiv.org/abs/2111.00743)
@@ -173,6 +174,12 @@ Apr. 7, Thu
   1. (Background) [Goal-Aware Prediction: Learning to Model What Matters](https://arxiv.org/abs/2007.07170)
 
 Apr. 12, Tue
+: **Invited**{: .label .label-purple} Multimodal Learning
+  : [Arsha Nagrani](https://a-nagrani.github.io/)
+: 1. (Background) [Attention Bottlenecks for Multimodal Fusion](https://arxiv.org/abs/2107.00135)
+  1. (Background) [Speech2Action: Cross-modal Supervision for Action Recognition](https://arxiv.org/abs/2003.13594)
+
+Apr. 14, Thu
 : 3D Computer Vision
   : Arman, Jiahao, Mikhail, Rao
 : 1. [MarrNet: 3D Shape Reconstruction via 2.5D Sketches](https://arxiv.org/abs/1711.03129)
@@ -180,12 +187,6 @@ Apr. 12, Tue
   1. (Background) [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478)
   1. (Background) [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://arxiv.org/abs/2201.05989)
   1. (Background) [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593)
-
-Apr. 14, Thu
-: **Invited**{: .label .label-purple} Multimodal Learning
-  : [Arsha Nagrani](https://a-nagrani.github.io/)
-: 1. (Background) [Attention Bottlenecks for Multimodal Fusion](https://arxiv.org/abs/2107.00135)
-  1. (Background) [Speech2Action: Cross-modal Supervision for Action Recognition](https://arxiv.org/abs/2003.13594)
 
 Apr. 19, Tue
 : Generative Modeling
