@@ -71,7 +71,7 @@ Feb. 22, Tue
 : _University holiday, no class_
 
 Feb. 24, Thu
-: Multitask Learning ([Reading survey](https://forms.gle/fdPWVFNMASZpMJY98))
+: [Multitask Learning](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8f091b2-f57a-447f-9451-ae4601429895) ([Reading survey](https://forms.gle/fdPWVFNMASZpMJY98) / [Questions](https://drive.google.com/file/d/1RP6cshnmuhvMlvlTmT4EpbvOHHeGaVxe/view?usp=sharing) / [Slides](https://docs.google.com/presentation/d/1HIeTUBYc5aKPAGn55szw7Jrw-tlUWzlEC4yVG7Yp3Ps/edit?usp=sharing))
   : Amir, Hyuk, Jinwoo, Leonard
 : 1. [Taskonomy: Disentangling Task Transfer Learning](https://arxiv.org/abs/1804.08328)
   1. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) (Section 1, 2, 4)
