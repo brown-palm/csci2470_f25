@@ -80,8 +80,8 @@ Feb. 24, Thu
   1. (Background) [ExT5: Towards Extreme Multi-Task Scaling for Transfer Learning](https://arxiv.org/abs/2111.10952)
 
 Mar. 1, Tue
-: AI Safety
-  : Anna, Mason, Will Yang ([Reading Survey](https://forms.gle/QoJUBqmJCz5BAUF86))
+: AI Safety ([Reading Survey](https://forms.gle/QoJUBqmJCz5BAUF86))
+  : Anna, Mason, Will Yang 
 : 1. [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)
   1. (Background) [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741)
   1. (Background) [AI safety via debate](https://arxiv.org/abs/1805.00899)
@@ -89,7 +89,7 @@ Mar. 1, Tue
   1. (Background) [Objective Robustness in Deep Reinforcement Learning](https://arxiv.org/abs/2105.14111)
   
 Mar. 3, Thu
-: Transformer and its variants
+: Transformer and its variants ([Reading Survey]())
   : George Zerveas, Kai
 : 1. [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062)
   1. [Synthesizer: Rethinking Self-Attention in Transformer Models](https://arxiv.org/abs/2005.00743)
