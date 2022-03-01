@@ -80,7 +80,7 @@ Feb. 24, Thu
   1. (Background) [ExT5: Towards Extreme Multi-Task Scaling for Transfer Learning](https://arxiv.org/abs/2111.10952)
 
 Mar. 1, Tue
-: AI Safety ([Reading Survey](https://forms.gle/QoJUBqmJCz5BAUF86))
+: [AI Safety](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=823e5097-b02f-4563-869a-ae4b01463457) ([Reading Survey](https://forms.gle/QoJUBqmJCz5BAUF86) / [Questions](https://drive.google.com/file/d/1ACY2VKSi0dIgt8QK0d_ksZAhEGu-zEWP/view?usp=sharing) / [Slides](https://docs.google.com/presentation/d/1lGvMzBny74PIUaIHi3vTuKC-mLGqdr0EJW4zlZTspp8/edit?usp=sharing))
   : Anna, Mason, Will Yang 
 : 1. [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)
   1. (Background) [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741)
