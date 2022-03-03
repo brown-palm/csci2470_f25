@@ -89,7 +89,7 @@ Mar. 1, Tue
   1. (Background) [Objective Robustness in Deep Reinforcement Learning](https://arxiv.org/abs/2105.14111)
   
 Mar. 3, Thu
-: Transformer and its variants ([Reading Survey](https://forms.gle/PDixJJZp9qz9DLnY7))
+: [Transformer and its variants](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=707347b7-072c-475d-9ff9-ae4d015157ba) ([Reading Survey](https://forms.gle/PDixJJZp9qz9DLnY7) / [Questions](https://drive.google.com/file/d/1WYMEMfRm9NFLD5JLZBz4VoXFCLFoLlPW/view?usp=sharing) / [Slides1](https://docs.google.com/presentation/d/11JJBJ-KYX6EQubnk5LgwCPAntUoMe3NQ/edit?usp=sharing&ouid=107174457905760692415&rtpof=true&sd=true) / [2](https://docs.google.com/presentation/d/1oY7WZgx456OzR0wEc0-8Ubl7WdfZFqXd/edit?usp=sharing&ouid=107174457905760692415&rtpof=true&sd=true))
   : George Zerveas, Kai
 : 1. [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062)
   1. [Synthesizer: Rethinking Self-Attention in Transformer Models](https://arxiv.org/abs/2005.00743)
