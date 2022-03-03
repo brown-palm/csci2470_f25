@@ -117,6 +117,9 @@ Mar. 10, Thu
   1. (Background) [Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://arxiv.org/abs/2107.14795)
   1. (Background) [Episodic Transformer for Vision-and-Language Navigation](https://arxiv.org/abs/2105.06453)
 
+Mar. 11, Fri
+: **Due**{: .label .label-purple} [Final project signup](https://forms.gle/CgoE6bgbGKTm1YBi6)
+
 Mar. 15, Tue
 : Self-supervised Learning for NLP
   : Catherine, William Jurayj, William Rudman
@@ -144,7 +147,7 @@ Mar. 22, Tue
 : 1. (Background) [Object-Centric Learning with Slot Attention](https://arxiv.org/abs/2006.15055)
 
 Mar. 24, Thu
-: Project proposal
+: Project proposal ([Master deck](https://docs.google.com/presentation/d/15dgxZGzOuxGxafz73DtDIbgi-t526LO4jhhkm9qx8DE/edit?usp=sharing))
 
 Mar. 29, Tue
 : _Spring break_
@@ -172,6 +175,9 @@ Apr. 7, Thu
   1. (Background) [Control-Aware Representations for Model-based Reinforcement Learning](https://arxiv.org/abs/2006.13408)
   1. (Background) [Shaping Belief States with Generative Environment Models for RL](https://arxiv.org/abs/1906.09237)
   1. (Background) [Goal-Aware Prediction: Learning to Model What Matters](https://arxiv.org/abs/2007.07170)
+
+Apr. 8, Fri
+: **Due**{: .label .label-purple} [Project proposal](https://forms.gle/yP8nx47cbjHnDDWu7)
 
 Apr. 12, Tue
 : **Invited**{: .label .label-purple} Multimodal Learning
