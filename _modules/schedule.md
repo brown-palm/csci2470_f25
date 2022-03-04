@@ -108,7 +108,7 @@ Mar. 8, Tue
   1. (Background) [Video Action Transformer Network](https://arxiv.org/abs/1812.02707)
 
 Mar. 10, Thu
-: Vision Transformers (2)
+: Vision Transformers (2) ([Reading Survey](https://forms.gle/p9QyGLAXwQgDy4FHA))
   : Avi, George Hu, Peilin
 : 1. [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)
   1. [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
