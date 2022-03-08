@@ -99,7 +99,7 @@ Mar. 3, Thu
   1. (Background) [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)
 
 Mar. 8, Tue
-: Vision Transformers (1) ([Reading Survey](https://forms.gle/VNs1ci5va9TyCUkB6))
+: [Vision Transformers (1)](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9d3aebc4-6af3-42cb-aba2-ae520145323b) ([Reading Survey](https://forms.gle/VNs1ci5va9TyCUkB6) / [Questions](https://drive.google.com/file/d/11Lh4DGXfYPt_kMXIB9KlZx44vpIINe8t/view?usp=sharing) / [Slides](https://docs.google.com/presentation/d/1zLEjfVcC_WqR-j88ZshWA5jb5kzb9B-mFFi0QYcDqa8/edit?usp=sharing))
   : Chace, Justin, Shijie
 : 1. [Swin Transformer](https://arxiv.org/abs/2103.14030)
   1. [On the Relationship between Self-Attention and Convolutional Layers](https://arxiv.org/abs/1911.03584)  
