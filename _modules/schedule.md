@@ -108,7 +108,7 @@ Mar. 8, Tue
   1. (Background) [Video Action Transformer Network](https://arxiv.org/abs/1812.02707)
 
 Mar. 10, Thu
-: [Vision Transformers (2)]() ([Reading Survey](https://forms.gle/p9QyGLAXwQgDy4FHA) / [Questions](https://drive.google.com/file/d/1TF_PyNX44ln1287Nid4XrXZv_0yljarb/view?usp=sharing) / [Slides](https://docs.google.com/presentation/d/1WusDD484Vf-GLefxERdTIwFyjUTc256tc9KaWU5r59o/edit?usp=sharing))
+: [Vision Transformers (2)](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aec644c6-e666-4019-a373-ae540144df28) ([Reading Survey](https://forms.gle/p9QyGLAXwQgDy4FHA) / [Questions](https://drive.google.com/file/d/1TF_PyNX44ln1287Nid4XrXZv_0yljarb/view?usp=sharing) / [Slides](https://docs.google.com/presentation/d/1WusDD484Vf-GLefxERdTIwFyjUTc256tc9KaWU5r59o/edit?usp=sharing))
   : Avi, George Hu, Peilin
 : 1. [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)
   1. [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
