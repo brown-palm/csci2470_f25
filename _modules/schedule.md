@@ -124,7 +124,7 @@ Mar. 14, Mon
 : **Due**{: .label .label-purple} [Mid-term feedback](https://forms.gle/nmryhxNb8JmdJ9Cc9)
 
 Mar. 15, Tue
-: Self-supervised Learning for NLP
+: Self-supervised Learning for NLP ([Reading Survey](https://forms.gle/MfWCZ3jFphqVHrVB8))
   : Catherine, William Jurayj, William Rudman
 : 1. [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
   1. [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922)
