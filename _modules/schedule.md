@@ -133,7 +133,7 @@ Mar. 15, Tue
   1. (Background) [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)
 
 Mar. 17, Thu
-: Self-supervised Learning for Images
+: Self-supervised Learning for Images ([Reading Survey](https://forms.gle/Y4pyXenM7crXj6zp6))
   : Sijie, Tian, Vadim
 : 1. [BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254)
   1. [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
