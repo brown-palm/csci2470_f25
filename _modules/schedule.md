@@ -124,7 +124,7 @@ Mar. 14, Mon
 : **Due**{: .label .label-purple} [Mid-term feedback](https://forms.gle/nmryhxNb8JmdJ9Cc9)
 
 Mar. 15, Tue
-: Self-supervised Learning for NLP ([Reading Survey](https://forms.gle/MfWCZ3jFphqVHrVB8))
+: [Self-supervised Learning for NLP]() ([Reading Survey](https://forms.gle/MfWCZ3jFphqVHrVB8) / [Questions](https://drive.google.com/file/d/1Uj2GFvnOd6rxLZ_5pxcFJHg5IphXPdNX/view?usp=sharing) / [Slides](https://docs.google.com/presentation/d/17j4SlS7oaKbwAgGQsaPQTBTrA09ylJOEoFTce8dj2XA/edit?usp=sharing))
   : Catherine, William Jurayj, William Rudman
 : 1. [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
   1. [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922)
@@ -145,9 +145,10 @@ Mar. 17, Thu
   1. (Background) [Bootstrap your own latent: A new approach to self-supervised Learning](https://arxiv.org/abs/2006.07733)
 
 Mar. 22, Tue
-: **Invited**{: .label .label-purple} Self-supervised Learning for Objects
+: **Invited**{: .label .label-purple} Learning Structured Models of the World
   : [Thomas Kipf](https://tkipf.github.io/)
 : 1. (Background) [Object-Centric Learning with Slot Attention](https://arxiv.org/abs/2006.15055)
+  1. (Background) [Conditional Object-Centric Learning from Video](https://slot-attention-video.github.io/)
 
 Mar. 24, Thu
 : Project proposal ([Master deck](https://docs.google.com/presentation/d/15dgxZGzOuxGxafz73DtDIbgi-t526LO4jhhkm9qx8DE/edit?usp=sharing))
