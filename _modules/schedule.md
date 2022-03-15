@@ -124,7 +124,7 @@ Mar. 14, Mon
 : **Due**{: .label .label-purple} [Mid-term feedback](https://forms.gle/nmryhxNb8JmdJ9Cc9)
 
 Mar. 15, Tue
-: [Self-supervised Learning for NLP]() ([Reading Survey](https://forms.gle/MfWCZ3jFphqVHrVB8) / [Questions](https://drive.google.com/file/d/1Uj2GFvnOd6rxLZ_5pxcFJHg5IphXPdNX/view?usp=sharing) / [Slides](https://docs.google.com/presentation/d/17j4SlS7oaKbwAgGQsaPQTBTrA09ylJOEoFTce8dj2XA/edit?usp=sharing))
+: [Self-supervised Learning for NLP](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ae258fd6-7c11-429e-9f0b-ae5901358c60) ([Reading Survey](https://forms.gle/MfWCZ3jFphqVHrVB8) / [Questions](https://drive.google.com/file/d/1Uj2GFvnOd6rxLZ_5pxcFJHg5IphXPdNX/view?usp=sharing) / [Slides](https://docs.google.com/presentation/d/17j4SlS7oaKbwAgGQsaPQTBTrA09ylJOEoFTce8dj2XA/edit?usp=sharing))
   : Catherine, William Jurayj, William Rudman
 : 1. [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
   1. [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922)
