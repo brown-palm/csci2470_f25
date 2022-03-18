@@ -170,7 +170,7 @@ Apr. 5, Tue
 
 Apr. 7, Thu
 : Representation Learning for RL
-  : Aditya, Haotian, Solomon
+  : Aditya, Calvin, Haotian
 : 1. [CURL: Contrastive Unsupervised Representations for Reinforcement Learning](https://arxiv.org/abs/2004.04136)
   1. [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/abs/2106.01345)
   1. (Background) [Understanding the World Through Action](https://arxiv.org/abs/2110.12543)
@@ -200,7 +200,7 @@ Apr. 14, Thu
 
 Apr. 19, Tue
 : Generative Modeling
-  : Calvin, Michal, Nate, Yuanhao
+  : Michal, Nate, Yuanhao
 : 1. [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937)
   1. [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)
   1. (Background) [PointFlow : 3D Point Cloud Generation with Continuous Normalizing Flows](https://www.cs.cornell.edu/~xhuang/publication/pointflow/)
