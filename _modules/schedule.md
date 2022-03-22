@@ -145,7 +145,7 @@ Mar. 17, Thu
   1. (Background) [Bootstrap your own latent: A new approach to self-supervised Learning](https://arxiv.org/abs/2006.07733)
 
 Mar. 22, Tue
-: **Invited**{: .label .label-purple} Learning Structured Models of the World
+: **Invited**{: .label .label-purple} [Learning Structured Models of the World](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2c2fb7e3-d63b-4060-8283-ae6001347ede#)
   : [Thomas Kipf](https://tkipf.github.io/)
 : 1. (Background) [Object-Centric Learning with Slot Attention](https://arxiv.org/abs/2006.15055)
   1. (Background) [Conditional Object-Centric Learning from Video](https://slot-attention-video.github.io/)
