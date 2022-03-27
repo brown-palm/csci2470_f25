@@ -151,7 +151,7 @@ Mar. 22, Tue
   1. (Background) [Conditional Object-Centric Learning from Video](https://slot-attention-video.github.io/)
 
 Mar. 24, Thu
-: Project proposal ([Master deck](https://docs.google.com/presentation/d/15dgxZGzOuxGxafz73DtDIbgi-t526LO4jhhkm9qx8DE/edit?usp=sharing))
+: [Project proposal](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=be886c1a-e49a-4081-bd2c-ae6201322d41) ([Master deck](https://docs.google.com/presentation/d/15dgxZGzOuxGxafz73DtDIbgi-t526LO4jhhkm9qx8DE/edit?usp=sharing))
 
 Mar. 29, Tue
 : _Spring break_
@@ -160,7 +160,7 @@ Mar. 31, Thu
 : _Spring break_
 
 Apr. 5, Tue
-: Self-supervised Learning for Videos
+: Self-supervised Learning for Videos ([Reading Survey](https://forms.gle/mmtRy1EryGTWAiW9A))
   : Bader, Ce, Trevor
 : 1. [Time-Contrastive Networks: Self-Supervised Learning from Video](https://arxiv.org/abs/1704.06888)
   1. [Learning image representations tied to ego-motion](https://arxiv.org/abs/1505.02206)
@@ -169,10 +169,11 @@ Apr. 5, Tue
   1. (Background) [Learning Temporal Dynamics from Cycles in Narrated Video](https://arxiv.org/abs/2101.02337)
 
 Apr. 7, Thu
-: Representation Learning for RL
+: Representation Learning for RL ([Reading Survey](https://forms.gle/adyasAPMPLw68tt77))
   : Aditya, Calvin, Haotian
 : 1. [CURL: Contrastive Unsupervised Representations for Reinforcement Learning](https://arxiv.org/abs/2004.04136)
   1. [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/abs/2106.01345)
+  1. (Background) [R3M: A Universal Visual Representation for Robot Manipulation](https://arxiv.org/abs/2203.12601)
   1. (Background) [Understanding the World Through Action](https://arxiv.org/abs/2110.12543)
   1. (Background) [Learning Latent Plans from Play](https://arxiv.org/abs/1903.01973)
   1. (Background) [Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/abs/1811.04551)
