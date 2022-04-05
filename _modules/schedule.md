@@ -160,7 +160,7 @@ Mar. 31, Thu
 : _Spring break_
 
 Apr. 5, Tue
-: Self-supervised Learning for Videos ([Reading Survey](https://forms.gle/mmtRy1EryGTWAiW9A))
+: [Self-supervised Learning for Videos](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=16ff9a87-dd01-4b09-86bd-ae6e01302f4e) ([Reading Survey](https://forms.gle/mmtRy1EryGTWAiW9A) / [Slides](https://docs.google.com/presentation/d/1pRzY1lBZ_EePhs-jDFGVSFLUfoRrdBPtXVj9CJ2RaYc/edit#slide=id.g1215cebbd4f_73_0))
   : Bader, Ce, Trevor
 : 1. [Time-Contrastive Networks: Self-Supervised Learning from Video](https://arxiv.org/abs/1704.06888)
   1. [Learning image representations tied to ego-motion](https://arxiv.org/abs/1505.02206)
