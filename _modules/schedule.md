@@ -169,7 +169,7 @@ Apr. 5, Tue
   1. (Background) [Learning Temporal Dynamics from Cycles in Narrated Video](https://arxiv.org/abs/2101.02337)
 
 Apr. 7, Thu
-: Representation Learning for RL ([Reading Survey](https://forms.gle/adyasAPMPLw68tt77))
+: [Representation Learning for RL](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=720268f8-11d4-4d5a-81aa-ae700136f619) ([Reading Survey](https://forms.gle/adyasAPMPLw68tt77) / [Slides](https://docs.google.com/presentation/d/1T7hjs9JahBSTp3Ffo_aHoLoH0PDsiYxw2MngWvHce8w/edit?usp=sharing))
   : Aditya, Calvin, Haotian
 : 1. [CURL: Contrastive Unsupervised Representations for Reinforcement Learning](https://arxiv.org/abs/2004.04136)
   1. [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/abs/2106.01345)
