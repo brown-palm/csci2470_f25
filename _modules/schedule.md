@@ -191,7 +191,7 @@ Apr. 12, Tue
   1. (Background) [Speech2Action: Cross-modal Supervision for Action Recognition](https://arxiv.org/abs/2003.13594)
 
 Apr. 14, Thu
-: 3D Computer Vision
+: 3D Computer Vision ([Reading Survey](https://forms.gle/Q8nF2vVcHNrZUXye8))
   : Arman, Jiahao, Mikhail, Rao
 : 1. [MarrNet: 3D Shape Reconstruction via 2.5D Sketches](https://arxiv.org/abs/1711.03129)
   1. [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
