@@ -185,7 +185,7 @@ Apr. 8, Fri
 : **Due**{: .label .label-purple} [Project proposal](https://forms.gle/yP8nx47cbjHnDDWu7)
 
 Apr. 12, Tue
-: **Invited**{: .label .label-purple} [Multimodal Learning](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=88f2bd3d-f645-476c-8164-ae75012db175)
+: **Invited**{: .label .label-purple} [Multimodal Learning](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=88f2bd3d-f645-476c-8164-ae75012db175) ([Slides](https://drive.google.com/file/d/12qvTeq_m3CIJ1tPtkLQnPQ0qoxINsATc/view?usp=sharing))
   : [Arsha Nagrani](https://a-nagrani.github.io/)
 : 1. (Background) [Attention Bottlenecks for Multimodal Fusion](https://arxiv.org/abs/2107.00135)
   1. (Background) [Speech2Action: Cross-modal Supervision for Action Recognition](https://arxiv.org/abs/2003.13594)
