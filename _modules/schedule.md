@@ -202,7 +202,7 @@ Apr. 14, Thu
   1. (Background) [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593)
 
 Apr. 19, Tue
-: Generative Modeling
+: Generative Modeling ([Reading Survey](https://forms.gle/5yCtw9mKDcx7xDMg8))
   : Michal, Nate, Yuanhao
 : 1. [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937)
   1. [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)
@@ -213,7 +213,7 @@ Apr. 19, Tue
   1. (Background) [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
 
 Apr. 21, Thu
-: Data and model bias
+: Data and model bias ([Reading Survey](https://forms.gle/4jcWyg73MQWQxQcm6))
   : Arun, Ghulam, Kunal, Pinar
 : 1. [Beyond Accuracy: Behavioral Testing of NLP models with CheckList](https://arxiv.org/abs/2005.04118)
   1. [Equality of Opportunity in Supervised Learning](https://arxiv.org/abs/1610.02413)
