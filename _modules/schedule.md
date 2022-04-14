@@ -131,6 +131,8 @@ Mar. 15, Tue
   1. (Background) [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909)
   1. (Background) [SpanBERT: Improving Pre-training by Representing and Predicting Spans](https://arxiv.org/abs/1907.10529)
   1. (Background) [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)
+  1. (Background) [Human Language Understanding & Reasoning](https://www.amacad.org/publication/human-language-understanding-reasoning)
+  1. (Background) [Do Large Language Models Understand Us?](https://www.amacad.org/publication/do-large-language-models-understand-us)
 
 Mar. 17, Thu
 : [Self-supervised Learning for Images](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=11d159b5-a930-4db8-ada5-ae5b0133ae03) ([Reading Survey](https://forms.gle/Y4pyXenM7crXj6zp6) / [Questions](https://drive.google.com/file/d/1nqO6j5TW2rQVWdRy20Wup-1NDAcL0hI_/view?usp=sharing) / [Slides](https://docs.google.com/presentation/d/16Q0LaKPI4z4ziyRwtkXinUigrNPmOwOPdpGH3f83d5s/edit?usp=sharing))
@@ -191,7 +193,7 @@ Apr. 12, Tue
   1. (Background) [Speech2Action: Cross-modal Supervision for Action Recognition](https://arxiv.org/abs/2003.13594)
 
 Apr. 14, Thu
-: 3D Computer Vision ([Reading Survey](https://forms.gle/Q8nF2vVcHNrZUXye8))
+: [3D Computer Vision](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d711ec2f-5d7c-4875-9a1c-ae7701345ed2) ([Reading Survey](https://forms.gle/Q8nF2vVcHNrZUXye8) / [Slides](https://docs.google.com/presentation/d/18VymGCbdY04yHbPgFPyJOMNEgTJngvjpfU7V4JhBGTE/edit?usp=sharing))
   : Arman, Jiahao, Mikhail, Rao
 : 1. [MarrNet: 3D Shape Reconstruction via 2.5D Sketches](https://arxiv.org/abs/1711.03129)
   1. [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
