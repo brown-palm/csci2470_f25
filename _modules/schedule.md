@@ -202,7 +202,7 @@ Apr. 14, Thu
   1. (Background) [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593)
 
 Apr. 19, Tue
-: Generative Modeling ([Reading Survey](https://forms.gle/5yCtw9mKDcx7xDMg8))
+: [Generative Modeling](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c828ef6b-dd28-4bfa-90df-ae7c01333a72) ([Reading Survey](https://forms.gle/5yCtw9mKDcx7xDMg8) / [Slides](https://docs.google.com/presentation/d/1QHw3zT-jqB2lGj_5Xv2ecMnwMF14sL8j1R6ojOYgxVI/edit?usp=sharing))
   : Michal, Nate, Yuanhao
 : 1. [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937)
   1. [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)
@@ -213,7 +213,7 @@ Apr. 19, Tue
   1. (Background) [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
 
 Apr. 21, Thu
-: Data and model bias ([Reading Survey](https://forms.gle/4jcWyg73MQWQxQcm6))
+: Data and model bias ([Reading Survey](https://forms.gle/4jcWyg73MQWQxQcm6) / [Slides](https://docs.google.com/presentation/d/1-sI3118c80XN5LVFeH-LOi_kaHz27Y9gfRbgJUtpI28/edit?usp=sharing))
   : Arun, Ghulam, Kunal, Pinar
 : 1. [Beyond Accuracy: Behavioral Testing of NLP models with CheckList](https://arxiv.org/abs/2005.04118)
   1. [Equality of Opportunity in Supervised Learning](https://arxiv.org/abs/1610.02413)
@@ -221,7 +221,7 @@ Apr. 21, Thu
   1. (Background) [Comparing Human and Machine Bias in Face Recognition](https://arxiv.org/pdf/2110.08396.pdf)
 
 Apr. 26, Tue
-: Model interpretability
+: Model interpretability ([Reading Survey](https://forms.gle/9iEyoqhca4vg51AJA))
   : Amanda, Usha, Zachary
 : 1. [Do Vision Transformers See Like Convolutional Neural Networks?](https://arxiv.org/abs/2108.08810)
   1. [Acquisition of Chess Knowledge in AlphaZero](https://arxiv.org/abs/2111.09259)
@@ -229,7 +229,7 @@ Apr. 26, Tue
   1. (Background) [A Primer in BERTology: What We Know About How BERT Works](https://aclanthology.org/2020.tacl-1.54/)
 
 Apr. 28, Thu
-: Future Prediction, Causality
+: Future Prediction, Causality ([Reading Survey](https://forms.gle/Hkraa4byC4tSSsno8))
   : Alexander, Heejun, Peisen, Tiancheng
 : 1. [Attention over learned object embeddings enables complex visual reasoning](https://arxiv.org/abs/2012.08508)
   1. [PHYRE: A New Benchmark for Physical Reasoning](https://arxiv.org/abs/1908.05656)
@@ -244,6 +244,12 @@ May 5, Thu
 
 May 10, Tue
 : Final project presentations
+
+May 12, Thu
+: Final project presentations
+
+May 13, Fri
+: **Due**{: .label .label-purple} [Post-semester feedback](https://forms.gle/DtE4AtZoN9nT4Xfe7)
 
 Other
 : Student Nominated Readings
