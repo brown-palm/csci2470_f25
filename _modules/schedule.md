@@ -213,7 +213,7 @@ Apr. 19, Tue
   1. (Background) [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
 
 Apr. 21, Thu
-: Data and model bias ([Reading Survey](https://forms.gle/4jcWyg73MQWQxQcm6) / [Slides](https://docs.google.com/presentation/d/1-sI3118c80XN5LVFeH-LOi_kaHz27Y9gfRbgJUtpI28/edit?usp=sharing))
+: [Data and model bias](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a1550b8b-75e7-46b1-818b-ae7e01351285) ([Reading Survey](https://forms.gle/4jcWyg73MQWQxQcm6) / [Slides](https://docs.google.com/presentation/d/1-sI3118c80XN5LVFeH-LOi_kaHz27Y9gfRbgJUtpI28/edit?usp=sharing))
   : Arun, Ghulam, Kunal, Pinar
 : 1. [Beyond Accuracy: Behavioral Testing of NLP models with CheckList](https://arxiv.org/abs/2005.04118)
   1. [Equality of Opportunity in Supervised Learning](https://arxiv.org/abs/1610.02413)
