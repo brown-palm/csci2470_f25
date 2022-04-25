@@ -243,10 +243,13 @@ May 5, Thu
 : _Final project office hours_
 
 May 10, Tue
-: Final project presentations
+: Final project presentations ([Slides](https://docs.google.com/presentation/d/1DlnYw_fRSvEut7mW4-Ji-d8x-jnHvfgTyrUfBVrTehw/edit?usp=sharing))
 
 May 12, Thu
-: Final project presentations
+: Final project presentations ([Slides](https://docs.google.com/presentation/d/1DlnYw_fRSvEut7mW4-Ji-d8x-jnHvfgTyrUfBVrTehw/edit?usp=sharing))
+
+May 13, Fri
+: **Due**{: .label .label-purple} [Project submission](https://forms.gle/XQpcArtdC8WKFVq97)
 
 May 13, Fri
 : **Due**{: .label .label-purple} [Post-semester feedback](https://forms.gle/DtE4AtZoN9nT4Xfe7)
