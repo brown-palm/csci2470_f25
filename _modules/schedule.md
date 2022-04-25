@@ -251,10 +251,10 @@ May 10, Tue
 May 12, Thu
 : Final project presentations ([Slides](https://docs.google.com/presentation/d/1DlnYw_fRSvEut7mW4-Ji-d8x-jnHvfgTyrUfBVrTehw/edit?usp=sharing))
 
-May 13, Fri
+May 22, Fri
 : **Due**{: .label .label-purple} [Project submission](https://forms.gle/XQpcArtdC8WKFVq97)
 
-May 13, Fri
+May 22, Fri
 : **Due**{: .label .label-purple} [Post-semester feedback](https://forms.gle/DtE4AtZoN9nT4Xfe7)
 
 Other
