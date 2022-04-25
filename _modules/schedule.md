@@ -236,6 +236,9 @@ Apr. 28, Thu
   1. (Background) [Machine Theory of Mind](https://arxiv.org/abs/1802.07740)
   1. (Background) [Shaking the foundations: delusions in sequence models for interaction and control](https://arxiv.org/abs/2110.10819)
 
+Apr. 29, Fri
+: **Due**{: .label .label-purple} [Presentation Slot Signup](https://forms.gle/J8KYBpEXkHA9xbJ98)
+
 May 3, Tue
 : _Final project office hours_
 
