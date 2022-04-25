@@ -251,7 +251,7 @@ May 10, Tue
 May 12, Thu
 : Final project presentations ([Slides](https://docs.google.com/presentation/d/1DlnYw_fRSvEut7mW4-Ji-d8x-jnHvfgTyrUfBVrTehw/edit?usp=sharing))
 
-May 22, Fri
+May 13, Fri
 : **Due**{: .label .label-purple} [Project submission](https://forms.gle/XQpcArtdC8WKFVq97)
 
 May 22, Fri
