@@ -221,7 +221,7 @@ Apr. 21, Thu
   1. (Background) [Comparing Human and Machine Bias in Face Recognition](https://arxiv.org/pdf/2110.08396.pdf)
 
 Apr. 26, Tue
-: Model interpretability ([Reading Survey](https://forms.gle/9iEyoqhca4vg51AJA))
+: [Model interpretability](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bd54e609-1894-42ee-ba72-ae8301412306) ([Reading Survey](https://forms.gle/9iEyoqhca4vg51AJA) / [Slides](https://docs.google.com/presentation/d/1v4LBBZSNBx-S4-RfC1vfkdLMtQR1ctdltZEa-gRDYf8/edit?usp=sharing))
   : Amanda, Usha, Zachary
 : 1. [Do Vision Transformers See Like Convolutional Neural Networks?](https://arxiv.org/abs/2108.08810)
   1. [Acquisition of Chess Knowledge in AlphaZero](https://arxiv.org/abs/2111.09259)
