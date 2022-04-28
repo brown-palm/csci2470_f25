@@ -229,7 +229,7 @@ Apr. 26, Tue
   1. (Background) [A Primer in BERTology: What We Know About How BERT Works](https://aclanthology.org/2020.tacl-1.54/)
 
 Apr. 28, Thu
-: Future Prediction, Causality ([Reading Survey](https://forms.gle/Hkraa4byC4tSSsno8))
+: Future Prediction, Causality ([Reading Survey](https://forms.gle/Hkraa4byC4tSSsno8) / [Slides](https://docs.google.com/presentation/d/14CQdqYG2JxndW4a0A0tprG2XJgE85KWDthHkT5Fetao/edit?usp=sharing))
   : Alexander, Heejun, Peisen, Tiancheng
 : 1. [Attention over learned object embeddings enables complex visual reasoning](https://arxiv.org/abs/2012.08508)
   1. [PHYRE: A New Benchmark for Physical Reasoning](https://arxiv.org/abs/1908.05656)
