@@ -246,7 +246,7 @@ May 5, Thu
 : _Final project office hours_
 
 May 10, Tue
-: Final project presentations ([Slides](https://docs.google.com/presentation/d/1DlnYw_fRSvEut7mW4-Ji-d8x-jnHvfgTyrUfBVrTehw/edit?usp=sharing))
+: [Final project presentations](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dec232cd-66a8-46f1-8636-ae910134af37) ([Slides](https://docs.google.com/presentation/d/1DlnYw_fRSvEut7mW4-Ji-d8x-jnHvfgTyrUfBVrTehw/edit?usp=sharing))
 
 May 12, Thu
 : Final project presentations ([Slides](https://docs.google.com/presentation/d/1DlnYw_fRSvEut7mW4-Ji-d8x-jnHvfgTyrUfBVrTehw/edit?usp=sharing))
