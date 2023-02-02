@@ -74,6 +74,7 @@ Feb. 23, Thu
   1. (Background) [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175)
   1. (Background) [Learning to Learn (Blog)](https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
   1. (Background) [Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?](https://arxiv.org/abs/2003.11539)
+  1. (Background) [Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Zero-Shot_Recognition_via_CVPR_2018_paper.pdf)
 
 
 Feb. 28, Tue
@@ -196,6 +197,8 @@ Apr. 18, Tue
   1. [Acquisition of Chess Knowledge in AlphaZero](https://arxiv.org/abs/2111.09259)
   1. (Background) [BERT rediscovers the classical NLP pipeline](https://arxiv.org/abs/1905.05950)
   1. (Background) [Concept Bottleneck Models](https://arxiv.org/abs/2007.04612)
+  1. (Background) [Tracr: Compiled Transformers as a Laboratory for Interpretability](https://arxiv.org/abs/2301.05062)
+  1. (Background) [Interpreting Neural Networks through the Polytope Lens](https://arxiv.org/abs/2211.12312)
 
 
 Apr. 20, Thu
@@ -217,6 +220,8 @@ Apr. 27, Thu
 : 1. [Learning to Compose Neural Networks for Question Answering](https://arxiv.org/abs/1601.01705)
   1. [Compositional Visual Generation with Composable Diffusion Models](https://arxiv.org/abs/2206.01714)
   1. (Background) [CREPE: Can Vision-Language Foundation Models Reason Compositionally?](https://arxiv.org/abs/2212.07796)
+  1. (Background) [COGS: A Compositional Generalization Challenge Based on Semantic Interpretation](https://aclanthology.org/2020.emnlp-main.731/)
+  1. (Background) [Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems](https://arxiv.org/abs/2205.01128)
 
 
 Apr. 28, Fri
