@@ -238,9 +238,3 @@ May 12, Fri
 
 May 12, Fri
 : **Due**{: .label .label-purple} Project submission
-
-Other
-: Student Nominated Readings
-: 1. (Physics-informed ML) [Physics-informed neural networks](https://www.sciencedirect.com/science/article/pii/S0021999118307125)
-  1. (Operator Learning) [Learning nonlinear operators via DeepONet](https://www.nature.com/articles/s42256-021-00302-5)
-  1. (Biologically-Inspired Learning) [Training Spiking Neural Networks Using Lessons From Deep Learning](https://arxiv.org/abs/2109.12894)
