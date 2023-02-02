@@ -3,7 +3,7 @@ title: Paper reading list and presenters
 ---
 
 Jan 31, Tue
-: [Course Overview](https://drive.google.com/file/d/17ykUcxQlraQLcQMIdlgUJMfBBF0ZieMN/view?usp=sharing) ([slides](https://docs.google.com/presentation/d/1VSeMBMoJypRIVydBp8Q7DdAg_M1ZNinD/edit?usp=sharing&ouid=107174457905760692415&rtpof=true&sd=true))
+: [Course Overview](https://drive.google.com/file/d/17ykUcxQlraQLcQMIdlgUJMfBBF0ZieMN/view?usp=sharing) ([Slides](https://docs.google.com/presentation/d/1VSeMBMoJypRIVydBp8Q7DdAg_M1ZNinD/edit?usp=sharing&ouid=107174457905760692415&rtpof=true&sd=true))
   : Chen Sun
 : 1. (Background) [How to Read a CS Research Paper](http://www2.cs.uregina.ca/~pwlfong/CS499/reading-paper.pdf) by Philip Fong
   1. (Background) [How to do research](http://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf) by Bill Freeman
@@ -12,7 +12,7 @@ Jan 31, Tue
 
 
 Feb. 2, Thu
-: Deep Learning Recap
+: Deep Learning Recap ([Slides](https://docs.google.com/presentation/d/1kmvUO4ebot_Mz7-IbH3SspvZZgJN1x3m/edit?usp=sharing&ouid=107174457905760692415&rtpof=true&sd=true))
   : Chen Sun
 : 1. (Background) [Novelty in Science](https://perceiving-systems.blog/en/news/novelty-in-science) by Michael Black
   1. (Background) [Everything is Connected: Graph Neural Networks](https://arxiv.org/abs/2301.08210)
@@ -225,7 +225,7 @@ Apr. 27, Thu
 
 
 Apr. 28, Fri
-: **Due**{: .label .label-purple} Presentation Slot Signup
+: **Due**{: .label .label-purple} Presentation slot signup
 
 May 2, Tue
 : _Final project office hours_
