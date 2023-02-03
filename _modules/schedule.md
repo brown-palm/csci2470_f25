@@ -12,7 +12,7 @@ Jan 31, Tue
 
 
 Feb. 2, Thu
-: Deep Learning Recap ([Slides](https://docs.google.com/presentation/d/1kmvUO4ebot_Mz7-IbH3SspvZZgJN1x3m/edit?usp=sharing&ouid=107174457905760692415&rtpof=true&sd=true))
+: [Deep Learning Recap](https://drive.google.com/file/d/1UFBSsH8lt56oL7iG2NHrRwnXRVzHg8pG/view?usp=share_link) ([Slides](https://docs.google.com/presentation/d/1kmvUO4ebot_Mz7-IbH3SspvZZgJN1x3m/edit?usp=sharing&ouid=107174457905760692415&rtpof=true&sd=true))
   : Chen Sun
 : 1. (Background) [Novelty in Science](https://perceiving-systems.blog/en/news/novelty-in-science) by Michael Black
   1. (Background) [Everything is Connected: Graph Neural Networks](https://arxiv.org/abs/2301.08210)
