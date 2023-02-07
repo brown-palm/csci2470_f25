@@ -31,8 +31,8 @@ Feb. 7, Tue
 
 
 Feb. 9, Thu
-: [The Bitter Lesson]() ([Reading survey]() / [Slides]())
-  : TBD
+: [The Bitter Lesson]() ([Reading survey](https://forms.gle/LodhW8oy1tM4YJ2V8) / [Slides]())
+  : Amina, Ilija, and Raymond
 : 1. [Revisiting Unreasonable Effectiveness of Data in the Deep Learning Era](https://arxiv.org/abs/1707.02968)
   1. [Unbiased Look at Dataset Bias](https://people.csail.mit.edu/torralba/publications/datasets_cvpr11.pdf)
   1. (Background) [The bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
