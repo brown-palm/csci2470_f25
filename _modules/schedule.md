@@ -23,7 +23,7 @@ Feb. 6, Mon
 
 
 Feb. 7, Tue
-: Learning with Various Supervision
+: Learning with Various Supervision ([Slides](https://drive.google.com/file/d/1nTfL79Sx_taukBb_Txh727HDGLcnW6eV/view?usp=sharing))
   : Chen Sun
 : 1. (Background) [How to grow a mind: Statistics, structure, and abstraction](https://wiki.santafe.edu/images/e/e1/HowToGrowAMind%282011%29Tenebaum_J.pdf)
   1. (Background) [ICLR Debate with Leslie Kaelbling (video)](https://www.youtube.com/watch?v=veG8S5rqKIE)
