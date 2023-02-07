@@ -27,6 +27,7 @@ Feb. 7, Tue
   : Chen Sun
 : 1. (Background) [How to grow a mind: Statistics, structure, and abstraction](https://wiki.santafe.edu/images/e/e1/HowToGrowAMind%282011%29Tenebaum_J.pdf)
   1. (Background) [ICLR Debate with Leslie Kaelbling (video)](https://www.youtube.com/watch?v=veG8S5rqKIE)
+  1. (Background) Learning with not Enough Data by Lilian Weng ([part1](https://lilianweng.github.io/posts/2021-12-05-semi-supervised/) / [part2](https://lilianweng.github.io/posts/2022-02-20-active-learning/))
 
 
 Feb. 9, Thu
@@ -103,6 +104,9 @@ Mar. 2, Thu
 Mar. 7, Tue
 : Self-supervised and Multimodal Learning
   : Chen Sun
+: 1. (Background)[Self-Supervised Representation Learning](https://lilianweng.github.io/posts/2019-11-10-self-supervised/) by Lilian Weng
+  1. (Background)[Contrastive Representation Learning](https://lilianweng.github.io/posts/2021-05-31-contrastive/) by Lilian Weng
+  1. (Background)[Self-Supervised Learning](https://project.inria.fr/paiss/files/2018/07/zisserman-self-supervised.pdf) by Andrew Zisserman
 
 
 Mar. 9, Tue
@@ -188,6 +192,7 @@ Apr. 13, Thu
   : TBD
 : 1. [Deep Reinforcement Learning from Human Preferences](https://proceedings.neurips.cc/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf)
   1. [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
+  1. [Why does ChatGPT constantly lie?](https://noahpinion.substack.com/p/4e262415-6b0e-41b7-ba2d-8f620790bf63) by Noah Smith
 
 
 Apr. 18, Tue
@@ -199,6 +204,7 @@ Apr. 18, Tue
   1. (Background) [Concept Bottleneck Models](https://arxiv.org/abs/2007.04612)
   1. (Background) [Tracr: Compiled Transformers as a Laboratory for Interpretability](https://arxiv.org/abs/2301.05062)
   1. (Background) [Interpreting Neural Networks through the Polytope Lens](https://arxiv.org/abs/2211.12312)
+  1. (Background) [Neural Networks and the Chomsky Hierarchy](https://arxiv.org/abs/2207.02098)
 
 
 Apr. 20, Thu
