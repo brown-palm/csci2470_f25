@@ -12,7 +12,7 @@ nav_exclude: true
 {{ staffer }}
 {% endfor %}
 
-Office hour: 10:00 to 11:00 am TThu, or by appointment
+Office hour: 10:00 to 11:00am TThu, or by appointment
 
 Office: CIT 379
 
