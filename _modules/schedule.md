@@ -31,7 +31,7 @@ Feb. 7, Tue
 
 
 Feb. 9, Thu
-: [The Bitter Lesson]() ([Reading survey](https://forms.gle/LodhW8oy1tM4YJ2V8) / [Slides](https://docs.google.com/presentation/d/1z-gv9VkRKuGJcPYTuVxy0ybeT3PppoJaoowmsy-jx0c/edit?usp=sharing))
+: [The Bitter Lesson](https://drive.google.com/file/d/1clMnHW9TAhvDdlCGBZILE0dIDdZRAbqA/view?usp=share_link) ([Reading survey](https://forms.gle/LodhW8oy1tM4YJ2V8) / [Slides](https://docs.google.com/presentation/d/1z-gv9VkRKuGJcPYTuVxy0ybeT3PppoJaoowmsy-jx0c/edit?usp=sharing))
   : Amina, Ilija, and Raymond
 : 1. [Revisiting Unreasonable Effectiveness of Data in the Deep Learning Era](https://arxiv.org/abs/1707.02968)
   1. [Unbiased Look at Dataset Bias](https://people.csail.mit.edu/torralba/publications/datasets_cvpr11.pdf)
@@ -43,7 +43,7 @@ Feb. 9, Thu
 
 Feb. 14, Tue
 : Semi-supervised Learning
-  : TBD
+  : Rosella, Patrick, Lingyu, and Michael Freeman
 : 1. [Mean teachers are better role models](https://arxiv.org/abs/1703.01780)
   1. [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/abs/1905.02249)
   1. (Background) [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
@@ -53,7 +53,7 @@ Feb. 14, Tue
 
 Feb. 16, Thu
 : Transfer Learning
-  : TBD
+  : Wasiwasi, Abubakarr, Yiqing, and Jacob
 : 1. [Learning and Transferring Mid-Level Image Representations using Convolutional Neural Networks](https://leon.bottou.org/publications/pdf/cvpr-2014.pdf)
   1. [Transfusion: Understanding Transfer Learning for Medical Imaging](https://arxiv.org/abs/1902.07208)
   1. (Background) [Big Transfer (BiT): General Visual Representation Learning](https://arxiv.org/abs/1912.11370)
@@ -68,7 +68,7 @@ Feb. 21, Tue
 
 Feb. 23, Thu
 : Few-shot and In-context Learning
-  : TBD
+  : Sheridan, Shreyas, and Zhuo
 : 1. [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080)
   1. [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
   1. (Background) [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)
@@ -80,7 +80,7 @@ Feb. 23, Thu
 
 Feb. 28, Tue
 : Multitask Learning
-  : TBD
+  : Noah, Alexander Meyerowitz, Pinyuan
 : 1. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) (Section 1, 2, 4)
   1. [A Generalist Agent](https://arxiv.org/abs/2205.06175)
   1. (Background) [Multitask Prompted Training Enables Zero-Shot Task Generalization](https://arxiv.org/abs/2110.08207)
@@ -91,7 +91,7 @@ Feb. 28, Tue
   
 Mar. 2, Thu
 : Transformer and its variants
-  : TBD
+  : Dong Keun, Yuan, and David
 : 1. [Swin Transformer](https://arxiv.org/abs/2103.14030)
   1. [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
   1. (Background) [Synthesizer: Rethinking Self-Attention in Transformer Models](https://arxiv.org/abs/2005.00743)
@@ -111,7 +111,7 @@ Mar. 7, Tue
 
 Mar. 9, Tue
 : Self-supervised Learning for NLP
-  : TBD
+  : Yang, Adrian, and Vignesh
 : 1. [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909)
   1. [Discovering Latent Knowledge in Language Models Without Supervision](https://arxiv.org/abs/2212.03827)
   1. (Background) [Self Supervision Does Not Help Natural Language Supervision at Scale](https://arxiv.org/abs/2301.07836)
@@ -133,7 +133,7 @@ Mar. 14, Tue
 
 Mar. 16, Thu
 : Self-supervised Learning for Images and Videos
-  : TBD
+  : Arthur, Robert, and Siyang
 : 1. [Dimensionality Reduction by Learning an Invariant Mapping](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)
   1. [Time-Contrastive Networks: Self-Supervised Learning from Video](https://arxiv.org/abs/1704.06888)
   1. (Background) [BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254)
@@ -164,7 +164,7 @@ Apr. 4, Tue
 
 Apr. 6, Thu
 : World Models
-  : TBD
+  : Ray, Alexander Halpin, and Zhiyuan
 : 1. [World Models](https://arxiv.org/abs/1803.10122)
   1. [Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/abs/1811.04551)
   1. (Background) [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104v1)
@@ -177,7 +177,7 @@ Apr. 7, Fri
 
 Apr. 11, Tue
 : Learning from Offline Demonstration
-  : TBD
+  : Anirudha, Zilai, and Akash
 : 1. [Learning to Act by Watching Unlabeled Online Videos](https://cdn.openai.com/vpt/Paper.pdf)
   1. [Offline Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/abs/2106.02039)
   1. (Background) [Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://minedojo.org/)
@@ -189,7 +189,7 @@ Apr. 11, Tue
 
 Apr. 13, Thu
 : RL from Human Feedback
-  : TBD
+  : Ziyi, Qi, and Christopher
 : 1. [Deep Reinforcement Learning from Human Preferences](https://proceedings.neurips.cc/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf)
   1. [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
   1. [Why does ChatGPT constantly lie?](https://noahpinion.substack.com/p/4e262415-6b0e-41b7-ba2d-8f620790bf63) by Noah Smith
@@ -197,7 +197,7 @@ Apr. 13, Thu
 
 Apr. 18, Tue
 : Model Interpretability
-  : TBD
+  : Michael Lepori, Haoyu, and Qinan
 : 1. [Do Vision Transformers See Like Convolutional Neural Networks?](https://arxiv.org/abs/2108.08810)
   1. [Acquisition of Chess Knowledge in AlphaZero](https://arxiv.org/abs/2111.09259)
   1. (Background) [BERT rediscovers the classical NLP pipeline](https://arxiv.org/abs/1905.05950)
@@ -214,7 +214,7 @@ Apr. 20, Thu
 
 Apr. 25, Tue
 : 3D Generation
-  : TBD
+  : Nitya, Linghai, and Yuan
 : 1. [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988)
   1. [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751)
   1. (Background) [Text-To-4D Dynamic Scene Generation](https://arxiv.org/abs/2301.11280)
@@ -222,7 +222,7 @@ Apr. 25, Tue
 
 Apr. 27, Thu
 : Compositionality
-  : TBD
+  : Lingze, Suraj, and Apoorv
 : 1. [Learning to Compose Neural Networks for Question Answering](https://arxiv.org/abs/1601.01705)
   1. [Compositional Visual Generation with Composable Diffusion Models](https://arxiv.org/abs/2206.01714)
   1. (Background) [CREPE: Can Vision-Language Foundation Models Reason Compositionally?](https://arxiv.org/abs/2212.07796)
