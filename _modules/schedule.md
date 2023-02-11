@@ -193,6 +193,7 @@ Apr. 13, Thu
 : 1. [Deep Reinforcement Learning from Human Preferences](https://proceedings.neurips.cc/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf)
   1. [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
   1. [Why does ChatGPT constantly lie?](https://noahpinion.substack.com/p/4e262415-6b0e-41b7-ba2d-8f620790bf63) by Noah Smith
+  1. [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web) by Ted Chiang
 
 
 Apr. 18, Tue
