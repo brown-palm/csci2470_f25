@@ -42,7 +42,7 @@ Feb. 9, Thu
 
 
 Feb. 14, Tue
-: Semi-supervised Learning
+: Semi-supervised Learning ([Reading survey](https://forms.gle/S8hdDzNAcZ5FgfTb7) / [Slides]())
   : Rosella, Patrick, Lingyu, and Michael Freeman
 : 1. [Mean teachers are better role models](https://arxiv.org/abs/1703.01780)
   1. [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/abs/1905.02249)
@@ -83,6 +83,7 @@ Feb. 28, Tue
   : Noah, Alexander Meyerowitz, Pinyuan
 : 1. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) (Section 1, 2, 4)
   1. [A Generalist Agent](https://arxiv.org/abs/2205.06175)
+  1. (Background) [Intelligence without representation](https://people.csail.mit.edu/brooks/papers/representation.pdf)
   1. (Background) [Multitask Prompted Training Enables Zero-Shot Task Generalization](https://arxiv.org/abs/2110.08207)
   1. (Background) [Taskonomy: Disentangling Task Transfer Learning](https://arxiv.org/abs/1804.08328)
   1. (Background) [UberNet: Training a Universal Convolutional Neural Network](https://arxiv.org/abs/1609.02132)
