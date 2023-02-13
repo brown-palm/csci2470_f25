@@ -42,10 +42,12 @@ Feb. 9, Thu
 
 
 Feb. 14, Tue
-: Semi-supervised Learning ([Reading survey](https://forms.gle/S8hdDzNAcZ5FgfTb7) / [Slides]())
+: Semi-supervised Learning ([Reading survey](https://forms.gle/S8hdDzNAcZ5FgfTb7) / [Slides](https://docs.google.com/presentation/d/1Bh_72iOYKv2aIJoUa_CuDw5TcAEOjXHKbv-gSQ4GZ00/edit?usp=sharing))
   : Rosella, Patrick, Lingyu, and Michael Freeman
 : 1. [Mean teachers are better role models](https://arxiv.org/abs/1703.01780)
   1. [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/abs/1905.02249)
+  1. (Presentation) [Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning](https://arxiv.org/pdf/1704.03976.pdf)
+  1. (Presentation) [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://arxiv.org/pdf/2001.07685.pdf)
   1. (Background) [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
   1. (Background) [Inductive Representation Learning on Large Graphs](https://arxiv.org/abs/1706.02216)
   1. (Background) [Transfer Learning in a Transductive Setting](https://papers.nips.cc/paper/2013/hash/3295c76acbf4caaed33c36b1b5fc2cb1-Abstract.html)
