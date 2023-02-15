@@ -42,7 +42,7 @@ Feb. 9, Thu
 
 
 Feb. 14, Tue
-: Semi-supervised Learning ([Reading survey](https://forms.gle/S8hdDzNAcZ5FgfTb7) / [Slides](https://docs.google.com/presentation/d/1Bh_72iOYKv2aIJoUa_CuDw5TcAEOjXHKbv-gSQ4GZ00/edit?usp=sharing))
+: [Semi-supervised Learning](https://drive.google.com/file/d/1RQL2hrCI9wYZ_n_BRJYpGmmyWxz4lQGd/view?usp=sharing) ([Reading survey](https://forms.gle/S8hdDzNAcZ5FgfTb7) / [Slides](https://docs.google.com/presentation/d/1R-y6WaBqKcEdMTBaw_tTHdE3s-JCcJ0Wr1N0Tom6WgI/edit?usp=sharing))
   : Rosella, Patrick, Lingyu, and Michael Freeman
 : 1. [Mean teachers are better role models](https://arxiv.org/abs/1703.01780)
   1. [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/abs/1905.02249)
