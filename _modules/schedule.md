@@ -54,7 +54,7 @@ Feb. 14, Tue
 
 
 Feb. 16, Thu
-: Transfer Learning ([Reading survey](https://forms.gle/2e3ab7oAUYqaYfsV9) / Slides)
+: Transfer Learning ([Reading survey](https://forms.gle/2e3ab7oAUYqaYfsV9) / [Slides](https://docs.google.com/presentation/d/124RgSJd3MlLB6JkZSoVwA-wNAcoNxxOlLKTsRYdkA-c/edit?usp=sharing))
   : Wasiwasi, Abubakarr, Yiqing, and Jacob
 : 1. [Learning and Transferring Mid-Level Image Representations using Convolutional Neural Networks](https://leon.bottou.org/publications/pdf/cvpr-2014.pdf)
   1. [Transfusion: Understanding Transfer Learning for Medical Imaging](https://arxiv.org/abs/1902.07208)
