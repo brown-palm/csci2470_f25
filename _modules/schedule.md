@@ -197,6 +197,7 @@ Apr. 13, Thu
   1. [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
   1. [Why does ChatGPT constantly lie?](https://noahpinion.substack.com/p/4e262415-6b0e-41b7-ba2d-8f620790bf63) by Noah Smith
   1. [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web) by Ted Chiang
+  1. [Stanford CS224N](http://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf)
 
 
 Apr. 18, Tue
