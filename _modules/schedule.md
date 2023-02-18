@@ -62,6 +62,7 @@ Feb. 16, Thu
   1. (Background) [Rethinking Pre-training and Self-training](https://arxiv.org/abs/2006.06882)
   1. (Background) [A Large-scale Study of Representation Learning with the Visual Task Adaptation Benchmark](https://arxiv.org/abs/1910.04867)
   1. (Background) [Rethinking ImageNet Pre-training](https://arxiv.org/abs/1811.08883)
+  1. (Background) [Natural Language Processing (almost) from Scratch](https://arxiv.org/abs/1103.0398)
 
 
 Feb. 21, Tue
