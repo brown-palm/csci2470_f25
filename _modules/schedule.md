@@ -70,7 +70,7 @@ Feb. 21, Tue
 
 
 Feb. 23, Thu
-: Few-shot and In-context Learning
+: Few-shot and In-context Learning ([Reading survey](https://forms.gle/H9vegd9ya1NLVLHGA))
   : Sheridan, Shreyas, and Zhuo
 : 1. [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080)
   1. [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
@@ -79,6 +79,7 @@ Feb. 23, Thu
   1. (Background) [Learning to Learn (Blog)](https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
   1. (Background) [Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?](https://arxiv.org/abs/2003.11539)
   1. (Background) [Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Zero-Shot_Recognition_via_CVPR_2018_paper.pdf)
+  1. (Background) [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198)
 
 
 Feb. 28, Tue
