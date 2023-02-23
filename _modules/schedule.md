@@ -70,7 +70,7 @@ Feb. 21, Tue
 
 
 Feb. 23, Thu
-: Few-shot and In-context Learning ([Reading survey](https://forms.gle/H9vegd9ya1NLVLHGA) / [Slides]())
+: Few-shot and In-context Learning ([Reading survey](https://forms.gle/H9vegd9ya1NLVLHGA) / [Slides](https://docs.google.com/presentation/d/1tJ_C-qfEsrzJtaAEgpG7KhpDjC1GYtiJRMY_SSpRPak/edit?usp=sharing))
   : Sheridan, Shreyas, and Zhuo
 : 1. [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080)
   1. [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
