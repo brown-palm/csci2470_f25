@@ -83,7 +83,7 @@ Feb. 23, Thu
 
 
 Feb. 28, Tue
-: Multitask Learning
+: Multitask Learning ([Reading survey](https://forms.gle/jqKrGfCNPCwbkhy49))
   : Noah, Alexander Meyerowitz, Pinyuan
 : 1. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) (Section 1, 2, 4)
   1. [A Generalist Agent](https://arxiv.org/abs/2205.06175)
@@ -95,7 +95,7 @@ Feb. 28, Tue
 
   
 Mar. 2, Thu
-: Transformer and its variants
+: Transformer and its variants ([Reading survey](https://forms.gle/NsTjYZjNY4axTULLA))
   : Dong Keun, Yuan, and David
 : 1. [Swin Transformer](https://arxiv.org/abs/2103.14030)
   1. [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
@@ -109,9 +109,9 @@ Mar. 2, Thu
 Mar. 7, Tue
 : Self-supervised and Multimodal Learning
   : Chen Sun
-: 1. (Background)[Self-Supervised Representation Learning](https://lilianweng.github.io/posts/2019-11-10-self-supervised/) by Lilian Weng
-  1. (Background)[Contrastive Representation Learning](https://lilianweng.github.io/posts/2021-05-31-contrastive/) by Lilian Weng
-  1. (Background)[Self-Supervised Learning](https://project.inria.fr/paiss/files/2018/07/zisserman-self-supervised.pdf) by Andrew Zisserman
+: 1. (Background) [Self-Supervised Representation Learning](https://lilianweng.github.io/posts/2019-11-10-self-supervised/) by Lilian Weng
+  1. (Background) [Contrastive Representation Learning](https://lilianweng.github.io/posts/2021-05-31-contrastive/) by Lilian Weng
+  1. (Background) [Self-Supervised Learning](https://project.inria.fr/paiss/files/2018/07/zisserman-self-supervised.pdf) by Andrew Zisserman
 
 
 Mar. 9, Tue
