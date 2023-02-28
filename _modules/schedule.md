@@ -83,7 +83,7 @@ Feb. 23, Thu
 
 
 Feb. 28, Tue
-: Multitask Learning ([Reading survey](https://forms.gle/jqKrGfCNPCwbkhy49) / [Slides](https://docs.google.com/presentation/d/1hv3y4i0xvkTsYV9EK3DmQslJsl_ABevja495OlemacA/edit?usp=sharing))
+: [Multitask Learning](https://drive.google.com/file/d/1JkkhR7ENO0XTr-1U_3nr4Swz6fbPMEgD/view?usp=sharing) ([Reading survey](https://forms.gle/jqKrGfCNPCwbkhy49) / [Slides](https://docs.google.com/presentation/d/1wv9omE95rlC6HmfBSWrWPboPKfrzi1TZubbNTaH9dmQ/edit?usp=sharing))
   : Noah, Alexander Meyerowitz, Pinyuan
 : 1. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) (Section 1, 2, 4)
   1. [A Generalist Agent](https://arxiv.org/abs/2205.06175)
