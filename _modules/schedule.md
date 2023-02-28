@@ -83,7 +83,7 @@ Feb. 23, Thu
 
 
 Feb. 28, Tue
-: Multitask Learning ([Reading survey](https://forms.gle/jqKrGfCNPCwbkhy49))
+: Multitask Learning ([Reading survey](https://forms.gle/jqKrGfCNPCwbkhy49) / [Slides](https://docs.google.com/presentation/d/1hv3y4i0xvkTsYV9EK3DmQslJsl_ABevja495OlemacA/edit?usp=sharing))
   : Noah, Alexander Meyerowitz, Pinyuan
 : 1. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) (Section 1, 2, 4)
   1. [A Generalist Agent](https://arxiv.org/abs/2205.06175)
@@ -114,7 +114,7 @@ Mar. 7, Tue
   1. (Background) [Self-Supervised Learning](https://project.inria.fr/paiss/files/2018/07/zisserman-self-supervised.pdf) by Andrew Zisserman
 
 
-Mar. 9, Tue
+Mar. 9, Thu
 : Self-supervised Learning for NLP
   : Yang, Adrian, and Vignesh
 : 1. [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909)
