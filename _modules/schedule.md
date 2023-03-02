@@ -95,7 +95,7 @@ Feb. 28, Tue
 
   
 Mar. 2, Thu
-: Transformer and its variants ([Reading survey](https://forms.gle/NsTjYZjNY4axTULLA))
+: Transformer and its variants ([Reading survey](https://forms.gle/NsTjYZjNY4axTULLA) / [Slides](https://docs.google.com/presentation/d/1uMrZ77RJ-k_SfJG4b2Ahmt6Ebvk2DWRMTH8aRxqu6Vg/edit?usp=sharing))
   : Dong Keun, Yuan, and David
 : 1. [Swin Transformer](https://arxiv.org/abs/2103.14030)
   1. [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
