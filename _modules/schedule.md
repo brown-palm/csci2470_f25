@@ -107,7 +107,7 @@ Mar. 2, Thu
 
 
 Mar. 7, Tue
-: Self-supervised and Multimodal Learning
+: Self-supervised and Multimodal Learning ([Slides]())
   : Chen Sun
 : 1. (Background) [Self-Supervised Representation Learning](https://lilianweng.github.io/posts/2019-11-10-self-supervised/) by Lilian Weng
   1. (Background) [Contrastive Representation Learning](https://lilianweng.github.io/posts/2021-05-31-contrastive/) by Lilian Weng
@@ -115,7 +115,7 @@ Mar. 7, Tue
 
 
 Mar. 9, Thu
-: Self-supervised Learning for NLP
+: Self-supervised Learning for NLP ([Reading survey](https://forms.gle/F3ggE2P6VHD63Aan7))
   : Yang, Adrian, and Vignesh
 : 1. [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909)
   1. [Discovering Latent Knowledge in Language Models Without Supervision](https://arxiv.org/abs/2212.03827)
