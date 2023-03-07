@@ -107,7 +107,7 @@ Mar. 2, Thu
 
 
 Mar. 7, Tue
-: Self-supervised and Multimodal Learning ([Slides](https://drive.google.com/file/d/1b2Fk0I1LujvnnURi7yJryEXOFspEvaI0/view?usp=sharing))
+: [Self-supervised and Multimodal Learning](https://drive.google.com/file/d/1tZZwwDBPz6cywkDa4AoPzRdFyjZq9Y-0/view?usp=sharing) ([Slides](https://drive.google.com/file/d/1b2Fk0I1LujvnnURi7yJryEXOFspEvaI0/view?usp=sharing))
   : Chen Sun
 : 1. (Background) [Self-Supervised Representation Learning](https://lilianweng.github.io/posts/2019-11-10-self-supervised/) by Lilian Weng
   1. (Background) [Contrastive Representation Learning](https://lilianweng.github.io/posts/2021-05-31-contrastive/) by Lilian Weng
