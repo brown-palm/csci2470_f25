@@ -115,7 +115,7 @@ Mar. 7, Tue
 
 
 Mar. 9, Thu
-: Self-supervised Learning for NLP ([Reading survey](https://forms.gle/F3ggE2P6VHD63Aan7) / [Slides](https://docs.google.com/presentation/d/15PF1UOxm612_kQooC4IlvzqnViLloBbrnIIuIvfF2EI/edit?usp=sharing))
+: [Self-supervised Learning for NLP](https://drive.google.com/file/d/1NaWT42c8LGIdV5i6z0dy7N0zqXsD6fC0/view?usp=share_link) ([Reading survey](https://forms.gle/F3ggE2P6VHD63Aan7) / [Slides](https://docs.google.com/presentation/d/1sfdZX_MIfdbVQcPwDDH0KbFZ9UgfVqhPWyrLDl0SYj0/edit?usp=sharing))
   : Yang, Adrian, and Vignesh
 : 1. [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909)
   1. [Discovering Latent Knowledge in Language Models Without Supervision](https://arxiv.org/abs/2212.03827)
@@ -133,7 +133,7 @@ Mar. 9, Thu
 
 
 Mar. 14, Tue
-: **Invited**{: .label .label-purple} Guest Lecture
+: **Invited**{: .label .label-purple} Computer Vision for Global Scale Biodiversity Monitoring
   : [Sara Beery](https://beerys.github.io/)
 
 
