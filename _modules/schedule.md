@@ -115,7 +115,7 @@ Mar. 7, Tue
 
 
 Mar. 9, Thu
-: Self-supervised Learning for NLP ([Reading survey](https://forms.gle/F3ggE2P6VHD63Aan7))
+: Self-supervised Learning for NLP ([Reading survey](https://forms.gle/F3ggE2P6VHD63Aan7) / [Slides](https://docs.google.com/presentation/d/15PF1UOxm612_kQooC4IlvzqnViLloBbrnIIuIvfF2EI/edit?usp=sharing))
   : Yang, Adrian, and Vignesh
 : 1. [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909)
   1. [Discovering Latent Knowledge in Language Models Without Supervision](https://arxiv.org/abs/2212.03827)
@@ -127,8 +127,9 @@ Mar. 9, Thu
   1. (Background) [Do Large Language Models Understand Us?](https://www.amacad.org/publication/do-large-language-models-understand-us)
 
 
-Mar. 10, Fri
-: **Due**{: .label .label-purple} Final project signup
+Mar. 9, Thu
+: **Project**{: .label .label-purple} [Final project signup](https://forms.gle/8jJZN6UvavBi4enC9)
+  : Due on 3/16
 
 
 Mar. 14, Tue
