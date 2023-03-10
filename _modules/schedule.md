@@ -131,6 +131,10 @@ Mar. 9, Thu
 : **Project**{: .label .label-purple} [Final project signup](https://forms.gle/8jJZN6UvavBi4enC9)
   : Due on 3/16
 
+Mar. 10, Fri
+: **Homework**{: .label .label-purple} [First mini project](https://docs.google.com/document/d/1A87spJ2DxF6F0gRqyQp96YZeSw2kaXlhJ9YCoCELApI/edit?usp=sharing)
+  : Due on 4/28
+
 
 Mar. 14, Tue
 : **Invited**{: .label .label-purple} Computer Vision for Global Scale Biodiversity Monitoring
