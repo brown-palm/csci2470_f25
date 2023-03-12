@@ -144,7 +144,7 @@ Mar. 14, Tue
 Mar. 16, Thu
 : Self-supervised Learning for Images and Videos
   : Arthur, Robert, and Siyang
-: 1. [Dimensionality Reduction by Learning an Invariant Mapping](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)
+: 1. [Dimensionality Reduction by Learning an Invariant Mapping](https://ieeexplore.ieee.org/document/1640964)
   1. [Time-Contrastive Networks: Self-Supervised Learning from Video](https://arxiv.org/abs/1704.06888)
   1. (Background) [BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254)
   1. (Background) [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
