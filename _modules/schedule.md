@@ -137,7 +137,7 @@ Mar. 10, Fri
 
 
 Mar. 14, Tue
-: **Invited**{: .label .label-purple} Computer Vision for Global Scale Biodiversity Monitoring
+: **Invited**{: .label .label-purple} [Computer Vision for Global Scale Biodiversity Monitoring](https://drive.google.com/file/d/1od3-w7Tn_QjeKsWeSCd3JHVtg1OLt25E/view?usp=sharing)
   : [Sara Beery](https://beerys.github.io/)
 
 
