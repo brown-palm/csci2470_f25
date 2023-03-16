@@ -142,7 +142,7 @@ Mar. 14, Tue
 
 
 Mar. 16, Thu
-: Self-supervised Learning for Images and Videos ([Reading survey](https://forms.gle/Xq6WKQ8uFaQvDiVn7))
+: [Self-supervised Learning for Images and Videos](https://drive.google.com/file/d/1IbIwFR_8aULBc30msmk0Plod3h6gU4RA/view?usp=sharing) ([Reading survey](https://forms.gle/Xq6WKQ8uFaQvDiVn7) / [Slides](https://docs.google.com/presentation/d/1glMf_5P5qjeAEwgl4KV65XfdHtrjoWE-HXHCL9zdoTw/edit?usp=sharing))
   : Arthur, Robert, and Siyang
 : 1. [Dimensionality Reduction by Learning an Invariant Mapping](https://ieeexplore.ieee.org/document/1640964)
   1. [Time-Contrastive Networks: Self-Supervised Learning from Video](https://arxiv.org/abs/1704.06888)
