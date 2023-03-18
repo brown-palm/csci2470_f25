@@ -155,12 +155,15 @@ Mar. 16, Thu
 
 
 Mar. 21, Tue
-: **Invited**{: .label .label-purple} Guest Lecture
+: **Invited**{: .label .label-purple} The Future of Computer Vision via Foundation Models and Beyond
   : [Ce Liu](http://people.csail.mit.edu/celiu/)
 
 
 Mar. 23, Thu
-: Project proposal
+: Project proposal ([Slides](https://docs.google.com/presentation/d/1zRjCtqidvMvogfbcc7yM3h14Nz7JC8yX4Cnul67oTwQ/edit?usp=sharing))
+
+Mar. 23, Thu
+: **Feedback**{: .label .label-purple} [Mid-semester Feedback Form](https://forms.gle/AtsxomKRQRAQ3WTf6)
 
 Mar. 28, Tue
 : _Spring break_
