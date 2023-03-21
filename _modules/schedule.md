@@ -155,7 +155,7 @@ Mar. 16, Thu
 
 
 Mar. 21, Tue
-: **Invited**{: .label .label-purple} The Future of Computer Vision via Foundation Models and Beyond
+: **Invited**{: .label .label-purple} [The Future of Computer Vision via Foundation Models and Beyond](https://drive.google.com/file/d/1lZEvPcNX46XAaLvG8m-TDy6QSBZ8NI3d/view?usp=sharing)
   : [Ce Liu](http://people.csail.mit.edu/celiu/)
 
 
