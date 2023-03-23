@@ -160,7 +160,7 @@ Mar. 21, Tue
 
 
 Mar. 23, Thu
-: Project proposal ([Slides](https://docs.google.com/presentation/d/1zRjCtqidvMvogfbcc7yM3h14Nz7JC8yX4Cnul67oTwQ/edit?usp=sharing))
+: [Project proposal](https://drive.google.com/file/d/1ElitXltMY0RsSXpwKH2IbvU4LnMTroAp/view?usp=sharing) ([Slides](https://docs.google.com/presentation/d/1zRjCtqidvMvogfbcc7yM3h14Nz7JC8yX4Cnul67oTwQ/edit?usp=sharing))
 
 Mar. 23, Thu
 : **Feedback**{: .label .label-purple} [Mid-semester Feedback Form](https://forms.gle/AtsxomKRQRAQ3WTf6)
