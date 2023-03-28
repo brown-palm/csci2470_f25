@@ -199,7 +199,6 @@ Apr. 11, Tue
   1. (Background) [Learning Latent Plans from Play](https://arxiv.org/abs/1903.01973)
 
 
-
 Apr. 13, Thu
 : RL from Human Feedback
   : Ziyi, Qi, and Christopher
@@ -223,11 +222,6 @@ Apr. 18, Tue
 
 
 Apr. 20, Thu
-: Generative Modeling
-  : Chen Sun
-
-
-Apr. 25, Tue
 : 3D Generation
   : Nitya, Linghai, and Yuan
 : 1. [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988)
@@ -235,7 +229,7 @@ Apr. 25, Tue
   1. (Background) [Text-To-4D Dynamic Scene Generation](https://arxiv.org/abs/2301.11280)
 
 
-Apr. 27, Thu
+Apr. 25, Tue
 : Compositionality
   : Lingze, Suraj, and Apoorv
 : 1. [Learning to Compose Neural Networks for Question Answering](https://arxiv.org/abs/1601.01705)
@@ -243,6 +237,11 @@ Apr. 27, Thu
   1. (Background) [CREPE: Can Vision-Language Foundation Models Reason Compositionally?](https://arxiv.org/abs/2212.07796)
   1. (Background) [COGS: A Compositional Generalization Challenge Based on Semantic Interpretation](https://aclanthology.org/2020.emnlp-main.731/)
   1. (Background) [Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems](https://arxiv.org/abs/2205.01128)
+
+
+Apr. 27, Thu
+: Recap
+  : Chen Sun
 
 
 Apr. 28, Fri
