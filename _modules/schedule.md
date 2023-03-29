@@ -166,6 +166,10 @@ Mar. 23, Thu
 : **Feedback**{: .label .label-purple} [Mid-semester Feedback Form](https://forms.gle/AtsxomKRQRAQ3WTf6)
 
 Mar. 28, Tue
+: **Homework**{: .label .label-purple} [Second mini project](https://docs.google.com/document/d/13GjqihWU1myGRaO0yKloqusF4Ehf1LYYhc7-pLXZIN0/edit?usp=sharing)
+  : Due on 4/28
+
+Mar. 28, Tue
 : _Spring break_
 
 Mar. 30, Thu
@@ -183,10 +187,6 @@ Apr. 6, Thu
   1. (Background) [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104v1)
   1. (Background) [Control-Aware Representations for Model-based Reinforcement Learning](https://arxiv.org/abs/2006.13408)
   1. (Background) [Shaping Belief States with Generative Environment Models for RL](https://arxiv.org/abs/1906.09237)
-
-
-Apr. 7, Fri
-: **Due**{: .label .label-purple} Project proposal
 
 Apr. 11, Tue
 : Learning from Offline Demonstration
