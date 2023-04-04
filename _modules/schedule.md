@@ -176,7 +176,7 @@ Mar. 30, Thu
 : _Spring break_
 
 Apr. 4, Tue
-: Reinforcement Learning
+: Reinforcement Learning ([Slides](https://drive.google.com/file/d/1_wpikU3ccspsBDCjAzv0XjVLPMhEBI1V/view?usp=sharing))
   : Chen Sun
 
 Apr. 6, Thu
@@ -187,17 +187,12 @@ Apr. 6, Thu
   1. (Background) [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104v1)
   1. (Background) [Control-Aware Representations for Model-based Reinforcement Learning](https://arxiv.org/abs/2006.13408)
   1. (Background) [Shaping Belief States with Generative Environment Models for RL](https://arxiv.org/abs/1906.09237)
+  1. (Background) [Model-Based Reinforcement Learning: Theory and Practice](https://bair.berkeley.edu/blog/2019/12/12/mbpo/)
+  1. (Background) [DayDreamer: World Models for Physical Robot Learning](https://arxiv.org/abs/2206.14176)
 
 Apr. 11, Tue
-: Learning from Offline Demonstration
-  : Anirudha, Zilai, and Akash
-: 1. [Learning to Act by Watching Unlabeled Online Videos](https://cdn.openai.com/vpt/Paper.pdf)
-  1. [Offline Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/abs/2106.02039)
-  1. (Background) [Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://minedojo.org/)
-  1. (Background) [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/abs/2106.01345)
-  1. (Background) [Understanding the World Through Action](https://arxiv.org/abs/2110.12543)
-  1. (Background) [Learning Latent Plans from Play](https://arxiv.org/abs/1903.01973)
-
+: Generative Models
+  : Calvin Luo, Chen Sun
 
 Apr. 13, Thu
 : RL from Human Feedback
@@ -208,18 +203,15 @@ Apr. 13, Thu
   1. [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web) by Ted Chiang
   1. [Stanford CS224N](http://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf)
 
-
 Apr. 18, Tue
-: Model Interpretability
-  : Michael Lepori, Haoyu, and Qinan
-: 1. [Do Vision Transformers See Like Convolutional Neural Networks?](https://arxiv.org/abs/2108.08810)
-  1. [Acquisition of Chess Knowledge in AlphaZero](https://arxiv.org/abs/2111.09259)
-  1. (Background) [BERT rediscovers the classical NLP pipeline](https://arxiv.org/abs/1905.05950)
-  1. (Background) [Concept Bottleneck Models](https://arxiv.org/abs/2007.04612)
-  1. (Background) [Tracr: Compiled Transformers as a Laboratory for Interpretability](https://arxiv.org/abs/2301.05062)
-  1. (Background) [Interpreting Neural Networks through the Polytope Lens](https://arxiv.org/abs/2211.12312)
-  1. (Background) [Neural Networks and the Chomsky Hierarchy](https://arxiv.org/abs/2207.02098)
-
+: Learning from Offline Demonstration
+  : Anirudha, Zilai, and Akash
+: 1. [Learning to Act by Watching Unlabeled Online Videos](https://cdn.openai.com/vpt/Paper.pdf)
+  1. [Offline Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/abs/2106.02039)
+  1. (Background) [Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://minedojo.org/)
+  1. (Background) [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/abs/2106.01345)
+  1. (Background) [Understanding the World Through Action](https://arxiv.org/abs/2110.12543)
+  1. (Background) [Learning Latent Plans from Play](https://arxiv.org/abs/1903.01973)
 
 Apr. 20, Thu
 : 3D Generation
@@ -227,7 +219,6 @@ Apr. 20, Thu
 : 1. [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988)
   1. [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751)
   1. (Background) [Text-To-4D Dynamic Scene Generation](https://arxiv.org/abs/2301.11280)
-
 
 Apr. 25, Tue
 : Compositionality
@@ -238,10 +229,16 @@ Apr. 25, Tue
   1. (Background) [COGS: A Compositional Generalization Challenge Based on Semantic Interpretation](https://aclanthology.org/2020.emnlp-main.731/)
   1. (Background) [Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems](https://arxiv.org/abs/2205.01128)
 
-
 Apr. 27, Thu
-: Recap
-  : Chen Sun
+: Model Interpretability
+  : Michael Lepori, Haoyu, and Qinan
+: 1. [Do Vision Transformers See Like Convolutional Neural Networks?](https://arxiv.org/abs/2108.08810)
+  1. [Acquisition of Chess Knowledge in AlphaZero](https://arxiv.org/abs/2111.09259)
+  1. (Background) [BERT rediscovers the classical NLP pipeline](https://arxiv.org/abs/1905.05950)
+  1. (Background) [Concept Bottleneck Models](https://arxiv.org/abs/2007.04612)
+  1. (Background) [Tracr: Compiled Transformers as a Laboratory for Interpretability](https://arxiv.org/abs/2301.05062)
+  1. (Background) [Interpreting Neural Networks through the Polytope Lens](https://arxiv.org/abs/2211.12312)
+  1. (Background) [Neural Networks and the Chomsky Hierarchy](https://arxiv.org/abs/2207.02098)
 
 
 Apr. 28, Fri
