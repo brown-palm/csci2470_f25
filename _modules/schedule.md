@@ -176,7 +176,7 @@ Mar. 30, Thu
 : _Spring break_
 
 Apr. 4, Tue
-: Reinforcement Learning ([Slides](https://drive.google.com/file/d/1_wpikU3ccspsBDCjAzv0XjVLPMhEBI1V/view?usp=sharing))
+: [Reinforcement Learning](https://drive.google.com/file/d/1ZNWQjVc9oHrXbROMATNJT7l3lUwrMN8v/view?usp=sharing) ([Slides](https://drive.google.com/file/d/1_wpikU3ccspsBDCjAzv0XjVLPMhEBI1V/view?usp=sharing))
   : Chen Sun
 
 Apr. 6, Thu
