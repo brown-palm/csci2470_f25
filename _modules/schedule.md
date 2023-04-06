@@ -180,7 +180,7 @@ Apr. 4, Tue
   : Chen Sun
 
 Apr. 6, Thu
-: World Models ([Reading survey](https://forms.gle/A9DhHVFK5o5YweWL9) / [Slides](https://docs.google.com/presentation/d/1Kw2qW1sjlEJrYjhDs1P_NbYgqLe6sdzh-8qURmIzPhg/edit?usp=sharing))
+: [World Models](https://drive.google.com/file/d/1bq_-n4jT8qU552Zv-snTCIbdnxTF6Tbd/view?usp=sharing) ([Reading survey](https://forms.gle/A9DhHVFK5o5YweWL9) / [Slides](https://docs.google.com/presentation/d/1RQkEAf92dZbh6ANHM-1RrCAkJd23Uclit7bgTo5pYss/edit?usp=sharing))
   : Ray, Alexander Halpin, and Paul
 : 1. [World Models](https://arxiv.org/abs/1803.10122)
   1. [Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/abs/1811.04551)
