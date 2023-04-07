@@ -193,15 +193,17 @@ Apr. 6, Thu
 Apr. 11, Tue
 : Generative Models
   : Calvin Luo, Chen Sun
+: 1. (Background) [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
 
 Apr. 13, Thu
-: RL from Human Feedback
+: RL from Human Feedback ([Reading survey](https://forms.gle/ofmkoVK7tGB47wBfA))
   : Ziyi, Qi, and Christopher
 : 1. [Deep Reinforcement Learning from Human Preferences](https://proceedings.neurips.cc/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf)
   1. [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
-  1. [Why does ChatGPT constantly lie?](https://noahpinion.substack.com/p/4e262415-6b0e-41b7-ba2d-8f620790bf63) by Noah Smith
-  1. [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web) by Ted Chiang
-  1. [Stanford CS224N](http://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf)
+  1. (Background)[Why does ChatGPT constantly lie?](https://noahpinion.substack.com/p/4e262415-6b0e-41b7-ba2d-8f620790bf63) by Noah Smith
+  1. (Background)[ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web) by Ted Chiang
+  1. (Background)[Stanford CS224N](http://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf)
+  1. (Background)[Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)
 
 Apr. 18, Tue
 : Learning from Offline Demonstration
@@ -219,6 +221,8 @@ Apr. 20, Thu
 : 1. [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988)
   1. [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751)
   1. (Background) [Text-To-4D Dynamic Scene Generation](https://arxiv.org/abs/2301.11280)
+  1. (Background) [Zero-Shot Text-Guided Object Generation with Dream Fields](https://arxiv.org/abs/2112.01455)
+  1. (Background) [RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation](https://arxiv.org/abs/2211.09869)
 
 Apr. 25, Tue
 : Compositionality
