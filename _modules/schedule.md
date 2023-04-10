@@ -191,7 +191,7 @@ Apr. 6, Thu
   1. (Background) [DayDreamer: World Models for Physical Robot Learning](https://arxiv.org/abs/2206.14176)
 
 Apr. 11, Tue
-: Generative Models
+: Generative Models ([Slides](https://docs.google.com/presentation/d/12Scp57aFYHRDnQbuieFqMYm7SI8sdUyM6y0suX9c7xM/edit?usp=sharing))
   : Calvin Luo, Chen Sun
 : 1. (Background) [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
 
@@ -200,10 +200,10 @@ Apr. 13, Thu
   : Ziyi, Qi, and Christopher
 : 1. [Deep Reinforcement Learning from Human Preferences](https://proceedings.neurips.cc/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf)
   1. [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
-  1. (Background)[Why does ChatGPT constantly lie?](https://noahpinion.substack.com/p/4e262415-6b0e-41b7-ba2d-8f620790bf63) by Noah Smith
-  1. (Background)[ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web) by Ted Chiang
-  1. (Background)[Stanford CS224N](http://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf)
-  1. (Background)[Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)
+  1. (Background) [Why does ChatGPT constantly lie?](https://noahpinion.substack.com/p/4e262415-6b0e-41b7-ba2d-8f620790bf63) by Noah Smith
+  1. (Background) [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web) by Ted Chiang
+  1. (Background) [Stanford CS224N](http://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf)
+  1. (Background) [Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)
 
 Apr. 18, Tue
 : Learning from Offline Demonstration
@@ -219,10 +219,12 @@ Apr. 20, Thu
 : 3D Generation
   : Nitya, Linghai, and Yuan
 : 1. [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988)
-  1. [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751)
+  1. [RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation](https://arxiv.org/abs/2211.09869)
+  1. (Background) [Equivariant Diffusion for Molecule Generation in 3D](https://proceedings.mlr.press/v162/hoogeboom22a/hoogeboom22a.pdf)
+  1. (Background) [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751)
   1. (Background) [Text-To-4D Dynamic Scene Generation](https://arxiv.org/abs/2301.11280)
   1. (Background) [Zero-Shot Text-Guided Object Generation with Dream Fields](https://arxiv.org/abs/2112.01455)
-  1. (Background) [RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation](https://arxiv.org/abs/2211.09869)
+ 
 
 Apr. 25, Tue
 : Compositionality
