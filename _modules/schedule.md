@@ -191,8 +191,8 @@ Apr. 6, Thu
   1. (Background) [DayDreamer: World Models for Physical Robot Learning](https://arxiv.org/abs/2206.14176)
 
 Apr. 11, Tue
-: Generative Models ([Slides](https://docs.google.com/presentation/d/12Scp57aFYHRDnQbuieFqMYm7SI8sdUyM6y0suX9c7xM/edit?usp=sharing))
-  : Calvin Luo, Chen Sun
+: [Generative Models](https://drive.google.com/file/d/12ddNn7tT7DimISVlkZC6RNy77Uo2mBq2/view?usp=sharing) ([Slides](https://docs.google.com/presentation/d/1xP4zi5goYdMfu5TLY01Q00yJbXmIIHp1CDNm3gqFmtU/edit?usp=sharing))
+  : Calvin Luo
 : 1. (Background) [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
 
 Apr. 13, Thu
