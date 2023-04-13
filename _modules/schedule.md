@@ -196,7 +196,7 @@ Apr. 11, Tue
 : 1. (Background) [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
 
 Apr. 13, Thu
-: RL from Human Feedback ([Reading survey](https://forms.gle/ofmkoVK7tGB47wBfA) / [Slides](https://docs.google.com/presentation/d/11GWGURLCqUZ019nrLI9i982TosRzGP0Pe2AFbLWetzk/edit?usp=sharing))
+: [RL from Human Feedback](https://drive.google.com/file/d/17xTpwxK0yCkA0dL0pdzQMqFgWUupZD5o/view?usp=share_link) ([Reading survey](https://forms.gle/ofmkoVK7tGB47wBfA) / [Slides](https://docs.google.com/presentation/d/12Zb5M3N9U-iDTQ9uNbAoZQmlrpk3jzwSlViZnPYwW4A/edit?usp=share_link))
   : Ziyi, Qi, and Christopher
 : 1. [Deep Reinforcement Learning from Human Preferences](https://proceedings.neurips.cc/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf)
   1. [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
