@@ -228,7 +228,7 @@ Apr. 20, Thu
  
 
 Apr. 25, Tue
-: Compositionality
+: Compositionality ([Reading survey](https://forms.gle/JnJqHwcv5zbosJ2HA))
   : Lingze, Suraj, and Apoorv
 : 1. [Learning to Compose Neural Networks for Question Answering](https://arxiv.org/abs/1601.01705)
   1. [Compositional Visual Generation with Composable Diffusion Models](https://arxiv.org/abs/2206.01714)
@@ -237,7 +237,7 @@ Apr. 25, Tue
   1. (Background) [Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems](https://arxiv.org/abs/2205.01128)
 
 Apr. 27, Thu
-: Model Interpretability
+: Model Interpretability ([Reading survey](https://forms.gle/PdokHxodf2YKYVwA8))
   : Michael Lepori, Haoyu, and Qinan
 : 1. [Do Vision Transformers See Like Convolutional Neural Networks?](https://arxiv.org/abs/2108.08810)
   1. [Acquisition of Chess Knowledge in AlphaZero](https://arxiv.org/abs/2111.09259)
