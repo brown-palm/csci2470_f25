@@ -206,17 +206,18 @@ Apr. 13, Thu
   1. (Background) [Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)
 
 Apr. 18, Tue
-: Learning from Offline Demonstration
+: Learning from Offline Demonstration ([Reading survey](https://forms.gle/AfJFinqdpWksPRKn9) / [Slides](https://docs.google.com/presentation/d/13P-Kv99yS0zfuNIHDbvxiq7OGYNxTFRhaj5LIkXHw4M/edit?usp=sharing))
   : Anirudha, Zilai, and Akash
 : 1. [Learning to Act by Watching Unlabeled Online Videos](https://cdn.openai.com/vpt/Paper.pdf)
   1. [Offline Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/abs/2106.02039)
+  1. (Background) [Language Conditioned Imitation Learning over Unstructured Data](https://arxiv.org/abs/2005.07648)
   1. (Background) [Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://minedojo.org/)
   1. (Background) [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/abs/2106.01345)
   1. (Background) [Understanding the World Through Action](https://arxiv.org/abs/2110.12543)
   1. (Background) [Learning Latent Plans from Play](https://arxiv.org/abs/1903.01973)
 
 Apr. 20, Thu
-: 3D Generation
+: 3D Generation ([Reading survey](https://forms.gle/F3aEX7FRBVcncNjg9))
   : Nitya, Linghai, and Yuan
 : 1. [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988)
   1. [RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation](https://arxiv.org/abs/2211.09869)
