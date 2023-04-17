@@ -249,7 +249,7 @@ Apr. 27, Thu
 
 
 Apr. 28, Fri
-: **Due**{: .label .label-purple} Presentation slot signup
+: **Due**{: .label .label-purple} Last day to submit mini projects
 
 May 2, Tue
 : _Final project office hours_
