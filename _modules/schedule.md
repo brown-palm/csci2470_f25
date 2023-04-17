@@ -43,7 +43,7 @@ Feb. 9, Thu
 
 Feb. 14, Tue
 : [Semi-supervised Learning](https://drive.google.com/file/d/1RQL2hrCI9wYZ_n_BRJYpGmmyWxz4lQGd/view?usp=sharing) ([Reading survey](https://forms.gle/S8hdDzNAcZ5FgfTb7) / [Slides](https://docs.google.com/presentation/d/1R-y6WaBqKcEdMTBaw_tTHdE3s-JCcJ0Wr1N0Tom6WgI/edit?usp=sharing))
-  : Rosella, Patrick, Lingyu, and Michael Freeman
+  : Rosella, Patrick, Lingyu, and Michael
 : 1. [Mean teachers are better role models](https://arxiv.org/abs/1703.01780)
   1. [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/abs/1905.02249)
   1. (Presentation) [Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning](https://arxiv.org/pdf/1704.03976.pdf)
@@ -84,7 +84,7 @@ Feb. 23, Thu
 
 Feb. 28, Tue
 : [Multitask Learning](https://drive.google.com/file/d/1JkkhR7ENO0XTr-1U_3nr4Swz6fbPMEgD/view?usp=sharing) ([Reading survey](https://forms.gle/jqKrGfCNPCwbkhy49) / [Slides](https://docs.google.com/presentation/d/1wv9omE95rlC6HmfBSWrWPboPKfrzi1TZubbNTaH9dmQ/edit?usp=sharing))
-  : Noah, Alexander Meyerowitz, Pinyuan
+  : Noah, Alexander, Pinyuan
 : 1. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) (Section 1, 2, 4)
   1. [A Generalist Agent](https://arxiv.org/abs/2205.06175)
   1. (Background) [Intelligence without representation](https://people.csail.mit.edu/brooks/papers/representation.pdf)
@@ -96,7 +96,7 @@ Feb. 28, Tue
   
 Mar. 2, Thu
 : [Transformer and its variants](https://drive.google.com/file/d/1I85ILWzNErAyeS0Lq3hhJ6xN4sOXvO41/view?usp=share_link) ([Reading survey](https://forms.gle/NsTjYZjNY4axTULLA) / [Slides](https://docs.google.com/presentation/d/1uFDwi6rSTw_tHwA8Rd8cNplEcIjVBNKlwu2hydsRVRs/edit?usp=share_link))
-  : Dong Keun, Yuan, and David
+  : Daniel, Yuan, and David
 : 1. [Swin Transformer](https://arxiv.org/abs/2103.14030)
   1. [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
   1. (Background) [Synthesizer: Rethinking Self-Attention in Transformer Models](https://arxiv.org/abs/2005.00743)
@@ -181,7 +181,7 @@ Apr. 4, Tue
 
 Apr. 6, Thu
 : [World Models](https://drive.google.com/file/d/1bq_-n4jT8qU552Zv-snTCIbdnxTF6Tbd/view?usp=sharing) ([Reading survey](https://forms.gle/A9DhHVFK5o5YweWL9) / [Slides](https://docs.google.com/presentation/d/1RQkEAf92dZbh6ANHM-1RrCAkJd23Uclit7bgTo5pYss/edit?usp=sharing))
-  : Ray, Alexander Halpin, and Paul
+  : Ray, Alexander, and Paul
 : 1. [World Models](https://arxiv.org/abs/1803.10122)
   1. [Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/abs/1811.04551)
   1. (Background) [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104v1)
@@ -238,7 +238,7 @@ Apr. 25, Tue
 
 Apr. 27, Thu
 : Model Interpretability ([Reading survey](https://forms.gle/PdokHxodf2YKYVwA8))
-  : Michael Lepori, Haoyu, and Qinan
+  : Michael, Haoyu, and Qinan
 : 1. [Do Vision Transformers See Like Convolutional Neural Networks?](https://arxiv.org/abs/2108.08810)
   1. [Acquisition of Chess Knowledge in AlphaZero](https://arxiv.org/abs/2111.09259)
   1. (Background) [BERT rediscovers the classical NLP pipeline](https://arxiv.org/abs/1905.05950)
