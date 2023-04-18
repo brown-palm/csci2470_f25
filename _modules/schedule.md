@@ -206,7 +206,7 @@ Apr. 13, Thu
   1. (Background) [Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)
 
 Apr. 18, Tue
-: Learning from Offline Demonstration ([Reading survey](https://forms.gle/AfJFinqdpWksPRKn9) / [Slides](https://docs.google.com/presentation/d/13P-Kv99yS0zfuNIHDbvxiq7OGYNxTFRhaj5LIkXHw4M/edit?usp=sharing))
+: [Learning from Offline Demonstration](https://drive.google.com/file/d/1ne7Xw1M4HtQgwe64WEFUnCBnLgqifVPh/view?usp=sharing) ([Reading survey](https://forms.gle/AfJFinqdpWksPRKn9) / [Slides](https://docs.google.com/presentation/d/1R84mqEEH6VkjeSnY3BfypMLDCWSGSewwWcKva-erGcw/edit?usp=sharing))
   : Anirudha, Zilai, and Akash
 : 1. [Learning to Act by Watching Unlabeled Online Videos](https://cdn.openai.com/vpt/Paper.pdf)
   1. [Offline Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/abs/2106.02039)
