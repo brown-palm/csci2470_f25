@@ -217,7 +217,7 @@ Apr. 18, Tue
   1. (Background) [Learning Latent Plans from Play](https://arxiv.org/abs/1903.01973)
 
 Apr. 20, Thu
-: 3D Generation ([Reading survey](https://forms.gle/F3aEX7FRBVcncNjg9))
+: 3D Generation ([Reading survey](https://forms.gle/F3aEX7FRBVcncNjg9) / [Slides](https://docs.google.com/presentation/d/1VurHZMDmwvq8yYQdpAml0ragPWsuIo5qhVHffBDEmW4/edit?usp=sharing))
   : Nitya, Linghai, and Yuan
 : 1. [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988)
   1. [RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation](https://arxiv.org/abs/2211.09869)
