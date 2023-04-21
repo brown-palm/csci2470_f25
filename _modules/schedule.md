@@ -232,6 +232,7 @@ Apr. 25, Tue
   : Lingze, Suraj, and Apoorv
 : 1. [Learning to Compose Neural Networks for Question Answering](https://arxiv.org/abs/1601.01705)
   1. [Compositional Visual Generation with Composable Diffusion Models](https://arxiv.org/abs/2206.01714)
+  1. (Background) [Measuring and Narrowing the Compositionality Gap in Language Models](https://arxiv.org/abs/2210.03350)
   1. (Background) [CREPE: Can Vision-Language Foundation Models Reason Compositionally?](https://arxiv.org/abs/2212.07796)
   1. (Background) [COGS: A Compositional Generalization Challenge Based on Semantic Interpretation](https://aclanthology.org/2020.emnlp-main.731/)
   1. (Background) [Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems](https://arxiv.org/abs/2205.01128)
