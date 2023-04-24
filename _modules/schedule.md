@@ -204,6 +204,7 @@ Apr. 13, Thu
   1. (Background) [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web) by Ted Chiang
   1. (Background) [Stanford CS224N](http://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf)
   1. (Background) [Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)
+  1. (Background) [Reinforcement Learning for Language Models](https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81)
 
 Apr. 18, Tue
 : [Learning from Offline Demonstration](https://drive.google.com/file/d/1ne7Xw1M4HtQgwe64WEFUnCBnLgqifVPh/view?usp=sharing) ([Reading survey](https://forms.gle/AfJFinqdpWksPRKn9) / [Slides](https://docs.google.com/presentation/d/1R84mqEEH6VkjeSnY3BfypMLDCWSGSewwWcKva-erGcw/edit?usp=sharing))
@@ -228,7 +229,7 @@ Apr. 20, Thu
  
 
 Apr. 25, Tue
-: Compositionality ([Reading survey](https://forms.gle/JnJqHwcv5zbosJ2HA))
+: Compositionality ([Reading survey](https://forms.gle/JnJqHwcv5zbosJ2HA) / [Slides](https://docs.google.com/presentation/d/1YwI_X4qw-jvTVB3yZKeoNbMnBdYSOWmmkiR6UEnqqUM/edit?usp=sharing))
   : Lingze, Suraj, and Apoorv
 : 1. [Learning to Compose Neural Networks for Question Answering](https://arxiv.org/abs/1601.01705)
   1. [Compositional Visual Generation with Composable Diffusion Models](https://arxiv.org/abs/2206.01714)
