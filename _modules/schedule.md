@@ -229,7 +229,7 @@ Apr. 20, Thu
  
 
 Apr. 25, Tue
-: Compositionality ([Reading survey](https://forms.gle/JnJqHwcv5zbosJ2HA) / [Slides](https://docs.google.com/presentation/d/1YwI_X4qw-jvTVB3yZKeoNbMnBdYSOWmmkiR6UEnqqUM/edit?usp=sharing))
+: [Compositionality](https://drive.google.com/file/d/17MoqGd3sRAJtHRGIn7J75aFC0JwYMJeg/view?usp=sharing) ([Reading survey](https://forms.gle/JnJqHwcv5zbosJ2HA) / [Slides](https://docs.google.com/presentation/d/1SYvLpB5u6Ulg6ammSOmS2T2HDqCrpT3fA1CQ4-YLaLI/edit?usp=sharing))
   : Lingze, Suraj, and Apoorv
 : 1. [Learning to Compose Neural Networks for Question Answering](https://arxiv.org/abs/1601.01705)
   1. [Compositional Visual Generation with Composable Diffusion Models](https://arxiv.org/abs/2206.01714)
