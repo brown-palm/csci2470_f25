@@ -239,7 +239,7 @@ Apr. 25, Tue
   1. (Background) [Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems](https://arxiv.org/abs/2205.01128)
 
 Apr. 27, Thu
-: Model Interpretability ([Reading survey](https://forms.gle/PdokHxodf2YKYVwA8) / [Slides](https://docs.google.com/presentation/d/1X80PrV6zqr5pwCphwbU4mAbB0g_CTmMjPXOw3bfHF1A/edit?usp=sharing))
+: [Model Interpretability](https://drive.google.com/file/d/1_lIFYM9UPSBsJ-Ita9MX240E9oPGiJjG/view?usp=sharing) ([Reading survey](https://forms.gle/PdokHxodf2YKYVwA8) / [Slides](https://docs.google.com/presentation/d/1lwZb3TjUy_lL0TIYCt2db9BtHig62UYnUGDDDeqNa74/edit?usp=sharing))
   : Michael, Haoyu, and Qinan
 : 1. [Do Vision Transformers See Like Convolutional Neural Networks?](https://arxiv.org/abs/2108.08810)
   1. [Acquisition of Chess Knowledge in AlphaZero](https://arxiv.org/abs/2111.09259)
