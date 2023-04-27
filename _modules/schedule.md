@@ -260,7 +260,7 @@ May 4, Thu
 : _Final project office hours_
 
 May 11, Thu
-: Final project presentations (CIT 368, noon to 2:30pm)
+: Final project presentations (CIT 368, noon to 2:30pm) ([Slides](https://docs.google.com/presentation/d/1aBnWRZvkMeLrAYfmgubpt2iRMyfeG91vnqhTf20oGuk/edit?usp=sharing))
 
 May 12, Fri
-: **Due**{: .label .label-purple} Project submission
+: **Due**{: .label .label-purple} Project submission ([Form](https://forms.gle/CuQUWSb8XE5uZUZy9))
