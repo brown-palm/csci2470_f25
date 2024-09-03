@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CSCI 2952-N
-tagline: Brown CSCI 2952N 
-description: Brown CSCI 2952N 
+title: CSCI 2470
+tagline: Brown CSCI 2470 
+description: Brown CSCI 2470 
 author: Chen Sun
-baseurl: '/spring2023' # the subpath of your site, e.g. /blog
-url: 'https://brown-cs2952n.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/csci2470_f24' # the subpath of your site, e.g. /blog
+url: 'https://brown-deep-learning.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
@@ -30,8 +30,8 @@ permalink: pretty
 aux_links:
   Chen Sun:
     - 'https://chensun.me/'
-  CSCI 1470/2470:
-    - 'https://cs.brown.edu/courses/info/csci1470/'
+  CSCI 2952-N:
+    - 'https://brown-cs2952n.github.io/spring2023/'
 footer_content:
 
 # Collections for website data
