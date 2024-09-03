@@ -5,16 +5,26 @@ description: A listing of all the course staff members.
 nav_exclude: false
 ---
 
-## Instructors
+## Instructor
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
 
-Office hour: 10:00 to 11:00am TThu, or by appointment
+## Co-Instructor / Graduate TA
 
-Office: CIT 379
+{% assign coinstructors = site.staffers | where: 'role', 'Co-Instructor' %}
+{% for staffer in coinstructors %}
+{{ staffer }}
+{% endfor %}
+
+## Head TA
+
+{% assign htas = site.staffers | where: 'role', 'Head TA' %}
+{% for staffer in htas %}
+{{ staffer }}
+{% endfor %}
 
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
