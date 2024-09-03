@@ -2,7 +2,7 @@
 layout: page
 title: Staff
 description: A listing of all the course staff members.
-nav_exclude: true
+nav_exclude: false
 ---
 
 ## Instructors
@@ -16,7 +16,7 @@ Office hour: 10:00 to 11:00am TThu, or by appointment
 
 Office: CIT 379
 
-<!--
+
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
@@ -27,4 +27,4 @@ Office: CIT 379
 {% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
-{% endif %}-->
+{% endif %}
