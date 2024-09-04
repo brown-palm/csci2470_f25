@@ -5,6 +5,8 @@ nav_exclude: false
 description: Course policies and information.
 ---
 
+# Deep Learning
+
 ---
 
 ## Time and Location
