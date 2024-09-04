@@ -17,9 +17,9 @@ seo:
 - Instructor: [Chen Sun](https://chensun.me) ([chen_sun4@brown.edu](mailto:chensun@brown.edu))
 - Office hour: 3:00 to 5:00 PM on Tuesdays, or by appointment
 - Classroom: CIT 165
+- Useful links: [EdStem](https://edstem.org/us/courses/65187/discussion/), [Canvas](https://canvas.brown.edu/courses/1096131), [Syllabus](https://docs.google.com/document/d/1UJu3Gbh1BU7NwFRh6t69haisY2j-S2O_Qbk7bxGBez4/edit)
 
 _In-class participation is **required** unless otherwise approved by the instructor._  
-_  
 _Lectures will be recorded for asynchronous viewing._
 
 ## About
