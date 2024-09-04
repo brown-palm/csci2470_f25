@@ -5,8 +5,6 @@ nav_exclude: true
 description: Course policies and information.
 ---
 
-# Deep Learning
-
 ---
 
 ## Time and Location
@@ -17,12 +15,18 @@ description: Course policies and information.
 - Classroom: CIT 165
 
 _In-class participation is **required** unless otherwise approved by the instructor._  
-_  
 _Lectures will be recorded for asynchronous viewing._
 
 ## About
 
 Welcome to CSCI 2470! Deep Learning is a subset of machine learning methods based on artificial neural networks. It emphasizes learning representation with multiple layers (hence “deep”) of neural networks, and can be flexibly applied to diverse domains of applications, ranging from object detection, machine translation, video generation, to protein structure prediction. Our course aims to offer students the mathematical foundation and engineering skills necessary to understand, utilize, and design state-of-the-art deep learning frameworks. The field of Deep Learning research and applications is progressing at a lightning speed. In response, our course is organized with three themes: the underlying design principles shared by most modern deep learning networks, the high-level learning paradigms popularized by the success of deep learning, and several canonical neural network architectures that advance our understanding on what can be achieved by neural networks. We expect students to have taken an introductory course on machine learning, and feel comfortable with Python and object oriented programming.
+
+## Resources
+
+- [Course syllabus](https://docs.google.com/document/d/1UJu3Gbh1BU7NwFRh6t69haisY2j-S2O_Qbk7bxGBez4/edit)
+- [Ed](https://edstem.org/us/courses/65187/discussion/)
+- [Canvas](https://canvas.brown.edu/courses/1096131)
+- [Anonymous feedback form](https://forms.gle/aLctM4Ee8iZ6pAWQA)
 
 ## Learning Goals
 
@@ -37,20 +41,9 @@ Students who complete this course will:
 
 ## Grading
 
-- 40% Final project
-- 20% Mini projects
-- 20% In-class presentation
-- 20% Paper reading and participation
-
-For details please refer to the [syllabus](https://docs.google.com/document/d/1YmK_T7jbBg1H8o_n9wkF2vvZRjDqUVYLD99pDT0ieFo/edit?usp=sharing).
-
-
-## Resources
-
-- [Course syllabus](https://docs.google.com/document/d/1YmK_T7jbBg1H8o_n9wkF2vvZRjDqUVYLD99pDT0ieFo/edit?usp=sharing)
-- [Ed](https://edstem.org/us/courses/36397/discussion/)
-- [Presentation signup sheet](https://forms.gle/4CnTJGqKKx3vMWr89)
-- [Anonymous feedback form](https://forms.gle/bcipRod558MHg8i36)
+- 60% Assignments and Mini-Projects
+- 10% In-class participation
+- 30% Final Project
 
 ## Academic Integrity & Collaboration Policy
 
