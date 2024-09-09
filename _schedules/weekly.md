@@ -20,16 +20,25 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: Monday
+    events:
+      - name: TA Office Hours
+        start: 6:30 PM
+        end: 10:30 PM
+        location: CIT 209
   - name: Tuesday
     events:
       - name: Lecture
         start: 1:00 PM
         end: 2:30 PM
         location: CIT 165
-      - name: Office Hours
+      - name: Instructor Office Hours
         start: 3:00 PM
         end: 5:00 PM
         location: Chen Sun, CIT 379
+      - name: TA Office Hours
+        start: 3:00 PM
+        end: 5:00 PM
+        location: CIT 410
   - name: Wednesday
   - name: Thursday
     events:
@@ -37,5 +46,14 @@ schedule:
         start: 1:00 PM
         end: 2:30 PM
         location: CIT 165
+      - name: TA Office Hours
+        start: 6:00 PM
+        end: 10:00 PM
+        location: CIT 209
   - name: Friday
+    events:
+      - name: TA Office Hours
+        start: 11:00 AM
+        end: 1:00 PM
+        location: CIT 205
 ---
