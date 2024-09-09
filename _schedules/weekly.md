@@ -29,7 +29,7 @@ schedule:
       - name: Office Hours
         start: 3:00 PM
         end: 5:00 PM
-        location: \[Chen Sun\] CIT 379
+        location: Chen Sun, CIT 379
   - name: Wednesday
   - name: Thursday
     events:
