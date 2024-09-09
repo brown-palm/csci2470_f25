@@ -100,8 +100,11 @@
       background-color: $purple-000;
     }
 
-    &.office-hours {
+    &.ta-office-hours {
       background-color: $blue-000;
+    }
+    &.instructor-office-hours {
+      background-color: $purple-000;
     }
   }
 }
