@@ -34,7 +34,7 @@ schedule:
       - name: Office Hours
         start: 3:00 PM
         end: 5:00 PM
-        location: CIT 379 (Chen) / CIT 410 (TA)
+        location: CIT 410 & 379
   - name: Wednesday
   - name: Thursday
     events:
