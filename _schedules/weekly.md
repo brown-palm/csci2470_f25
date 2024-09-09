@@ -31,14 +31,10 @@ schedule:
         start: 1:00 PM
         end: 2:30 PM
         location: CIT 165
-      - name: Instructor Office Hours
+      - name: Office Hours
         start: 3:00 PM
         end: 5:00 PM
-        location: CIT 379
-      - name: TA Office Hours
-        start: 3:00 PM
-        end: 5:00 PM
-        location: CIT 410
+        location: CIT 379 (Chen) / CIT 410 (TA)
   - name: Wednesday
   - name: Thursday
     events:
