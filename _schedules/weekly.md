@@ -26,7 +26,7 @@ schedule:
         start: 1:00 PM
         end: 2:30 PM
         location: CIT 165
-      - name: [Chen Sun] Office Hours
+      - name: Office Hours
         start: 3:00 PM
         end: 5:00 PM
         location: CIT 379
@@ -38,5 +38,4 @@ schedule:
         end: 2:30 PM
         location: CIT 165
   - name: Friday
-
 ---
