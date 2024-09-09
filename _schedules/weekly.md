@@ -19,6 +19,7 @@ timeline:
   - '5:00 PM'
   - '5:30 PM'
 schedule:
+  - name: 
   - name: Monday
     events:
       - name: TA Office Hours
