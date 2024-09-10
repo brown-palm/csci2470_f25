@@ -12,14 +12,15 @@ Sep. 5, Thu
 Sep. 10, Tue
 : Loss Functions and Optimization
   : Chen Sun
-: 1. [Slides]()
+: 1. [Slides](https://drive.google.com/file/d/1snKNaVJvo5D3L85ooax16jwM9zK7pHIq/view?usp=sharing)
   1. [Recording]()
 
 Sep. 10, Tue
 : **HW1**{: .label .label-purple} Math and Machine Learning Recap
+: 1. [Handout](https://hackmd.io/_gCBA2ZOQaeJXgH70i8vgg)
 
 Sep. 12, Thu
-: Nonlinear Classifiers and Multi-layer Perceptrons
+: Multi-layer Perceptrons
   : Chen Sun
 : 1. [Slides]()
   1. [Recording]()
