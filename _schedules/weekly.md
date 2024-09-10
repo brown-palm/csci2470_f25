@@ -36,7 +36,7 @@ schedule:
       - name: TA Office Hours
         start: 6:30 PM
         end: 10:30 PM
-        location: CIT 209
+        location: CIT 203
   - name: Tuesday
     events:
       - name: Lecture
