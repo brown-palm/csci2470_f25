@@ -23,7 +23,7 @@ Sep. 12, Thu
 : SGD and Multi-layer Perceptron
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1uAU9mprlihZseRvq_mA_sqq4n8H4ZTZv/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=720fa530-51f1-4ac2-9a39-b1d900f81386)
 
 Dec. 12, Thu
 : **Final**{: .label .label-purple} Deep Learning Day
