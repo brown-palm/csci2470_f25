@@ -25,5 +25,12 @@ Sep. 12, Thu
 : 1. [Slides](https://drive.google.com/file/d/1uAU9mprlihZseRvq_mA_sqq4n8H4ZTZv/view?usp=sharing)
   1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=720fa530-51f1-4ac2-9a39-b1d900f81386)
 
+Sep. 17, Tue
+: Backpropagation
+  : Chen Sun
+: 1. [Slides](https://drive.google.com/file/d/1Y-kUTTZGrD3ZhzzkEFNY_1J4AoDalRYR/view?usp=sharing)
+  1. [Recording]()
+  1. Recommended Reading: [Yes you should understand backprop](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
+
 Dec. 12, Thu
 : **Final**{: .label .label-purple} Deep Learning Day
