@@ -29,7 +29,7 @@ Sep. 17, Tue
 : Backpropagation
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1Y-kUTTZGrD3ZhzzkEFNY_1J4AoDalRYR/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a5e027eb-cb2a-4550-b98b-b1d900f813b9)
   1. Recommended Reading: [Yes you should understand backprop](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
 
 Dec. 12, Thu
