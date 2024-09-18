@@ -57,7 +57,7 @@ schedule:
       - name: TA Office Hours
         start: 6:00 PM
         end: 10:00 PM
-        location: CIT 209
+        location: CIT 165
   - name: Friday
     events:
       - name: TA Office Hours
