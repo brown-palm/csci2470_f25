@@ -32,5 +32,13 @@ Sep. 17, Tue
   1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a5e027eb-cb2a-4550-b98b-b1d900f813b9)
   1. Recommended Reading: [Yes you should understand backprop](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
 
+
+Sep. 19, Thu
+: Backpropagation & TensorFlow
+  : Chen Sun
+: 1. [Slides]()
+  1. [Recording]()
+  1. Demo: [MNIST with MLP](https://colab.research.google.com/drive/1LKyj5raiOpFeTWAYBTTJSMblSZrt3RYg?usp=sharing)
+  
 Dec. 12, Thu
 : **Final**{: .label .label-purple} Deep Learning Day
