@@ -36,9 +36,10 @@ Sep. 17, Tue
 Sep. 19, Thu
 : Backpropagation & TensorFlow
   : Chen Sun
-: 1. [Slides]()
+: 1. [Slides](https://drive.google.com/file/d/1TpsVUhheEFvu8r71iGhEhWvzazM4rnP-/view?usp=sharing)
   1. [Recording]()
   1. Demo: [MNIST with MLP](https://colab.research.google.com/drive/1LKyj5raiOpFeTWAYBTTJSMblSZrt3RYg?usp=sharing)
   
+
 Dec. 12, Thu
 : **Final**{: .label .label-purple} Deep Learning Day
