@@ -37,7 +37,7 @@ Sep. 19, Thu
 : Backpropagation & TensorFlow
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1TpsVUhheEFvu8r71iGhEhWvzazM4rnP-/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6792c0fc-cff9-472c-946d-b1d900f813de)
   1. Demo: [MNIST with MLP](https://colab.research.google.com/drive/1LKyj5raiOpFeTWAYBTTJSMblSZrt3RYg?usp=sharing)
   
 
