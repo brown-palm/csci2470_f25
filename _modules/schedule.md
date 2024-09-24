@@ -45,7 +45,7 @@ Sep. 24, Tue
 : Convolutional Neural Networks: Introduction
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1yfzJ-I8bV4FfFzNGXQiyDqJCGjQ17dbw/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1f9069bc-f714-42b9-9ef7-b1d900f81401)
   1. Demo: [MNIST with CNN](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
   1. Recommended Reading: [Induction, Inductive Biases, and Infusing Knowledge into Learned Representations](https://sgfin.github.io/2020/06/22/Induction-Intro/) by Sam Finlayson
 
