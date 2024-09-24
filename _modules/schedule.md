@@ -46,7 +46,7 @@ Sep. 24, Tue
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1yfzJ-I8bV4FfFzNGXQiyDqJCGjQ17dbw/view?usp=sharing)
   1. [Recording]()
-  1. Demo: [MNIST with CNN]()
+  1. Demo: [MNIST with CNN](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
   1. Recommended Reading: [Induction, Inductive Biases, and Infusing Knowledge into Learned Representations](https://sgfin.github.io/2020/06/22/Induction-Intro/) by Sam Finlayson
 
 
