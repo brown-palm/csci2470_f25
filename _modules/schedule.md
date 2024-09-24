@@ -39,6 +39,21 @@ Sep. 19, Thu
 : 1. [Slides](https://drive.google.com/file/d/1TpsVUhheEFvu8r71iGhEhWvzazM4rnP-/view?usp=sharing)
   1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6792c0fc-cff9-472c-946d-b1d900f813de)
   1. Demo: [MNIST with MLP](https://colab.research.google.com/drive/1LKyj5raiOpFeTWAYBTTJSMblSZrt3RYg?usp=sharing)
+
+
+Sep. 24, Tue
+: Convolutional Neural Networks: Introduction
+  : Chen Sun
+: 1. [Slides](https://drive.google.com/file/d/1yfzJ-I8bV4FfFzNGXQiyDqJCGjQ17dbw/view?usp=sharing)
+  1. [Recording]()
+  1. Demo: [MNIST with CNN]()
+  1. Recommended Reading: [Induction, Inductive Biases, and Infusing Knowledge into Learned Representations](https://sgfin.github.io/2020/06/22/Induction-Intro/) by Sam Finlayson
+
+
+Sep. 24, Tue
+: **HW2**{: .label .label-purple} Convolutional Neural Networks
+: 1. [Handout](https://hackmd.io/pu2LVcocThu30IN-sxnrxA)
+  1. Due date: Oct. 8 **6 pm ET**
   
 
 Dec. 12, Thu
