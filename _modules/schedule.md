@@ -30,7 +30,7 @@ Sep. 17, Tue
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1Y-kUTTZGrD3ZhzzkEFNY_1J4AoDalRYR/view?usp=sharing)
   1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a5e027eb-cb2a-4550-b98b-b1d900f813b9)
-  1. Recommended Reading: [Yes you should understand backprop](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
+  1. Recommended Reading: [Yes you should understand backprop](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b) by Andrej Karpathy
 
 
 Sep. 19, Thu
@@ -54,6 +54,14 @@ Sep. 24, Tue
 : **HW2**{: .label .label-purple} Convolutional Neural Networks
 : 1. [Handout](https://hackmd.io/pu2LVcocThu30IN-sxnrxA)
   1. Due date: Oct. 8 **6 pm ET**
+
+
+Sep. 26, Thu
+: Convolutional Neural Networks: Architectures
+  : Chen Sun
+: 1. [Slides](https://drive.google.com/file/d/1A7uvcwnvzUxCUeEHljRTdv-fCDUAGheh/view?usp=sharing)
+  1. [Recording]()
+  1. Recommended Reading: [Deep Neural Nets: 33 years ago and 33 years from now](http://karpathy.github.io/2022/03/14/lecun1989/) by Andrej Karpathy
   
 
 Dec. 12, Thu
