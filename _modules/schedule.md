@@ -62,6 +62,19 @@ Sep. 26, Thu
 : 1. [Slides](https://drive.google.com/file/d/1A7uvcwnvzUxCUeEHljRTdv-fCDUAGheh/view?usp=sharing)
   1. [Recording]()
   1. Recommended Reading: [Deep Neural Nets: 33 years ago and 33 years from now](http://karpathy.github.io/2022/03/14/lecun1989/) by Andrej Karpathy
+
+
+Sep. 26, Thu
+: Interpreting Convolutional Neural Networks
+  : Chen Sun
+: 1. [Slides]()
+  1. [Recording]()
+
+
+Sep. 24, Tue
+: **MP1**{: .label .label-purple} Mini Project 1
+: 1. [Handout](https://drive.google.com/drive/folders/1R2uNY56oHADB_NfdHzLNgi14ekbR0sGl?usp=sharing)
+  1. Due date: Oct. 22 **6 pm ET**
   
 
 Dec. 12, Thu
