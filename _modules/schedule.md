@@ -67,7 +67,7 @@ Sep. 26, Thu
 Sep. 26, Thu
 : Interpreting Convolutional Neural Networks
   : Chen Sun
-: 1. [Slides]()
+: 1. [Slides](https://drive.google.com/file/d/1pBX6KPT8v-M1HsQDy1Th6e7NMzAOKEYx/view?usp=sharing)
   1. [Recording]()
 
 
