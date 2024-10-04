@@ -81,7 +81,8 @@ Oct. 3, Thu
 : Convolutional Neural Networks in Practice
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1ZCyp-oSOp9in9HE-B-5RIYDIc1fYpNly/view?usp=sharing)
-  1. [Recording (1st of 3)](https://drive.google.com/file/d/1t-sxFbVRsuID6_-wSUcCZJXh7-xG56mO/view?usp=sharing)
+  1. [Recording (1st of 2)](https://drive.google.com/file/d/1t-sxFbVRsuID6_-wSUcCZJXh7-xG56mO/view?usp=sharing)
+  1. [Recording (1st of 2)](https://drive.google.com/file/d/1ShmWedcVmajgtquZZoF1XStBroD46E9E/view?usp=sharing)
   
 
 Dec. 12, Thu
