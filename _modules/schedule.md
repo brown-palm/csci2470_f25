@@ -83,6 +83,19 @@ Oct. 3, Thu
 : 1. [Slides](https://drive.google.com/file/d/1ZCyp-oSOp9in9HE-B-5RIYDIc1fYpNly/view?usp=sharing)
   1. [Recording (1st of 2)](https://drive.google.com/file/d/1t-sxFbVRsuID6_-wSUcCZJXh7-xG56mO/view?usp=sharing)
   1. [Recording (1st of 2)](https://drive.google.com/file/d/1ShmWedcVmajgtquZZoF1XStBroD46E9E/view?usp=sharing)
+
+
+Oct. 8, Tue
+: AutoDiff
+  : Chen Sun
+: 1. [Slides](https://drive.google.com/file/d/1sY78hm0Kl2s-RXdDmdMnxSdpVXkXFTex/view?usp=sharing)
+  1. [Recording]()
+
+
+Oct. 8, Tue
+: **HW3**{: .label .label-purple} Beras
+: 1. [Handout](https://hackmd.io/zvrL8ghnTH2ueHmi3CQp8Q)
+  1. Due date: Oct. 22 **6 pm ET**
   
 
 Dec. 12, Thu
