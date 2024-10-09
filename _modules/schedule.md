@@ -89,7 +89,7 @@ Oct. 8, Tue
 : AutoDiff
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1sY78hm0Kl2s-RXdDmdMnxSdpVXkXFTex/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a0b9a536-2d0c-4cd8-9879-b1d900f8149f)
 
 
 Oct. 8, Tue
