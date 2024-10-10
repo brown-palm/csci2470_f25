@@ -96,7 +96,14 @@ Oct. 8, Tue
 : **HW3**{: .label .label-purple} Beras
 : 1. [Handout](https://hackmd.io/zvrL8ghnTH2ueHmi3CQp8Q)
   1. Due date: Oct. 22 **6 pm ET**
-  
+
+
+Oct. 10, Thu
+: Word Embeddings
+  : Calvin Luo
+: 1. [Slides](https://drive.google.com/file/d/1M7fn346B3mxZjq9RVeKYmivjHuUehnbr/view?usp=drive_link)
+  1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1e03e1b8-449e-4bda-95ae-b1d900f814bf)  
+
 
 Dec. 12, Thu
 : **Final**{: .label .label-purple} Deep Learning Day
