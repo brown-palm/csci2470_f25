@@ -102,8 +102,24 @@ Oct. 10, Thu
 : Word Embeddings
   : Calvin Luo
 : 1. [Slides](https://drive.google.com/file/d/1M7fn346B3mxZjq9RVeKYmivjHuUehnbr/view?usp=drive_link)
-  1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1e03e1b8-449e-4bda-95ae-b1d900f814bf)  
+  1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1e03e1b8-449e-4bda-95ae-b1d900f814bf)
 
 
-Dec. 12, Thu
+Oct. 15, Tue
+: Recurrent Neural Networks
+  : Chen Sun
+: 1. [Slides]()
+  1. [Recording]()
+
+
+Oct. 15, Tue
+: **Final**{: .label .label-purple} Final Project Proposal
+: 1. [Handout](https://hackmd.io/ICzcdkxcRliLNQNft9HxyA)
+  1. [Proposal Form](https://forms.gle/GE2N6BybwJnmdHVh9)
+  1. Due date: Oct. 24 **6 pm ET**
+
+
+Dec. 10, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
+: 1. [Handout](https://hackmd.io/ICzcdkxcRliLNQNft9HxyA)
+  1. Report due date: Dec. 12 **6 pm ET**
