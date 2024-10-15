@@ -99,16 +99,16 @@ Oct. 8, Tue
 
 
 Oct. 10, Thu
-: Word Embeddings
+: Word Embeddings and RNNs
   : Calvin Luo
 : 1. [Slides](https://drive.google.com/file/d/1M7fn346B3mxZjq9RVeKYmivjHuUehnbr/view?usp=drive_link)
   1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1e03e1b8-449e-4bda-95ae-b1d900f814bf)
 
 
 Oct. 15, Tue
-: Recurrent Neural Networks
+: Machine Translation and Attention
   : Chen Sun
-: 1. [Slides]()
+: 1. [Slides](https://drive.google.com/file/d/1PCd8AEy0fvt_aMdXSwJ5guO6rB6UFSYl/view?usp=sharing)
   1. [Recording]()
 
 
