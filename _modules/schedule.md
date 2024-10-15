@@ -95,7 +95,7 @@ Oct. 8, Tue
 Oct. 8, Tue
 : **HW3**{: .label .label-purple} Beras
 : 1. [Handout](https://hackmd.io/zvrL8ghnTH2ueHmi3CQp8Q)
-  1. Due date: Oct. 22 **6 pm ET**
+  1. Due date: Oct. 29 **6 pm ET**
 
 
 Oct. 10, Thu
