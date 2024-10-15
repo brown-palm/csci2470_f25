@@ -109,7 +109,7 @@ Oct. 15, Tue
 : Machine Translation and Attention
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1PCd8AEy0fvt_aMdXSwJ5guO6rB6UFSYl/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c80498a5-31b1-4440-a7ae-b1d900f814db)
 
 
 Oct. 15, Tue
