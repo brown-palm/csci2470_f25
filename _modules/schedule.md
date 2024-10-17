@@ -112,6 +112,13 @@ Oct. 15, Tue
   1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c80498a5-31b1-4440-a7ae-b1d900f814db)
 
 
+Oct. 17, Thu
+: Transformers
+  : Chen Sun
+: 1. [Slides](https://drive.google.com/file/d/1cdPeN_ukv9uRE_Wqb8BvKrvBdK0Whtrk/view?usp=sharing)
+  1. [Recording]()
+
+
 Oct. 15, Tue
 : **Final**{: .label .label-purple} Final Project Proposal
 : 1. [Handout](https://hackmd.io/ICzcdkxcRliLNQNft9HxyA)
