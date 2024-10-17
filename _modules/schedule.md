@@ -123,7 +123,7 @@ Oct. 17, Thu
 : Transformers
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1cdPeN_ukv9uRE_Wqb8BvKrvBdK0Whtrk/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c6f6204-c1af-40a2-a990-b1d900f814f8)
 
 
 Dec. 10, Tue
