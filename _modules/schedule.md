@@ -124,6 +124,20 @@ Oct. 17, Thu
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1cdPeN_ukv9uRE_Wqb8BvKrvBdK0Whtrk/view?usp=sharing)
   1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c6f6204-c1af-40a2-a990-b1d900f814f8)
+  1. Recommended Video: [How Rotary Position Embedding Supercharges Modern LLMs](https://www.youtube.com/watch?v=SMBkImDWOyQ) by Jia-Bin Huang
+
+
+Oct. 22, Tue
+: Multimodal Learning
+  : Chen Sun
+: 1. [Slides]()
+  1. [Recording]()
+
+
+Oct. 22, Tue
+: **MP2**{: .label .label-purple} Mini Project 2
+: 1. [Handout]()
+  1. Due date: Nov. 7 **6 pm ET**
 
 
 Dec. 10, Tue
