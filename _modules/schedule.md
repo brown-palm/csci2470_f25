@@ -130,7 +130,7 @@ Oct. 17, Thu
 Oct. 22, Tue
 : Multimodal Learning
   : Chen Sun
-: 1. [Slides]()
+: 1. [Slides](https://drive.google.com/file/d/1iJsax3KN9x08rKFbvyv2XH6KNG7IsoiS/view?usp=sharing)
   1. [Recording]()
 
 
