@@ -138,7 +138,7 @@ Oct. 24, Thu
 : Self-supervised Learning
   : Calvin Luo
 : 1. [Slides](https://drive.google.com/file/d/1OF1XmNbTMiz8u_Xv5fGhRnhQXpkuU1tI/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=201cd5f3-46ad-4aaf-a343-b1d900f81538)
   1. Recommended Reading: [Self-supervised learning: The dark matter of intelligence](https://ai.meta.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
 
 
