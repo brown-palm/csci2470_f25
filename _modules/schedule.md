@@ -134,10 +134,20 @@ Oct. 22, Tue
   1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=82eeb71c-0049-4ca4-bc5f-b1d900f81519)
 
 
-Oct. 22, Tue
+Oct. 24, Thu
+: Self-supervised Learning
+  : Calvin Luo
+: 1. [Slides](https://drive.google.com/file/d/1OF1XmNbTMiz8u_Xv5fGhRnhQXpkuU1tI/view?usp=sharing)
+  1. [Recording]()
+  1. Recommended Reading: [Self-supervised learning: The dark matter of intelligence](https://ai.meta.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
+
+
+Oct. 24, Thu
 : **MP2**{: .label .label-purple} Mini Project 2
-: 1. [Handout]()
-  1. Due date: Nov. 7 **6 pm ET**
+: 1. [Handout](https://docs.google.com/document/d/111yWWIZX3hoFEuaWdugnt1jp8GAyPMfmlvlsUlUncwA/edit?usp=sharing)
+  1. [CLIP Demo](https://colab.research.google.com/drive/1Q0wiCAD3rU4JaVG3hGeTM77MShx4Yyzq?usp=drive_link)
+  1. [GPT Demo](https://colab.research.google.com/drive/11spcndqSpKqGU4YvfVbsvttNdDKraPDM?usp=drive_link)
+  1. Due date: Nov. 12 **6 pm ET**
 
 
 Dec. 10, Tue
