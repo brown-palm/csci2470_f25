@@ -150,6 +150,20 @@ Oct. 24, Thu
   1. Due date: Nov. 12 **6 pm ET**
 
 
+Oct. 29, Tue
+: Intro to Generative Models
+  : Chen Sun
+: 1. [Slides](https://drive.google.com/file/d/1NY1C-bBm06xn8G-JoZv_M9RO0rWG82Ku/view?usp=sharing)
+  1. [Recording]()
+  1. Recommended Reading: [Can Computers Create Art?](https://arxiv.org/abs/1801.04486)
+
+
+Oct. 29, Tue
+: **HW4**{: .label .label-purple} Image Captioning
+: 1. [Handout](https://hackmd.io/HEkmEna1SqCchVTjDgrJvw)
+  1. Due date: Nov. 12 **6 pm ET**
+
+
 Dec. 10, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
 : 1. [Handout](https://hackmd.io/ICzcdkxcRliLNQNft9HxyA)
