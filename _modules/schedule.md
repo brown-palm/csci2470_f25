@@ -168,7 +168,7 @@ Oct. 31, Thu
 : Generative Models in Practice
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1RJysTg4xkFw39aPnCQiy-wMs7hgyzt61/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5ee7cff1-bcef-40bd-b48e-b1d900f8156d)
 
 
 Dec. 10, Tue
