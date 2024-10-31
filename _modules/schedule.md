@@ -154,7 +154,7 @@ Oct. 29, Tue
 : Intro to Generative Models
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1NY1C-bBm06xn8G-JoZv_M9RO0rWG82Ku/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a9469933-50fc-4ca4-b3ec-b1d900f81555)
   1. Recommended Reading: [Can Computers Create Art?](https://arxiv.org/abs/1801.04486)
 
 
@@ -162,6 +162,13 @@ Oct. 29, Tue
 : **HW4**{: .label .label-purple} Image Captioning
 : 1. [Handout](https://hackmd.io/HEkmEna1SqCchVTjDgrJvw)
   1. Due date: Nov. 12 **6 pm ET**
+
+
+Oct. 31, Thu
+: Generative Models in Practice
+  : Chen Sun
+: 1. [Slides](https://drive.google.com/file/d/1RJysTg4xkFw39aPnCQiy-wMs7hgyzt61/view?usp=sharing)
+  1. [Recording]()
 
 
 Dec. 10, Tue
