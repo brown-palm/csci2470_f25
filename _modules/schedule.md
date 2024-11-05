@@ -171,6 +171,20 @@ Oct. 31, Thu
   1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5ee7cff1-bcef-40bd-b48e-b1d900f8156d)
 
 
+Nov. 7, Thu
+: VAE and Diffusion Models I
+  : Calvin Luo
+: 1. [Slides]()
+  1. [Recording]()
+
+
+Nov. 12, Tue
+: VAE and Diffusion Models II
+  : Calvin Luo
+: 1. [Slides]()
+  1. [Recording]()
+
+
 Dec. 10, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
 : 1. [Handout](https://hackmd.io/ICzcdkxcRliLNQNft9HxyA)
