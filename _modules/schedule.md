@@ -175,7 +175,7 @@ Nov. 7, Thu
 : VAE and Diffusion Models I
   : Calvin Luo
 : 1. [Slides](https://docs.google.com/presentation/d/1zCGWrOhA3YLM-Q4G-QWcXXmj60lneh7hMvhTRXWsRjo/edit?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=20f880bc-01db-4dc1-8487-b1d900f8159d)
 
 
 Nov. 12, Tue
