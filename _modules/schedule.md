@@ -185,6 +185,24 @@ Nov. 12, Tue
   1. [Recording]()
 
 
+Nov. 12, Tue
+: **MP3**{: .label .label-purple} Mini Project 3
+: 1. [Handout]()
+  1. Due date: Nov. 26 **6 pm ET**
+
+
+Nov. 14, Thu
+: Reinforcement Learning: Overview
+  : Calvin Luo
+: 1. [Slides]()
+  1. [Recording]()
+
+
+Nov. 19, Tue
+: **Guest Lecture**{: .label .label-orange} Advances in Probabilistic Generative Modeling for Scientific Machine Learning
+  : [Dr. Fei Sha](https://www.feisha.org/)
+
+
 Dec. 10, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
 : 1. [Handout](https://hackmd.io/ICzcdkxcRliLNQNft9HxyA)
