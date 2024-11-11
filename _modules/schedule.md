@@ -199,8 +199,9 @@ Nov. 14, Thu
 
 
 Nov. 19, Tue
-: **Guest Lecture**{: .label .label-orange} Advances in Probabilistic Generative Modeling for Scientific Machine Learning
+: **Guest**{: .label .label-blue} AI for Science
   : [Dr. Fei Sha](https://www.feisha.org/)
+: 1. Title: Advances in Probabilistic Generative Modeling for Scientific Machine Learning
 
 
 Dec. 10, Tue
