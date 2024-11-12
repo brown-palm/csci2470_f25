@@ -174,20 +174,21 @@ Oct. 31, Thu
 Nov. 7, Thu
 : VAE and Diffusion Models I
   : Calvin Luo
-: 1. [Slides](https://docs.google.com/presentation/d/1zCGWrOhA3YLM-Q4G-QWcXXmj60lneh7hMvhTRXWsRjo/edit?usp=sharing)
+: 1. [Slides](https://drive.google.com/file/d/1KWHcLNeRapg-fewn0_bCYZ_zOXHewZZl/view?usp=sharing)
   1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=20f880bc-01db-4dc1-8487-b1d900f8159d)
 
 
 Nov. 12, Tue
 : VAE and Diffusion Models II
   : Calvin Luo
-: 1. [Slides]()
+: 1. [Slides](https://drive.google.com/file/d/1AnJxyE_zip0BckOMJwrBYJNcQ6NNg-_s/view?usp=sharing)
   1. [Recording]()
 
 
 Nov. 12, Tue
 : **MP3**{: .label .label-purple} Mini Project 3
-: 1. [Handout]()
+: 1. [Handout](https://docs.google.com/document/d/1W9NaPHCK2dcaQlBD1ChHvdL-CnMZX3fRbBwMREYU2K0/edit?usp=sharing)
+  1. [Jupyter Notebook](https://colab.research.google.com/drive/1kbE2z65keTOGgshnPhVDeVjs8uaD5dWP)
   1. Due date: Nov. 26 **6 pm ET**
 
 
@@ -196,6 +197,12 @@ Nov. 14, Thu
   : Calvin Luo
 : 1. [Slides]()
   1. [Recording]()
+
+
+Nov. 14, Thu
+: **HW5**{: .label .label-purple} Reinforcement Learning
+: 1. [Handout]()
+  1. Due date: Dec. 3 **6 pm ET**
 
 
 Nov. 19, Tue
