@@ -172,14 +172,14 @@ Oct. 31, Thu
 
 
 Nov. 7, Thu
-: VAE and Diffusion Models I
+: Variational Autoencoders (VAE)
   : Calvin Luo
 : 1. [Slides](https://drive.google.com/file/d/1KWHcLNeRapg-fewn0_bCYZ_zOXHewZZl/view?usp=sharing)
   1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=20f880bc-01db-4dc1-8487-b1d900f8159d)
 
 
 Nov. 12, Tue
-: VAE and Diffusion Models II
+: Diffusion Models
   : Calvin Luo
 : 1. [Slides](https://drive.google.com/file/d/1AnJxyE_zip0BckOMJwrBYJNcQ6NNg-_s/view?usp=sharing)
   1. [Recording]()
@@ -193,22 +193,22 @@ Nov. 12, Tue
 
 
 Nov. 14, Thu
-: Reinforcement Learning: Overview
+: Energy Based Models
   : Calvin Luo
-: 1. [Slides]()
+: 1. [Slides](https://drive.google.com/file/d/1_fMcGBenUXgvKX6Ja9kiEobTPuSdvcYb/view?usp=sharing)
   1. [Recording]()
-
-
-Nov. 14, Thu
-: **HW5**{: .label .label-purple} Reinforcement Learning
-: 1. [Handout]()
-  1. Due date: Dec. 3 **6 pm ET**
 
 
 Nov. 19, Tue
 : **Guest**{: .label .label-blue} AI for Science
   : [Dr. Fei Sha](https://www.feisha.org/)
 : 1. Title: Advances in Probabilistic Generative Modeling for Scientific Machine Learning
+
+
+Nov. 21, Thu
+: **HW5**{: .label .label-purple} Reinforcement Learning
+: 1. [Handout]()
+  1. Due date: Dec. 5 **6 pm ET**
 
 
 Dec. 10, Tue
