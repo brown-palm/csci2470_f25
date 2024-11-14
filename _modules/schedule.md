@@ -182,7 +182,7 @@ Nov. 12, Tue
 : Diffusion Models
   : Calvin Luo
 : 1. [Slides](https://drive.google.com/file/d/1AnJxyE_zip0BckOMJwrBYJNcQ6NNg-_s/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e855b996-1aef-4f8f-83f7-b1d900f815b9)
 
 
 Nov. 12, Tue
@@ -196,7 +196,7 @@ Nov. 14, Thu
 : Energy Based Models
   : Calvin Luo
 : 1. [Slides](https://drive.google.com/file/d/1_fMcGBenUXgvKX6Ja9kiEobTPuSdvcYb/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5d2f3507-9007-403f-9b95-b1d900f815e0)
 
 
 Nov. 19, Tue
