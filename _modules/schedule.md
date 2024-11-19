@@ -203,6 +203,7 @@ Nov. 19, Tue
 : **Guest**{: .label .label-blue} AI for Science
   : [Dr. Fei Sha](https://www.feisha.org/)
 : 1. Title: Advances in Probabilistic Generative Modeling for Scientific Machine Learning
+  1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29bd21d1-e887-4b27-a36f-b1d900f815fb)
 
 
 Nov. 21, Thu
