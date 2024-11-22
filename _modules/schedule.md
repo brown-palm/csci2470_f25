@@ -207,8 +207,15 @@ Nov. 19, Tue
 
 
 Nov. 21, Thu
+: Reinforcement Learning Overview
+  : Calvin Luo
+: 1. [Slides](https://drive.google.com/file/d/1TL1qpVYYPlXpoWoRmmNNfkSSkj-iXedb/view?usp=sharing)
+  1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=35fa62e3-75fc-4e29-b972-b1d900f81618)
+
+
+Nov. 21, Thu
 : **HW5**{: .label .label-purple} Reinforcement Learning
-: 1. [Handout]()
+: 1. [Handout](https://hackmd.io/NppHO9NGR1yAxnIi2Q1RVQ)
   1. Due date: Dec. 5 **6 pm ET**
 
 
