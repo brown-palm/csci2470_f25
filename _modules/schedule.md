@@ -189,7 +189,7 @@ Nov. 12, Tue
 : **MP3**{: .label .label-purple} Mini Project 3
 : 1. [Handout](https://docs.google.com/document/d/1W9NaPHCK2dcaQlBD1ChHvdL-CnMZX3fRbBwMREYU2K0/edit?usp=sharing)
   1. [Jupyter Notebook](https://colab.research.google.com/drive/1kbE2z65keTOGgshnPhVDeVjs8uaD5dWP)
-  1. Due date: Nov. 26 **6 pm ET**
+  1. Due date: Dec. 5 **6 pm ET**
 
 
 Nov. 14, Thu
@@ -217,6 +217,13 @@ Nov. 21, Thu
 : **HW5**{: .label .label-purple} Reinforcement Learning
 : 1. [Handout](https://hackmd.io/NppHO9NGR1yAxnIi2Q1RVQ)
   1. Due date: Dec. 5 **6 pm ET**
+
+
+Nov. 26, Tue
+: Policy Gradient and Actor-Critic
+  : Calvin Luo
+: 1. [Slides](https://drive.google.com/file/d/1a8hLgTw65AphRnjGxBMgN4DHEgjpuASi/view?usp=sharing)
+  1. [Recording]()
 
 
 Dec. 10, Tue
