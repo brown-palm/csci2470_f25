@@ -231,7 +231,7 @@ Dec. 3, Tue
   : Calvin Luo and Chen Sun
 : 1. [Slides for PPO](https://drive.google.com/file/d/1tVcIw02j2TC5viaSznmi0u58j_P2Asl3/view?usp=sharing)
   1. [Slides for GNN](https://drive.google.com/file/d/1b8ao_WCR_kOAMvXOZjqpu8nA_17MjZr5/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9bb6a640-358b-432b-9f3c-b1d900f8166a)
 
 
 Dec. 5, Thu
