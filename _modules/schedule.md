@@ -223,10 +223,26 @@ Nov. 26, Tue
 : Policy Gradient and Actor-Critic
   : Calvin Luo
 : 1. [Slides](https://drive.google.com/file/d/1a8hLgTw65AphRnjGxBMgN4DHEgjpuASi/view?usp=sharing)
+  1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6001bc0f-c989-4bc8-927b-b1d900f8162f)
+
+
+Dec. 3, Tue
+: Policy Optimization, Graph Neural Networks
+  : Calvin Luo and Chen Sun
+: 1. [Slides for PPO](https://drive.google.com/file/d/1tVcIw02j2TC5viaSznmi0u58j_P2Asl3/view?usp=sharing)
+  1. [Slides for GNN](https://drive.google.com/file/d/1b8ao_WCR_kOAMvXOZjqpu8nA_17MjZr5/view?usp=sharing)
+  1. [Recording]()
+
+
+Dec. 5, Thu
+: Deep Learning Research, Conclusion
+  : Chen Sun
+: 1. [Slides]()
   1. [Recording]()
 
 
 Dec. 10, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
 : 1. [Handout](https://hackmd.io/ICzcdkxcRliLNQNft9HxyA)
+  1. [Slides](https://docs.google.com/presentation/d/1aBnWRZvkMeLrAYfmgubpt2iRMyfeG91vnqhTf20oGuk/edit?usp=sharing)
   1. Report due date: Dec. 12 **6 pm ET**
