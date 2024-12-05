@@ -237,7 +237,7 @@ Dec. 3, Tue
 Dec. 5, Thu
 : Deep Learning Research, Conclusion
   : Chen Sun
-: 1. [Slides]()
+: 1. [Slides](https://drive.google.com/file/d/1Kwbyg1NkAvhrFzUNdEjRNGciGoq0saPk/view?usp=sharing)
   1. [Recording]()
 
 
