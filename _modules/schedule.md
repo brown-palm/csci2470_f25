@@ -238,7 +238,7 @@ Dec. 5, Thu
 : Deep Learning Research, Conclusion
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1Kwbyg1NkAvhrFzUNdEjRNGciGoq0saPk/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=31117577-3ea8-4b2f-a67d-b1d900f81693)
 
 
 Dec. 10, Tue
