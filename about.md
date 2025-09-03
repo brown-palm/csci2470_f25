@@ -13,8 +13,8 @@ description: Course policies and information.
 
 - Tuesday, Thursday 1:00-2:20 PM Eastern Time
 - Instructor: [Chen Sun](https://chensun.me) ([chen_sun4@brown.edu](mailto:chensun@brown.edu))
-- Office hour: 3:00 to 5:00 PM on Tuesdays, or by appointment
-- Classroom: CIT 165
+- Office hour: 3:30 to 5:00 PM on Tuesdays, or by appointment
+- Classroom: Friedman Hall 108 
 
 _In-class participation is **required** unless otherwise approved by the instructor._  
 _Lectures will be recorded for asynchronous viewing._
@@ -25,10 +25,10 @@ Welcome to CSCI 2470! Deep Learning is a subset of machine learning methods base
 
 ## Resources
 
-- [Course syllabus](https://docs.google.com/document/d/1UJu3Gbh1BU7NwFRh6t69haisY2j-S2O_Qbk7bxGBez4/edit)
-- [Ed](https://edstem.org/us/courses/65187/discussion/)
-- [Canvas](https://canvas.brown.edu/courses/1096131)
-- [Anonymous feedback form](https://forms.gle/aLctM4Ee8iZ6pAWQA)
+- [Course syllabus](https://docs.google.com/document/d/1oV753neoAo-__Ir55szOSBW7GpqraXSOx1VbuYdB8PQ)
+- [Ed](https://edstem.org/us/courses/82047/discussion)
+- [Canvas](https://canvas.brown.edu/courses/1100300)
+- [Anonymous feedback form](https://forms.gle/nyr6e75zQ1T2VkzS6)
 
 ## Learning Goals
 
@@ -43,14 +43,32 @@ Students who complete this course will:
 
 ## Grading
 
-- 60% Assignments and Mini-Projects
-- 10% In-class participation
+- 60% Assignments and Mini-Projects (Required Components)
 - 30% Final Project
+- 10% Extra "Bonus" Components
 
 ## Academic Integrity & Collaboration Policy
 
 Academic dishonesty **will not be tolerated**. This includes cheating, lying about course matters, plagiarism, or helping others commit a violation. Plagiarism includes reproducing the words of others without both the use of quotation marks and citation. Students are reminded of the obligations and expectations associated with the Brown Academic and Student Conduct Codes.  
 Discussion of course material with your classmates is both permitted and encouraged. However, showing, copying, or other sharing of actual code or verbatim answers to written questions is forbidden. This policy **will** be enforced.
+
+## Use of Generative AI
+
+We largely follow the [guideline issued by the university](https://today.brown.edu/announcements/197332). Our course aims to equip our students with the fundamental principles and state-of-the-art techniques in Deep Learning. Our policy on GenAI usage reflects our teaching goals: We hold the highest standard on acedemic integrity, but also encourage students to use GenAI tools to enhance their learning experience, and accompolish more ambitious, challenging course projects. We implement our policy as follows:
+
+For assignments and mini projects:
+
+- A general guideline is to treat GenAI tools as your peers. As such, discussion of course material with GenAI tools is permitted and encouraged.
+- You may ask GenAI tools to help debug your assignments or mini projects, with the same types of questions you would ask during office hours. As such, showing the handouts or stencil codes to, and copying the responses from GenAI tools are forbidden.
+- For each assignment and mini project, students are expected to submit a declaration of GenAI usage (in a Google form); and if GenAI tools are used, students will be asked to upload the entire conversations with the GenAI tools.
+- For certain assignments and mini projects, the course team will randomly select a subset of students to attend "code review" sessions, during which the selected students will go over and explain their submission together with the course team.
+- GenAI tools do make mistakes, and please try to validate their responses (e.g., during TA hours) when necessary. You are encouraged to share glorious success cases and funny failure cases of those tools on EdStem.
+
+For the final project:
+
+- We encourage students to use GenAI tools either as a component of their proposed framework, or as a tool to assist their final project development.
+- Students are expected to declare GenAI usage both during project proposal and in the final project report. The course team will review and provide feedback on the GenAI usage and project scope. As a general rule of thumb, we have higher expectations for teams that rely on GenAI tools for project development.
+
 
 ## Diversity & Inclusion
 
