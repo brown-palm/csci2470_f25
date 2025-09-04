@@ -15,8 +15,8 @@ seo:
 
 - Tuesday, Thursday 1:00-2:20 PM Eastern Time
 - Instructor: [Chen Sun](https://chensun.me) ([chen_sun4@brown.edu](mailto:chensun@brown.edu))
-- Office hour: 3:00 to 5:00 PM on Tuesdays, or by appointment
-- Classroom: CIT 165
+- Office hour: 3:30 to 5:00 PM on Tuesdays, or by appointment
+- Classroom: Friedman Hall 108 
 
 _In-class participation is **required** unless otherwise approved by the instructor._  
 _Lectures will be recorded for asynchronous viewing._
@@ -27,10 +27,10 @@ Welcome to CSCI 2470! Deep Learning is a subset of machine learning methods base
 
 ## Resources
 
-- [Course syllabus](https://docs.google.com/document/d/1UJu3Gbh1BU7NwFRh6t69haisY2j-S2O_Qbk7bxGBez4/edit)
-- [Ed](https://edstem.org/us/courses/65187/discussion/)
-- [Canvas](https://canvas.brown.edu/courses/1096131)
-- [Anonymous feedback form](https://forms.gle/aLctM4Ee8iZ6pAWQA)
+- [Course syllabus](https://docs.google.com/document/d/1oV753neoAo-__Ir55szOSBW7GpqraXSOx1VbuYdB8PQ)
+- [Ed](https://edstem.org/us/courses/82047/discussion)
+- [Canvas](https://canvas.brown.edu/courses/1100300)
+- [Anonymous feedback form](https://forms.gle/nyr6e75zQ1T2VkzS6)
 
 ## Learning Goals
 
@@ -45,9 +45,9 @@ Students who complete this course will:
 
 ## Grading
 
-- 60% Assignments and Mini-Projects
-- 10% In-class participation
+- 60% Assignments and Mini-Projects (Required Components)
 - 30% Final Project
+- 10% Extra "Bonus" Components
 
 ## Academic Integrity & Collaboration Policy
 
