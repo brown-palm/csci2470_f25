@@ -47,7 +47,11 @@ schedule:
         start: 1:00 PM
         end: 2:30 PM
         location: Friedman Hall 108
-      - name: Office Hours
+      - name: Nate's Office Hour
+        start: 2:30 PM
+        end: 4:00 PM
+        location: TBD
+      - name: Chen's Office Hour
         start: 3:30 PM
         end: 5:00 PM
         location: CIT 379 (Chen's office)
