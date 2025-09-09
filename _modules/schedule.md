@@ -13,7 +13,7 @@ Sep. 9, Tue
 : Loss Functions and Optimization
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1r48VTx2jv4Fac1BRnlBg_RqT30YrxHsG/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording (Screenshare broken)](https://drive.google.com/file/d/12lYZgRnwlsCtd6aknQ7W7Wt5BseTD0Fl/view?usp=sharing)
 
 Sep. 9, Tue
 : **HW1**{: .label .label-purple} Setup and Warm-up
