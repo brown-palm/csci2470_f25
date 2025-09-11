@@ -23,7 +23,7 @@ Sep. 11, Thu
 : Stochastic Gradient Descent and Multi-Layer Perceptron
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/19nOY-MkU4Ct7SEzJOU2NVxkBxqNl5xyg/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://drive.google.com/file/d/17uUqwGVoqKDv-DE_nTtOmeXvA6_bfzxh/view?usp=sharing)
 
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
