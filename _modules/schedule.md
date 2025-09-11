@@ -19,6 +19,12 @@ Sep. 9, Tue
 : **HW1**{: .label .label-purple} Setup and Warm-up
 : 1. [Handout](https://hackmd.io/DUbGr8EkSmapA_toNn5Fiw)
 
+Sep. 11, Thu
+: Stochastic Gradient Descent and Multi-Layer Perceptron
+  : Chen Sun
+: 1. [Slides](https://drive.google.com/file/d/19nOY-MkU4Ct7SEzJOU2NVxkBxqNl5xyg/view?usp=sharing)
+  1. [Recording]()
+
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
 : 1. Report due date: Dec. 11 **6 pm ET**
