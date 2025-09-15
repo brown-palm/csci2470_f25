@@ -54,6 +54,31 @@ Students who complete this course will:
 Academic dishonesty **will not be tolerated**. This includes cheating, lying about course matters, plagiarism, or helping others commit a violation. Plagiarism includes reproducing the words of others without both the use of quotation marks and citation. Students are reminded of the obligations and expectations associated with the Brown Academic and Student Conduct Codes.  
 Discussion of course material with your classmates is both permitted and encouraged. However, showing, copying, or other sharing of actual code or verbatim answers to written questions is forbidden. This policy **will** be enforced.
 
+## Use of Generative AI
+
+We encourage transparent, responsible usage of GenAI tools.
+
+We largely follow the [guideline issued by the university](https://today.brown.edu/announcements/197332).  The general guideline is to treat GenAI tools as your peer, that you may discuss conceptual questions with them (e.g., similar to the questions you would ask to TAs). We include example usage of GenAI tools in mini project 1, and you are encouraged to use them in the final project.
+
+Transparency:
+
+- Each graded assignment and mini project will have a “GenAI declaration form”
+- You are required to upload your conversation with GenAI tools to the form, they will be manually reviewed by the course team
+- The course team reserves the right to conduct conceptual reviews with students to make sure they can independently reproduce their submitted code
+- Final project report should have a section describing your usage of GenAI tools
+
+Responsible Usage:
+
+- Below are some (non-exhaustive) examples. If you are not sure, send the instructor an email or ask on Ed.
+- DOs:
+  - Ask conceptual or generic debugging questions
+  - Share your interesting conversations (or funny failures) with other students on Ed
+  - Use GenAI tools as a building block, or to assist coding for the final project (Our expectation on the complexity of your final project will be higher for groups that use coding LLMs)
+- DON'Ts:
+  - Upload the handout or stencil code and ask coding LLMs to fill in the gaps
+  - Use GenAI tools without submitting the corresponding declaration form
+  - “Blindly” trust the tools without confirming with the course team
+
 ## Diversity & Inclusion
 
 Our intent is that this course provides a welcoming environment for all students who satisfy the prerequisites. All members of the CS community, including faculty and staff, are expected to treat one another in a professional manner. If you feel you have not been treated in a professional manner by any of the course staff, please contact either the instructor, Ugur Cetintemel (Dept. Chair), Tom Doeppner (Vice Chair) or Laura Dobler (diversity & inclusion staff member). We will take all complaints about unprofessional behavior seriously.  

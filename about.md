@@ -54,21 +54,28 @@ Discussion of course material with your classmates is both permitted and encoura
 
 ## Use of Generative AI
 
-We largely follow the [guideline issued by the university](https://today.brown.edu/announcements/197332). Our course aims to equip our students with the fundamental principles and state-of-the-art techniques in Deep Learning. Our policy on GenAI usage reflects our teaching goals: We hold the highest standard on acedemic integrity, but also encourage students to use GenAI tools to enhance their learning experience, and accompolish more ambitious, challenging course projects. We implement our policy as follows:
+We encourage transparent, responsible usage of GenAI tools.
 
-For assignments and mini projects:
+We largely follow the [guideline issued by the university](https://today.brown.edu/announcements/197332).  The general guideline is to treat GenAI tools as your peer, that you may discuss conceptual questions with them (e.g., similar to the questions you would ask to TAs). We include example usage of GenAI tools in mini project 1, and you are encouraged to use them in the final project.
 
-- A general guideline is to treat GenAI tools as your peers. As such, discussion of course material with GenAI tools is permitted and encouraged.
-- You may ask GenAI tools to help debug your assignments or mini projects, with the same types of questions you would ask during office hours. As such, showing the handouts or stencil codes to, and copying the responses from GenAI tools are forbidden.
-- For each assignment and mini project, students are expected to submit a declaration of GenAI usage (in a Google form); and if GenAI tools are used, students will be asked to upload the entire conversations with the GenAI tools.
-- For certain assignments and mini projects, the course team will randomly select a subset of students to attend "code review" sessions, during which the selected students will go over and explain their submission together with the course team.
-- GenAI tools do make mistakes, and please try to validate their responses (e.g., during TA hours) when necessary. You are encouraged to share glorious success cases and funny failure cases of those tools on EdStem.
+Transparency:
 
-For the final project:
+- Each graded assignment and mini project will have a “GenAI declaration form”
+- You are required to upload your conversation with GenAI tools to the form, they will be manually reviewed by the course team
+- The course team reserves the right to conduct conceptual reviews with students to make sure they can independently reproduce their submitted code
+- Final project report should have a section describing your usage of GenAI tools
 
-- We encourage students to use GenAI tools either as a component of their proposed framework, or as a tool to assist their final project development.
-- Students are expected to declare GenAI usage both during project proposal and in the final project report. The course team will review and provide feedback on the GenAI usage and project scope. As a general rule of thumb, we have higher expectations for teams that rely on GenAI tools for project development.
+Responsible Usage:
 
+- Below are some (non-exhaustive) examples. If you are not sure, send the instructor an email or ask on Ed.
+- DOs:
+	- Ask conceptual or generic debugging questions
+	- Share your interesting conversations (or funny failures) with other students on Ed
+	- Use GenAI tools as a building block, or to assist coding for the final project (Our expectation on the complexity of your final project will be higher for groups that use coding LLMs)
+- DON'Ts:
+	- Upload the handout or stencil code and ask coding LLMs to fill in the gaps
+	- Use GenAI tools without submitting the corresponding declaration form
+	- “Blindly” trust the tools without confirming with the course team
 
 ## Diversity & Inclusion
 

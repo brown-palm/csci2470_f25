@@ -20,10 +20,16 @@ Sep. 9, Tue
 : 1. [Handout](https://hackmd.io/DUbGr8EkSmapA_toNn5Fiw)
 
 Sep. 11, Thu
-: Stochastic Gradient Descent and Multi-Layer Perceptron
+: Stochastic Gradient Descent and MLP
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/19nOY-MkU4Ct7SEzJOU2NVxkBxqNl5xyg/view?usp=sharing)
   1. [Recording](https://drive.google.com/file/d/17uUqwGVoqKDv-DE_nTtOmeXvA6_bfzxh/view?usp=sharing)
+
+Sep. 16, Tue
+: Backpropagation
+  : Chen Sun
+: 1. [Slides]()
+  1. [Recording]()
 
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
