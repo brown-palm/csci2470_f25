@@ -29,7 +29,7 @@ Sep. 16, Tue
 : Backpropagation
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1g6WIJP5ZROvQU5EWDtXFGzkj0kfHHPAw/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://drive.google.com/file/d/12iz_8c5ONaSjJ_OTXS1BjQLi6cy4vOuX/view?usp=sharing)
 
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
