@@ -50,7 +50,7 @@ schedule:
       - name: Office Hour (Nate)
         start: 2:30 PM
         end: 4:00 PM
-        location: TBD
+        location: CIT 316
       - name: Office Hour (Chen)
         start: 3:30 PM
         end: 5:00 PM
