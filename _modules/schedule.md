@@ -28,7 +28,7 @@ Sep. 11, Thu
 Sep. 16, Tue
 : Backpropagation
   : Chen Sun
-: 1. [Slides]()
+: 1. [Slides](https://drive.google.com/file/d/1g6WIJP5ZROvQU5EWDtXFGzkj0kfHHPAw/view?usp=sharing)
   1. [Recording]()
 
 Dec. 9, Tue
