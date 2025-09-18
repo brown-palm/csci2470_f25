@@ -31,6 +31,16 @@ Sep. 16, Tue
 : 1. [Slides](https://drive.google.com/file/d/1g6WIJP5ZROvQU5EWDtXFGzkj0kfHHPAw/view?usp=sharing)
   1. [Recording](https://drive.google.com/file/d/12iz_8c5ONaSjJ_OTXS1BjQLi6cy4vOuX/view?usp=sharing)
 
+Sep. 18, Thu
+: **EXTRA**{: .label .label-purple} Paper Nomination
+: 1. [Form](https://forms.gle/t2T9owBQiqtXnDAq6)
+
+Sep. 18, Thu
+: Deep Learning Softwares and Hardwares
+  : Chen Sun
+: 1. [Slides](https://drive.google.com/file/d/1ajQ5O86DjSD7fLsmLrEhVCn1jsJEo9vS/view?usp=sharing)
+  1. [Recording]()
+
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
 : 1. Report due date: Dec. 11 **6 pm ET**
