@@ -34,9 +34,13 @@ schedule:
   - name: Monday
     events:
       - name: TA Office Hours
-        start: 2:00 PM
-        end: 4:00 PM
-        location: CIT 167
+        start: 1:00 PM
+        end: 3:00 PM
+        location: CIT 102
+      - name: TA Office Hours
+        start: 3:00 PM
+        end: 5:00 PM
+        location: CIT 210
   - name: Tuesday
     events:
       - name: TA Office Hours
@@ -72,4 +76,8 @@ schedule:
         end: 9:00 PM
         location: CIT 201
   - name: Friday
+      - name: TA Office Hours
+        start: 11:00 AM
+        end: 1:00 PM
+        location: CIT 167 (MS Lab)
 ---
