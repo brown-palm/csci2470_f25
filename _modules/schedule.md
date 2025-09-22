@@ -41,6 +41,17 @@ Sep. 18, Thu
 : 1. [Slides](https://drive.google.com/file/d/1ajQ5O86DjSD7fLsmLrEhVCn1jsJEo9vS/view?usp=sharing)
   1. [Recording](https://drive.google.com/file/d/1mJn_MHx63qWvx5IPTXYvlbRuhmNggO_i/view?usp=drive_link)
 
+Sep. 23, Tue
+: Convolutional Neural Networks: Introduction
+  : Chen Sun
+: 1. [Slides]()
+  1. [Recording]()
+
+Sep. 23, Tue
+: **HW2**{: .label .label-purple} Convolutional Neural Networks
+: 1. [Handout](https://hackmd.io/@brown-2470-f25/HkX2ymFKgg)
+  1. Due date: Oct. 7 **6 pm ET**
+
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
 : 1. Report due date: Dec. 11 **6 pm ET**

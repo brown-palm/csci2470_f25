@@ -76,6 +76,7 @@ schedule:
         end: 9:00 PM
         location: CIT 201
   - name: Friday
+      events:
       - name: TA Office Hours
         start: 11:00 AM
         end: 1:00 PM
