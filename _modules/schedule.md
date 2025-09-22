@@ -30,6 +30,7 @@ Sep. 16, Tue
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1g6WIJP5ZROvQU5EWDtXFGzkj0kfHHPAw/view?usp=sharing)
   1. [Recording](https://drive.google.com/file/d/12iz_8c5ONaSjJ_OTXS1BjQLi6cy4vOuX/view?usp=sharing)
+  1. Recommended Reading: [Hacker's guide to Neural Networks](https://karpathy.github.io/neuralnets/)
 
 Sep. 18, Thu
 : **EXTRA**{: .label .label-purple} Paper Nomination
@@ -44,8 +45,10 @@ Sep. 18, Thu
 Sep. 23, Tue
 : Convolutional Neural Networks: Introduction
   : Chen Sun
-: 1. [Slides]()
+: 1. [Slides](https://drive.google.com/file/d/1nUBbBUKqUwkSARxVnI5RwbOPEbwqcU2u/view?usp=sharing)
   1. [Recording]()
+  1. Recommended Reading: [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+  1. Recommended Reading: [Induction, Inductive Biases, and Infusing Knowledge into Learned Representations](https://sgfin.github.io/2020/06/22/Induction-Intro/)
 
 Sep. 23, Tue
 : **HW2**{: .label .label-purple} Convolutional Neural Networks
