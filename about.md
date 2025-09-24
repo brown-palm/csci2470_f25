@@ -5,7 +5,7 @@ nav_exclude: false
 description: Course policies and information.
 ---
 
-# Deep Learning
+# Deep Learning (Fall 2025)
 
 ---
 

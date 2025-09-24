@@ -7,7 +7,7 @@ seo:
   name: Just the Class
 ---
 
-# Deep Learning
+# Deep Learning (Fall 2025)
 
 ---
 
