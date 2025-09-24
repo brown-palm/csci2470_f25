@@ -46,7 +46,7 @@ Sep. 23, Tue
 : Convolutional Neural Networks: Introduction
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1nUBbBUKqUwkSARxVnI5RwbOPEbwqcU2u/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://drive.google.com/file/d/1JSy9Yad8-_Lqbsx2TIlA3Pg65_xIbAO5/view?usp=sharing)
   1. Recommended Reading: [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
   1. Recommended Reading: [Induction, Inductive Biases, and Infusing Knowledge into Learned Representations](https://sgfin.github.io/2020/06/22/Induction-Intro/)
 
