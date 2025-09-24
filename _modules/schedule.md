@@ -59,7 +59,7 @@ Sep. 23, Tue
 Sep. 25, Thu
 : Convolutional Neural Networks: Architectures
   : Chen Sun
-: 1. [Slides]()
+: 1. [Slides](https://drive.google.com/file/d/1BUAE8yAv_UB-wj4pRcR5n5Nmar0afUQV/view?usp=sharing)
   1. [Recording]()
 
 Sep. 25, Thu
