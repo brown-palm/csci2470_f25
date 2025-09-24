@@ -35,6 +35,7 @@ Sep. 16, Tue
 Sep. 18, Thu
 : **EXTRA**{: .label .label-purple} Paper Nomination
 : 1. [Form](https://forms.gle/t2T9owBQiqtXnDAq6)
+  1. Due date: Nov. 20
 
 Sep. 18, Thu
 : Deep Learning Softwares and Hardwares
@@ -54,6 +55,17 @@ Sep. 23, Tue
 : **HW2**{: .label .label-purple} Convolutional Neural Networks
 : 1. [Handout](https://hackmd.io/@brown-2470-f25/HkX2ymFKgg)
   1. Due date: Oct. 7 **6 pm ET**
+
+Sep. 25, Thu
+: Convolutional Neural Networks: Architectures
+  : Chen Sun
+: 1. [Slides]()
+  1. [Recording]()
+
+Sep. 25, Thu
+: **EXTRA**{: .label .label-purple} Paper Presentation Recording
+: 1. [Form](https://forms.gle/9B2uYZoNBMUCakx6A)
+  1. Due date: Dec. 4 **6 pm ET**
 
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
