@@ -54,6 +54,7 @@ Sep. 23, Tue
 Sep. 23, Tue
 : **HW2**{: .label .label-purple} Convolutional Neural Networks
 : 1. [Handout](https://hackmd.io/@brown-2470-f25/HkX2ymFKgg)
+  1. [GenAI Declaration](https://forms.gle/EwQGmgH1BrBxFsgZ9)
   1. Due date: Oct. 7 **6 pm ET**
 
 Sep. 25, Thu
