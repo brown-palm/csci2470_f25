@@ -68,6 +68,12 @@ Sep. 25, Thu
 : 1. [Form](https://forms.gle/9B2uYZoNBMUCakx6A)
   1. Due date: Dec. 4 **6 pm ET**
 
+Sep. 30, Tue
+: Convolutional Neural Networks in Practice
+  : Chen Sun
+: 1. [Slides](https://drive.google.com/file/d/163mRMXsb4-z-hqchgw6t4HIE5NiVbxBt/view?usp=sharing)
+  1. [Recording]()
+
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
 : 1. Report due date: Dec. 11 **6 pm ET**
