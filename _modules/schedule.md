@@ -72,7 +72,7 @@ Sep. 30, Tue
 : Convolutional Neural Networks in Practice
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/163mRMXsb4-z-hqchgw6t4HIE5NiVbxBt/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://drive.google.com/file/d/1OAGcaOYkYVK1uHHBUphi0WWp44Jssg3h/view?usp=drive_link)
 
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
