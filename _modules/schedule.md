@@ -78,7 +78,7 @@ Oct. 2, Thu
 : Multimodal Learning
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1tRH_Mnb9vaoKGr2s14-0MiWM8GUR2h8x/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://drive.google.com/file/d/1TI32VLXmzgkIjNuJ3DjnLZnhOoTYK7-t/view?usp=drive_link)
 
 Oct. 2, Thu
 : **MP1**{: .label .label-purple} Multimodal Learning
