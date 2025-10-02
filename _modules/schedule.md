@@ -74,6 +74,17 @@ Sep. 30, Tue
 : 1. [Slides](https://drive.google.com/file/d/163mRMXsb4-z-hqchgw6t4HIE5NiVbxBt/view?usp=sharing)
   1. [Recording](https://drive.google.com/file/d/1OAGcaOYkYVK1uHHBUphi0WWp44Jssg3h/view?usp=drive_link)
 
+Oct. 2, Thu
+: Multimodal Learning
+  : Chen Sun
+: 1. [Slides](https://drive.google.com/file/d/1tRH_Mnb9vaoKGr2s14-0MiWM8GUR2h8x/view?usp=sharing)
+  1. [Recording]()
+
+Oct. 2, Thu
+: **MP1**{: .label .label-purple} Multimodal Learning
+: 1. [Handout](https://docs.google.com/document/d/1VpJtvQtM502rxVzSYHGCjjbOkRhFlFX8qq0Sw2UnUi8/edit?usp=sharing)
+  1. Due date: Oct. 16 **6 pm ET**
+
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
 : 1. Report due date: Dec. 11 **6 pm ET**
