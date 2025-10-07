@@ -85,6 +85,18 @@ Oct. 2, Thu
 : 1. [Handout](https://docs.google.com/document/d/1VpJtvQtM502rxVzSYHGCjjbOkRhFlFX8qq0Sw2UnUi8/edit?usp=sharing)
   1. Due date: Oct. 16 **6 pm ET**
 
+Oct. 7, Tue
+: Automatic Differentiation
+  : Chen Sun
+: 1. [Slides](https://drive.google.com/file/d/15GIUNaaVvsfKg-WWFqrHkn3frYdJ2zKp/view?usp=sharing)
+  1. [Recording]()
+
+Oct. 7, Tue
+: **HW3**{: .label .label-purple} Convolutional Neural Networks
+: 1. [Handout](https://hackmd.io/@brown-2470-f25/rkEAJQFKxg)
+  1. [GenAI Declaration](https://forms.gle/EwQGmgH1BrBxFsgZ9)
+  1. Due date: Oct. 28 **6 pm ET**
+
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
 : 1. Report due date: Dec. 11 **6 pm ET**
