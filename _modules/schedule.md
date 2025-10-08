@@ -89,7 +89,7 @@ Oct. 7, Tue
 : Automatic Differentiation
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/15GIUNaaVvsfKg-WWFqrHkn3frYdJ2zKp/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://drive.google.com/file/d/1IYzaIyBWLo4nY_cZEySHVYOarVSJqtHD/view?usp=sharing)
 
 Oct. 7, Tue
 : **HW3**{: .label .label-purple} Convolutional Neural Networks
