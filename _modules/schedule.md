@@ -93,7 +93,7 @@ Oct. 7, Tue
   1. Sorry the audio is not ideal, will try to understand why
 
 Oct. 7, Tue
-: **HW3**{: .label .label-purple} Convolutional Neural Networks
+: **HW3**{: .label .label-purple} Beras
 : 1. [Handout](https://hackmd.io/@brown-2470-f25/rkEAJQFKxg)
   1. [GenAI Declaration](https://forms.gle/EwQGmgH1BrBxFsgZ9)
   1. Due date: Oct. 28 **6 pm ET**
