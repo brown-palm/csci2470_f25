@@ -90,6 +90,7 @@ Oct. 7, Tue
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/15GIUNaaVvsfKg-WWFqrHkn3frYdJ2zKp/view?usp=sharing)
   1. [Recording](https://drive.google.com/file/d/1IYzaIyBWLo4nY_cZEySHVYOarVSJqtHD/view?usp=sharing)
+  1. Sorry the audio is not ideal, will try to understand why
 
 Oct. 7, Tue
 : **HW3**{: .label .label-purple} Convolutional Neural Networks
