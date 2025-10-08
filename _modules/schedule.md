@@ -98,6 +98,12 @@ Oct. 7, Tue
   1. [GenAI Declaration](https://forms.gle/EwQGmgH1BrBxFsgZ9)
   1. Due date: Oct. 28 **6 pm ET**
 
+Oct. 9, Thu
+: Word Embedding and RNNs
+  : Chen Sun
+: 1. [Slides](https://docs.google.com/presentation/d/1-kfFiBCjXMINJ8cE4P9pfBD076ZHn1fvshw56Iut3l0/edit?usp=sharing)
+  1. [Recording]()
+
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
 : 1. Report due date: Dec. 11 **6 pm ET**
