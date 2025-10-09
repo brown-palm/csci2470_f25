@@ -102,7 +102,7 @@ Oct. 9, Thu
 : Word Embedding and RNNs
   : Chen Sun
 : 1. [Slides](https://docs.google.com/presentation/d/1-kfFiBCjXMINJ8cE4P9pfBD076ZHn1fvshw56Iut3l0/edit?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://drive.google.com/file/d/1vmksF97dHMfNYEBPfJPZs7j_geYi-Nre/view?usp=sharing)
 
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
