@@ -101,8 +101,20 @@ Oct. 7, Tue
 Oct. 9, Thu
 : Word Embedding and RNNs
   : Chen Sun
-: 1. [Slides](https://docs.google.com/presentation/d/1-kfFiBCjXMINJ8cE4P9pfBD076ZHn1fvshw56Iut3l0/edit?usp=sharing)
+: 1. [Slides](https://drive.google.com/file/d/1wO-toBV-FbOXWVxHUcSmug9PZ4HEI2ce/view?usp=sharing)
   1. [Recording](https://drive.google.com/file/d/1vmksF97dHMfNYEBPfJPZs7j_geYi-Nre/view?usp=sharing)
+
+Oct. 14, Tue
+: Machine Translation and Attention
+  : Chen Sun
+: 1. [Slides](https://drive.google.com/file/d/1WXew7l-rpVl3bPWy9LepS0hE97r-_2vO/view?usp=sharing)
+  1. [Recording]()
+
+Oct. 16, Thu
+: Transformers
+  : Chen Sun
+: 1. [Slides](https://drive.google.com/file/d/1JXZNBEVd0QL2x7j4-LJXqIFUQedskB_p/view?usp=sharing)
+  1. [Recording]()
 
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
