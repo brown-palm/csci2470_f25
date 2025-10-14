@@ -105,13 +105,13 @@ Oct. 9, Thu
   1. [Recording](https://drive.google.com/file/d/1vmksF97dHMfNYEBPfJPZs7j_geYi-Nre/view?usp=sharing)
 
 Oct. 14, Tue
-: Machine Translation and Attention
+: Machine Translation
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1WXew7l-rpVl3bPWy9LepS0hE97r-_2vO/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://drive.google.com/file/d/1iJLsFYTVI_lfCuc-u1qaqHpmYzN4Qz_N/view?usp=sharing)
 
 Oct. 16, Thu
-: Transformers
+: LSTM and Transformers
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1JXZNBEVd0QL2x7j4-LJXqIFUQedskB_p/view?usp=sharing)
   1. [Recording]()
