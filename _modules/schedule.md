@@ -114,7 +114,7 @@ Oct. 16, Thu
 : LSTM and Transformers
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1JXZNBEVd0QL2x7j4-LJXqIFUQedskB_p/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://drive.google.com/file/d/1AzQXJcXDte0K7HehnC5AAsDSVlb9wjpW/view?usp=drive_link)
 
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
