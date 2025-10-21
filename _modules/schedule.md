@@ -122,6 +122,18 @@ Oct. 21, Tue
 : 1. [Slides](https://drive.google.com/file/d/1DLHNbxG9cB80hXxFeLHnwH534j7RX_zm/view?usp=sharing)
   1. [Recording]()
 
+Oct. 21, Tue
+: **Final**{: .label .label-purple} Final Project Proposal
+: 1. [Handout](https://hackmd.io/@brown-2470-f25/H1LNeXYYgg)
+  1. [Proposal Form](https://forms.gle/dKcfijDkMS4o6chX6 )
+  1. Due date: Oct. 30 **6 pm ET**
+
+Oct. 23, Thu
+: Intro to Deep Generative Models
+  : Chen Sun
+: 1. [Slides](https://drive.google.com/file/d/1n9vfwDAyMW-7wgd4mwr_YzfgLs5JWcUF/view?usp=sharing)
+  1. [Recording]()
+
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
 : 1. Report due date: Dec. 11 **6 pm ET**
