@@ -116,6 +116,12 @@ Oct. 16, Thu
 : 1. [Slides](https://drive.google.com/file/d/1JXZNBEVd0QL2x7j4-LJXqIFUQedskB_p/view?usp=sharing)
   1. [Recording](https://drive.google.com/file/d/1AzQXJcXDte0K7HehnC5AAsDSVlb9wjpW/view?usp=drive_link)
 
+Oct. 21, Tue
+: Transformer Applications, Graph Neural Networks
+  : Chen Sun
+: 1. [Slides](https://drive.google.com/file/d/1DLHNbxG9cB80hXxFeLHnwH534j7RX_zm/view?usp=sharing)
+  1. [Recording]()
+
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
 : 1. Report due date: Dec. 11 **6 pm ET**
