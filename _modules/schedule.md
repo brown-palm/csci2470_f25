@@ -117,10 +117,10 @@ Oct. 16, Thu
   1. [Recording](https://drive.google.com/file/d/1AzQXJcXDte0K7HehnC5AAsDSVlb9wjpW/view?usp=drive_link)
 
 Oct. 21, Tue
-: Transformer Applications, Graph Neural Networks
+: Transformer Applications
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1DLHNbxG9cB80hXxFeLHnwH534j7RX_zm/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://drive.google.com/file/d/1j1_q-ZQPSe5vBCm9FADnPqEV4bPwdzBE/view?usp=sharing)
 
 Oct. 21, Tue
 : **Final**{: .label .label-purple} Final Project Proposal
@@ -129,9 +129,9 @@ Oct. 21, Tue
   1. Due date: Oct. 30 **6 pm ET**
 
 Oct. 23, Thu
-: Intro to Deep Generative Models
+: Graph Neural Networks, Intro to Generative Models
   : Chen Sun
-: 1. [Slides](https://drive.google.com/file/d/1n9vfwDAyMW-7wgd4mwr_YzfgLs5JWcUF/view?usp=sharing)
+: 1. [Slides](https://drive.google.com/file/d/1O_2xJECW35Q2BdWpeeNfhG08fLYg2eL0/view?usp=sharing)
   1. [Recording]()
 
 Dec. 9, Tue
