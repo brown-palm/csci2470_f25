@@ -134,6 +134,17 @@ Oct. 23, Thu
 : 1. [Slides](https://drive.google.com/file/d/1O_2xJECW35Q2BdWpeeNfhG08fLYg2eL0/view?usp=sharing)
   1. [Recording](https://drive.google.com/file/d/1MDgMVr0meVrtYxxXso6PwcWU9TRIwBDk/view?usp=drive_link)
 
+Oct. 28, Tue
+: Deep Generative Models in Practice
+  : Chen Sun
+: 1. [Slides](https://drive.google.com/file/d/1TLAGBS2IdIEabPTiBTABtjfDevY51nC5/view?usp=sharing)
+  1. [Recording]()
+
+Oct. 28, Tue
+: **Feedback**{: .label .label-purple} Mid-term Feedback Form
+: 1. [Form](https://forms.gle/NNR4yR4XFZkMuN2J7)
+  1. One extra late day for students who submit this form :)
+
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
 : 1. Report due date: Dec. 11 **6 pm ET**
