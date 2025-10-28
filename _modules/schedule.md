@@ -138,7 +138,7 @@ Oct. 28, Tue
 : Deep Generative Models in Practice
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1TLAGBS2IdIEabPTiBTABtjfDevY51nC5/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://drive.google.com/file/d/17gfkKr0J_IWDV48pwhRLHjPOkk5JHNzs/view?usp=drive_link)
 
 Oct. 28, Tue
 : **Feedback**{: .label .label-purple} Mid-term Feedback Form
