@@ -145,6 +145,12 @@ Oct. 28, Tue
 : 1. [Form](https://forms.gle/NNR4yR4XFZkMuN2J7)
   1. One extra late day for students who submit this form :)
 
+Oct. 28, Tue
+: **HW4**{: .label .label-purple} Image Captioning
+: 1. [Handout](https://hackmd.io/cskHMvfgQo2jJtQCuOFY0g)
+  1. [GenAI Declaration](https://forms.gle/EwQGmgH1BrBxFsgZ9)
+  1. Due date: Nov. 11 **6 pm ET**
+
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
 : 1. Report due date: Dec. 11 **6 pm ET**
