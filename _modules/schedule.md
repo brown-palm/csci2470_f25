@@ -151,6 +151,12 @@ Oct. 28, Tue
   1. [GenAI Declaration](https://forms.gle/EwQGmgH1BrBxFsgZ9)
   1. Due date: Nov. 11 **6 pm ET**
 
+Oct. 30, Thu
+: Autoencoders and Self-supervised Learning
+  : Nate Gillman
+: 1. [Slides]()
+  1. [Recording]()
+
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
 : 1. Report due date: Dec. 11 **6 pm ET**
