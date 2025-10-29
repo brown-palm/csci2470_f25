@@ -154,7 +154,7 @@ Oct. 28, Tue
 Oct. 30, Thu
 : Autoencoders and Self-supervised Learning
   : Nate Gillman
-: 1. [Slides]()
+: 1. [Slides](https://drive.google.com/file/d/12PpXvToTFIFPpi4O-Ckb8gMPRQVcFbRV/view?usp=sharing)
   1. [Recording]()
 
 Dec. 9, Tue
