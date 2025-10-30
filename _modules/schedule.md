@@ -155,7 +155,7 @@ Oct. 30, Thu
 : Autoencoders and Self-supervised Learning
   : Nate Gillman
 : 1. [Slides](https://drive.google.com/file/d/12PpXvToTFIFPpi4O-Ckb8gMPRQVcFbRV/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://drive.google.com/file/d/1Lt35SBuoRJVFEfAYwmxfE7MKPTPnX6F8/view?usp=drive_link)
 
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
