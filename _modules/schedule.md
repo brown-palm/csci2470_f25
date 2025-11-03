@@ -160,7 +160,7 @@ Oct. 30, Thu
 Nov. 4, Tue
 : Variational Autoencoders
   : Nate Gillman
-: 1. [Slides]()
+: 1. [Slides](https://drive.google.com/file/d/11zxyGYC7xfvxBrEJe9kcyxumJ5w-Bk19/view?usp=sharing)
   1. [Recording]()
 
 Nov. 6, Thu
