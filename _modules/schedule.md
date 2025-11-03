@@ -157,6 +157,30 @@ Oct. 30, Thu
 : 1. [Slides](https://drive.google.com/file/d/12PpXvToTFIFPpi4O-Ckb8gMPRQVcFbRV/view?usp=sharing)
   1. [Recording](https://drive.google.com/file/d/1Lt35SBuoRJVFEfAYwmxfE7MKPTPnX6F8/view?usp=drive_link)
 
+Nov. 4, Tue
+: Variational Autoencoders
+  : Nate Gillman
+: 1. [Slides]()
+  1. [Recording]()
+
+Nov. 6, Thu
+: Diffusion Models
+  : Nate Gillman
+: 1. [Slides]()
+  1. [Recording]()
+
+Nov. 11, Tue
+: Video Diffusion Models
+  : Nate Gillman
+: 1. [Slides]()
+  1. [Recording]()
+
+Nov. 13, Thu
+: **INVITED**{: .label .label-blue} Guest Lecture
+  : Zi Wang
+: 1. [Slides]()
+  1. [Recording]()
+
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
 : 1. Report due date: Dec. 11 **6 pm ET**
