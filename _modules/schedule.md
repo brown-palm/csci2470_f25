@@ -161,7 +161,7 @@ Nov. 4, Tue
 : Variational Autoencoders
   : Nate Gillman
 : 1. [Slides](https://drive.google.com/file/d/11zxyGYC7xfvxBrEJe9kcyxumJ5w-Bk19/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://drive.google.com/file/d/15Uv58MRXqxU2niJGcTtkeGhCR75NnX2I/view?usp=drive_link)
 
 Nov. 6, Thu
 : Diffusion Models
@@ -170,8 +170,8 @@ Nov. 6, Thu
   1. [Recording]()
 
 Nov. 11, Tue
-: Video Diffusion Models
-  : Nate Gillman
+: Reinforcement Learning: Overview
+  : Chen Sun
 : 1. [Slides]()
   1. [Recording]()
 
