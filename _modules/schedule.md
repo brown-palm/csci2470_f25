@@ -176,7 +176,7 @@ Nov. 11, Tue
   1. [Recording]()
 
 Nov. 13, Thu
-: **INVITED**{: .label .label-blue} Guest Lecture
+: **INVITED**{: .label .label-blue} A Gentle Introduction to Intelligent Agents: From Classic AI to Modern LLMs
   : Zi Wang
 : 1. [Slides]()
   1. [Recording]()
