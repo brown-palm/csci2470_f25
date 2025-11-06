@@ -167,7 +167,7 @@ Nov. 6, Thu
 : Diffusion Models
   : Nate Gillman
 : 1. [Slides](https://drive.google.com/file/d/1GvQMWhFdzgBnr2BJ2dRpr7mmEQzpwZx5/view?usp=sharing)
-  1. [Recording]()
+  1. [Recording](https://drive.google.com/file/d/1k7W2pFM8ZfZmObcGecZGw08OZq5sG8R-/view?usp=drive_link)
 
 Nov. 11, Tue
 : Reinforcement Learning: Overview
