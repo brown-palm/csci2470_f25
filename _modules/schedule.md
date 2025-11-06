@@ -166,7 +166,7 @@ Nov. 4, Tue
 Nov. 6, Thu
 : Diffusion Models
   : Nate Gillman
-: 1. [Slides]()
+: 1. [Slides](https://drive.google.com/file/d/1GvQMWhFdzgBnr2BJ2dRpr7mmEQzpwZx5/view?usp=sharing)
   1. [Recording]()
 
 Nov. 11, Tue
