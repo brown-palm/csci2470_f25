@@ -169,6 +169,11 @@ Nov. 6, Thu
 : 1. [Slides](https://drive.google.com/file/d/1GvQMWhFdzgBnr2BJ2dRpr7mmEQzpwZx5/view?usp=sharing)
   1. [Recording](https://drive.google.com/file/d/1k7W2pFM8ZfZmObcGecZGw08OZq5sG8R-/view?usp=drive_link)
 
+Nov. 6, Thu
+: **MP1**{: .label .label-purple} Diffusion and Langevin Dynamics
+: 1. [Handout](https://docs.google.com/document/d/19xryk91dD0Ks0_-qnifX0BekSePdqmLJBX3zL7aqREQ/edit?usp=sharing)
+  1. Due date: Nov. 20 **6 pm ET**
+
 Nov. 11, Tue
 : Reinforcement Learning: Overview
   : Chen Sun
