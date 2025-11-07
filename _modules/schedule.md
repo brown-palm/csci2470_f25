@@ -170,7 +170,7 @@ Nov. 6, Thu
   1. [Recording](https://drive.google.com/file/d/1k7W2pFM8ZfZmObcGecZGw08OZq5sG8R-/view?usp=drive_link)
 
 Nov. 6, Thu
-: **MP1**{: .label .label-purple} Diffusion and Langevin Dynamics
+: **MP2**{: .label .label-purple} Diffusion and Langevin Dynamics
 : 1. [Handout](https://docs.google.com/document/d/19xryk91dD0Ks0_-qnifX0BekSePdqmLJBX3zL7aqREQ/edit?usp=sharing)
   1. Due date: Nov. 20 **6 pm ET**
 
@@ -182,7 +182,19 @@ Nov. 11, Tue
 
 Nov. 13, Thu
 : **INVITED**{: .label .label-blue} A Gentle Introduction to Intelligent Agents: From Classic AI to Modern LLMs
-  : Zi Wang
+  : [Zi Wang](https://ziw.mit.edu/)
+: 1. [Slides]()
+  1. [Recording]()
+
+Nov. 18, Tue
+: Diffusion Models: Applications
+  : Nate Gillman
+: 1. [Slides]()
+  1. [Recording]()
+
+Nov. 20, Thu
+: **INVITED**{: .label .label-blue} Invited Talk
+  : [Tianhong Li](https://www.tianhongli.me/)
 : 1. [Slides]()
   1. [Recording]()
 
