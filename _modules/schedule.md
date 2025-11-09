@@ -177,7 +177,7 @@ Nov. 6, Thu
 Nov. 11, Tue
 : Reinforcement Learning: Overview
   : Chen Sun
-: 1. [Slides]()
+: 1. [Slides](https://drive.google.com/file/d/1YX0xZLiMC1KytOHFX43v_NIFJ2Q2SkU8/view?usp=drive_link)
   1. [Recording]()
 
 Nov. 13, Thu
