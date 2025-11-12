@@ -178,7 +178,7 @@ Nov. 11, Tue
 : Reinforcement Learning: Overview
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1YX0xZLiMC1KytOHFX43v_NIFJ2Q2SkU8/view?usp=drive_link)
-  1. [Recording]()
+  1. Recording [Part 1](https://drive.google.com/file/d/1tUjQFykblCkBp5sqJxsKPjFqbDPUMuMN/view?usp=drive_link) / [Part 2](https://drive.google.com/file/d/1UvJXbr881cPku9hOTO2HF4LQa9ad8MaD/view?usp=drive_link)
 
 Nov. 13, Thu
 : **INVITED**{: .label .label-blue} A Gentle Introduction to Intelligent Agents: From Classic AI to Modern LLMs
