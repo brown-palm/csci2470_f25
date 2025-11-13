@@ -183,8 +183,7 @@ Nov. 11, Tue
 Nov. 13, Thu
 : **INVITED**{: .label .label-blue} A Gentle Introduction to Intelligent Agents: From Classic AI to Modern LLMs
   : [Zi Wang](https://ziw.mit.edu/)
-: 1. [Slides]()
-  1. [Recording]()
+: 1. [Recording](https://drive.google.com/file/d/1qDBV6WUf0af_yaGQItkqUtEAEGcmq49k/view?usp=drive_link)
 
 Nov. 18, Tue
 : Diffusion Models: Applications
