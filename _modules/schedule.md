@@ -188,7 +188,7 @@ Nov. 13, Thu
 Nov. 18, Tue
 : Diffusion Models: Applications
   : Nate Gillman
-: 1. [Slides]()
+: 1. [Slides](https://drive.google.com/file/d/1D1aI83881Lll-b3LiYYpcxhVI4-YhfDu/view?usp=drive_link)
   1. [Recording]()
 
 Nov. 20, Thu
