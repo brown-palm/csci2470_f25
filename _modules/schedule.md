@@ -191,6 +191,18 @@ Nov. 18, Tue
 : 1. [Slides](https://drive.google.com/file/d/1D1aI83881Lll-b3LiYYpcxhVI4-YhfDu/view?usp=drive_link)
   1. [Recording](https://drive.google.com/file/d/1-GHOv_wD-A0OQ02WEyrp-JnFGF6h_Pxe/view?usp=drive_link)
 
+Nov. 18, Tue
+: **HW5**{: .label .label-purple} Reinforcement Learning
+: 1. [Handout](https://hackmd.io/GVCBqb1zT32Wr9TV9wm_4w)
+  1. [GenAI Declaration](https://forms.gle/EwQGmgH1BrBxFsgZ9)
+  1. Due date: Dec. 2 **6 pm ET**
+
+Nov. 18, Tue
+: **Final**{: .label .label-purple} Final Project Check-in
+: 1. [Handout](https://hackmd.io/@brown-2470-f25/H1LNeXYYgg)
+  1. [Check-in Form](https://forms.gle/PDqNNYr4ngmM98rb7)
+  1. Due date: Nov. 25 **6 pm ET**
+
 Nov. 20, Thu
 : **INVITED**{: .label .label-blue} Back to Basics: Challenging the Established in Generative Modeling
   : [Tianhong Li](https://www.tianhongli.me/)
