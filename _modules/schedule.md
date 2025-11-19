@@ -196,6 +196,17 @@ Nov. 20, Thu
   : [Tianhong Li](https://www.tianhongli.me/)
 : 1. [Recording]()
 
+Nov. 20, Thu
+: **MP3**{: .label .label-purple} Applications of Diffusion
+: 1. [Handout]()
+  1. Due date: Dec. 4 **6 pm ET**
+
+Nov. 25, Tue
+: Policy Gradients
+  : Chen Sun
+: 1. [Slides]()
+  1. [Recording]()
+
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
 : 1. Report due date: Dec. 11 **6 pm ET**
