@@ -206,7 +206,7 @@ Nov. 18, Tue
 Nov. 20, Thu
 : **INVITED**{: .label .label-blue} Back to Basics: Challenging the Established in Generative Modeling
   : [Tianhong Li](https://www.tianhongli.me/)
-: 1. [Recording]()
+: 1. [Recording](https://drive.google.com/file/d/1RnsDEeCMUC6_Hv1J7jJ5p8wuUeM3ppo2/view?usp=drive_link)
 
 Nov. 20, Thu
 : **MP3**{: .label .label-purple} Applications of Diffusion
