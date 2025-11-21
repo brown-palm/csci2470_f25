@@ -210,7 +210,7 @@ Nov. 20, Thu
 
 Nov. 20, Thu
 : **MP3**{: .label .label-purple} Applications of Diffusion
-: 1. [Handout]()
+: 1. [Handout](https://docs.google.com/document/d/1NiKgKi2TlQwXLI0LAjUHhW7diCK_4MX6zKRjzDbmMiY/edit?usp=sharing)
   1. Due date: Dec. 4 **6 pm ET**
 
 Nov. 25, Tue
