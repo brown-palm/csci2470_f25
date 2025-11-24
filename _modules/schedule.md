@@ -216,7 +216,7 @@ Nov. 20, Thu
 Nov. 25, Tue
 : Policy Gradients
   : Chen Sun
-: 1. [Slides]()
+: 1. [Slides](https://drive.google.com/file/d/16qcef9H9a5q1B1wWJtS4cSSSK0IkpBGf/view?usp=drive_link)
   1. [Recording]()
 
 Dec. 9, Tue
