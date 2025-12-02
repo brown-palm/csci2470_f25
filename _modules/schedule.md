@@ -219,6 +219,18 @@ Nov. 25, Tue
 : 1. [Slides](https://drive.google.com/file/d/16qcef9H9a5q1B1wWJtS4cSSSK0IkpBGf/view?usp=drive_link)
   1. [Recording](https://drive.google.com/file/d/1Vb68byjl62V2AOr8CLZjd0Iz2J_jKuq5/view?usp=drive_link)
 
+Dec. 2, Tue
+: Policy Optimization (Recording)
+  : Calvin Luo
+: 1. [Slides](https://drive.google.com/file/d/1PJPisj5M-9nKD5zx-sYuw-E5Jph1tx42/view?usp=sharing)
+  1. [Recording](https://drive.google.com/file/d/1rX526p-Pj9M2-d9csr-6t_VKVjhSgkKz/view?usp=sharing)
+
+Dec. 4, Thu
+: Student-led Presentations
+  : Chandra, Jerry, Mike, Nadia, Yuqiao
+: 1. [Slides]()
+  1. [Recording]()
+
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
 : 1. Report due date: Dec. 11 **6 pm ET**
