@@ -227,8 +227,8 @@ Dec. 2, Tue
 
 Dec. 4, Thu
 : Student-led Presentations
-  : Chandra, Jerry, Mike, Nadia, Yuqiao
-: 1. [Slides]()
+  : Chandra, Jerry, Mike, Nadia, Ruthwik, Yuqiao
+: 1. [Slides](https://docs.google.com/presentation/d/1-vc4wJgvk87M16QE9-f4CBkk7767d1gePZ6DIAdv6ww/edit?usp=drivesdk)
   1. [Recording]()
 
 Dec. 9, Tue
