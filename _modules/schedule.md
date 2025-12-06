@@ -230,8 +230,11 @@ Dec. 4, Thu
   : Chandra, Jerry, Mike, Nadia, Ruthwik, Yuqiao
 : 1. [Slides 1](https://docs.google.com/presentation/d/1-vc4wJgvk87M16QE9-f4CBkk7767d1gePZ6DIAdv6ww/edit?usp=drivesdk)
   1. [Slides 2](https://drive.google.com/file/d/1-GtB5Xp-Ig_QjovCBAhXrhpPTa70DE4O/view?usp=drive_link)
-  1. [Recording]()
+  1. [Recording](https://drive.google.com/file/d/1xU1ATYfWVYYFA52Lx1Id8JHPEMnkgC8M/view?usp=drive_link)
 
 Dec. 9, Tue
 : **Final**{: .label .label-purple} Deep Learning Day
 : 1. Report due date: Dec. 11 **6 pm ET**
+  1. [Handout](https://hackmd.io/@brown-2470-f25/H1LNeXYYgg)
+  1. [Slides](https://docs.google.com/presentation/d/1zHTj80FoFNSsx53J8MRNW-QUXav0rv4zXMGMOoEadXk/edit?usp=sharing)
+  1. [Submission](https://forms.gle/QQErL62tLBaUoiRz8)
