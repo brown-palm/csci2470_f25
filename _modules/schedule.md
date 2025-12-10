@@ -237,4 +237,5 @@ Dec. 9, Tue
 : 1. Report due date: Dec. 11 **6 pm ET**
   1. [Handout](https://hackmd.io/@brown-2470-f25/H1LNeXYYgg)
   1. [Slides](https://docs.google.com/presentation/d/1zHTj80FoFNSsx53J8MRNW-QUXav0rv4zXMGMOoEadXk/edit?usp=sharing)
+  1. [Recording](https://drive.google.com/file/d/14H5lHWnYea5pAYxaIIBLHCBVJoHKiBUL/view?usp=drive_link)
   1. [Submission](https://forms.gle/QQErL62tLBaUoiRz8)
